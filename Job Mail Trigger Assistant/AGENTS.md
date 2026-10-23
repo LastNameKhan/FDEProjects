@@ -1,7 +1,8 @@
 # Gmail Job Application Draft Agent
 
-Run this workflow when the user provides a job description for an application.
-Use the connected Gmail plugin/MCP tools in the assistant session. This project
+Run this workflow when the user provides a job description and an explicit
+application email, either in the posting or separately in the same request.
+Use connected Google Drive/Docs and Gmail plugin/MCP tools. This project
 is an assistant workflow, not a standalone Gmail client.
 
 ## Non-negotiable boundary
@@ -31,7 +32,9 @@ below. Clarify genuinely ambiguous recipients. Deduplicate repeated postings and
 check existing drafts before recreating the same application. Exclude posts by
 job seekers advertising their own availability; their contact is not a recruiter.
 
-Read the current resume once per batch and use that same PDF for every draft.
+Read the current Google Docs resume and capture a factual baseline once per
+batch. Tailor and export a separate PDF for EACH posting, sequentially, using
+that baseline to avoid carrying one job's emphasis into the next application.
 Create one independently tailored plain-text draft per posting and attach the
 resume to each. Process creations sequentially, track each confirmed draft and
 message ID, and verify each separately. Continue other items after a definite
@@ -47,16 +50,19 @@ to hours or compensation. Use verified resume facts only.
 
 ### Per-posting workflow
 
-Job Description -> Email Validation -> Resume Matching -> Email Drafting ->
+Job Description + Explicit Email -> Email Validation -> Resume Matching ->
+Scoped Google Docs Resume Tailoring -> Verified PDF Export -> Email Drafting ->
 Optional PDF Attachment -> Gmail Drafts -> Manual Human Review.
 
 1. Validate the job description BEFORE reading the resume, generating a subject
    or body, or invoking Gmail. Extract only explicitly written recruiter or
-   application email addresses from the job description. Never search for,
+   application email addresses from the job description or the user's explicitly
+   provided recipient for that posting. Never search for,
    infer, repair, or invent an address. Do not use the resume's contact email
    as the recipient. Reject header injection, control characters and malformed
    addresses. Syntactic validation does not prove mailbox deliverability.
-   If no recruiter email address is explicitly mentioned, return ONLY:
+   If no recruiter email is explicitly mentioned or separately supplied by the
+   user for that posting, return ONLY:
 
    Recruiter email address is not mentioned or provided in the job description.
 
@@ -65,11 +71,13 @@ Optional PDF Attachment -> Gmail Drafts -> Manual Human Review.
    create nothing. Never choose a privacy/support address just because it occurs
    in the posting. Use one clearly identified recruiter/application recipient.
 
-2. Read `Resume/Aman-Resume.pdf` using available PDF extraction tools. Read it
-   afresh for each request (once for a batch) so updates are respected. If missing, unreadable,
-   encrypted, or extraction is ambiguous, stop and explain the issue. Use OCR
-   or page inspection when needed; never fill gaps from memory or assumptions.
-   Do not persist extracted personal data unless the user asks.
+2. Read the live native Google Docs resume on each request:
+   https://docs.google.com/document/d/1XYJ5nUQUbSPwiXhTmgRLVMCi5-64Cwyu0qygmwlalv8/edit?tab=t.0
+   Document ID: `1XYJ5nUQUbSPwiXhTmgRLVMCi5-64Cwyu0qygmwlalv8`; tab: `t.0`.
+   Use the Google Drive and Google Docs skills. Inspect the document's actual
+   structure, revision, text and formatting; never reuse stale indexes. The live
+   document is the tailoring source. `Resume/Aman-Resume.pdf` is a reference,
+   not the attachment fallback. If access fails, stop and explain the issue.
 
 3. Match required skills against specific resume evidence. Use only verified
    experience, skills, employment, dates, qualifications and accomplishments.
@@ -77,6 +85,59 @@ Optional PDF Attachment -> Gmail Drafts -> Manual Human Review.
    experience. Never infer years of experience or claim unsupported technology
    knowledge. Prioritize supported posting requirements; omit unsupported claims.
    Do not claim every requirement is met when it is not.
+
+   Tailoring must do more than paraphrase: identify the JD's supported priorities
+   and make the relevant existing bullet describe the matching technology,
+   responsibility and verified outcome explicitly. Keep a requirement-to-evidence
+   mapping during preparation. Do not force unrelated bullets to change. Report
+   concrete matches and material gaps, including experience or location limits.
+
+   BEFORE email drafting, tailor the linked Google Doc in place for this JD.
+   The user's standing authorization permits ONLY:
+   - Rewording EXISTING experience bullet points under Bounteous, RWS Group,
+     and XBREYINS (XBreyins), emphasizing verified responsibilities relevant
+     to the posting. Preserve the bullet count, structure and employer context.
+   - Appending relevant, verified missing skill names to Technical Skills.
+     Preserve every existing skill, spelling, order, punctuation and formatting;
+     use the same comma-separated style and inherited text style. Do not remove,
+     rename, reorder, regroup or otherwise rewrite that section. Avoid duplicate
+     skills or equivalent aliases already represented.
+
+   Do not edit ANY other content: name/contact links, executive summary,
+   functional expertise, headings, employer descriptions, role summaries/titles,
+   dates, education, other employers, or overall styles/layout. Do not add bullets.
+   Do not invent technologies, metrics, achievements, employers or experience
+   to match keywords. A JD is not evidence the user has a skill. If a relevant
+   missing skill is supported elsewhere in the resume, it may be appended;
+   otherwise ask the user to confirm actual knowledge before adding it. Never
+   assign a skill to a specific employer without evidence of using it there.
+
+   Use scoped Google Docs edits with the observed tab ID, UTF-16 ranges and
+   revision guards. Preserve existing bullet markers, label emphasis, font,
+   color, size, links and paragraph styles. Keep replacement text concise so
+   it fits the original layout. Read back once after the planned changes and
+   compare with the pre-edit baseline: only permitted bullets may differ and
+   Technical Skills must be unchanged except for appended verified skills.
+   Reconcile conflicts or uncertain writes before continuing. Do not silently
+   undo user edits or rebuild the document.
+
+   Export the verified current native Google Doc as application/pdf using
+   authenticated Google Drive export tools (read metadata first). Materialize
+   the returned authenticated file reference; do not treat a URI as PDF bytes.
+   Save a distinct snapshot under `Resume/tailored/` using a safe company-role
+   filename plus a unique request identifier. Preserve the original local PDF.
+   Inspect the exported PDF for correct text, complete pages and layout before
+   attaching; follow the PDF skill for rendering and visual checks. If overflow
+   occurs, shorten only permitted bullet edits; do not alter global formatting.
+   If edit verification, export, download or PDF validation fails, stop that
+   application and explain why. Never silently attach an old or another job's PDF.
+   If no truthful changes are needed, export the verified current version and
+   accurately report that no resume changes were necessary.
+
+   In a batch, finish tailoring, export and draft creation for one posting before
+   editing for the next. Each draft uses its own immutable PDF snapshot. The
+   linked Google Doc remains at the last successfully tailored version. Later
+   edits must not replace attachments in already created drafts.
 
 4. Write a concise, professional, natural application with an appropriate
    subject, greeting, relevant evidence, interest in the role, and closing using
@@ -91,9 +152,10 @@ Optional PDF Attachment -> Gmail Drafts -> Manual Human Review.
 
    For a PDF attachment, use a `multipart/mixed` payload containing:
    - `text/plain`, charset `utf-8`, body.content = the email text;
-   - `application/pdf`, filename = the saved PDF's basename,
+   - `application/pdf`, filename = the tailored PDF snapshot's basename,
      content_disposition = `attachment`, body.base64_url_content = base64url
-     encoding of the actual saved PDF bytes (not its path or extracted text).
+     encoding of this posting's verified tailored PDF snapshot bytes (not its
+     path, a Drive URI, the original resume, or extracted text).
 
    Without attachment support, use a `text/plain` payload with body.content.
    Set `to` to the validated address and `subject` to the generated subject.
@@ -119,6 +181,9 @@ Optional PDF Attachment -> Gmail Drafts -> Manual Human Review.
    Subject: <subject>
    Draft status: Saved (draft ID: <confirmed ID>)
    Resume attachment status: Attached / Not attached / Unverified, with reason
+
+   Also report the tailored PDF path and briefly state the permitted sections
+   changed and any unsupported skills omitted or awaiting confirmation.
 
    If attachments are unsupported and the draft was saved without one, include
    exactly:

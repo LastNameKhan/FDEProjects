@@ -1,5 +1,6 @@
 import json
 import io
+from datetime import datetime, timedelta, timezone
 
 import pytest
 
@@ -28,7 +29,9 @@ def test_success(capsys):
         assert case["case_id"] == "C1"
         assert "P1." in policy
         return demo()
-    assert app.run("C1", model_fn=fake) == demo()
+    now = datetime(2026, 10, 23, tzinfo=timezone.utc)
+    assert app.run("C1", model_fn=fake, now=now) == app.delivery_result(
+        json.loads((app.BASE_DIR / "cases.json").read_text())["C1"], now)
     out = capsys.readouterr().out
     for heading in ("SUPPLIED FACTS", "SUPPLIED POLICY", "DRAFT RESULT FOR HUMAN REVIEW"):
         assert heading in out
@@ -144,3 +147,40 @@ def test_project_files():
         assert (app.BASE_DIR / name).is_file()
     pins = (app.BASE_DIR / "requirements.txt").read_text().splitlines()
     assert {"anthropic==1.5.0", "python-dotenv==1.2.3", "pytest==9.1.1"} <= set(pins)
+
+
+@pytest.mark.parametrize("hours, status", [(0, "READY_FOR_HUMAN_REVIEW"),
+    (59.999, "READY_FOR_HUMAN_REVIEW"), (60, "BLOCKED"), (61, "BLOCKED"),
+    (-1, "NEEDS_INFORMATION")])
+def test_refund_window_boundary(hours, status):
+    delivery = datetime(2026, 9, 15, tzinfo=timezone.utc)
+    case = {"delivery_date": "2026-09-15", "issue_status": "open"}
+    result = app.delivery_result(case, delivery + timedelta(hours=hours))
+    assert result["review_status"] == status
+    assert "issue remains open" in result["draft_reply"]
+    if status != "NEEDS_INFORMATION":
+        assert result["missing_information"] == []
+    if status == "READY_FOR_HUMAN_REVIEW":
+        assert "refund has not been approved" in result["draft_reply"]
+
+
+@pytest.mark.parametrize("value", [None, "", "yesterday", "2026-02-30", 42])
+def test_missing_or_invalid_delivery(value):
+    result = app.delivery_result({"delivery_date": value}, datetime(2026, 10, 23, tzinfo=timezone.utc))
+    assert result["review_status"] == "NEEDS_INFORMATION"
+    assert result["missing_information"] == ["delivery_date"]
+
+
+def test_model_cannot_override_supplied_delivery():
+    contradictory = {"draft_reply": "Refund approved. Please supply delivery_date.",
+                     "evidence_refs": ["P1"], "missing_information": ["delivery_date"],
+                     "review_status": "NEEDS_INFORMATION"}
+    def fake(case, policy):
+        assert case["refund_assessment"]["review_status"] == "BLOCKED"
+        assert case["checked_at"] == "2026-10-23T00:00:00+00:00"
+        return contradictory
+    result = app.run("C1", model_fn=fake, now=datetime(2026, 10, 23, tzinfo=timezone.utc))
+    assert result["review_status"] == "BLOCKED"
+    assert result["missing_information"] == []
+    assert "no refund is available" in result["draft_reply"]
+    assert "2026-09-15" in result["draft_reply"]

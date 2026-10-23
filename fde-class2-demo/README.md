@@ -66,9 +66,19 @@ names), and `review_status` (`READY_FOR_HUMAN_REVIEW`, `NEEDS_INFORMATION`, or
 `BLOCKED`). `UNAVAILABLE` is a local failure state, never an accepted model status.
 Correct structure and known policy references do not prove correct content.
 A human must verify facts, policy applicability, and wording before acting.
-C1 uses the supplied reporting context of "yesterday", not the machine date.
-C3's synthetic `BLOCKED` means the requested resolution confirmation conflicts
-with the open issue record.
+Refund eligibility is calculated in Python using `delivery_date` and the current
+machine time, never relative customer wording such as "yesterday". Fewer than
+60 elapsed hours means `READY_FOR_HUMAN_REVIEW`; exactly 60 hours or more means
+`BLOCKED` with no refund available under P1. Missing, invalid, or future dates
+mean `NEEDS_INFORMATION`. Date-only delivery values are treated as midnight in
+the machine's local timezone because a delivery time is not provided.
+
+The model receives the calculated assessment. After model output passes
+validation, the final draft uses standard policy wording calculated by the app,
+so the model cannot change eligibility or ask for an already supplied valid date.
+Provider errors still produce `UNAVAILABLE`. No refund is automatically approved.
+Offline demos are fixed synthetic snapshots at `recorded_at` in
+`demo_outputs.json`; they do not recalculate using today's date.
 
 ## Dependencies and verification
 
@@ -80,6 +90,6 @@ command above uses the available versions used for verification in the existing
 Python 3.9.6 virtual environment: `python-dotenv==1.2.1` and `pytest==8.4.2`.
 The full original pinned set has not been tested.
 
-Ollama was not installed on the command path during verification. Local model
-inference has not been verified; tests exercise mocked HTTP responses, validation,
-configuration, offline output, and failure handling.
+Ollama and `llama3.2:3b` were subsequently installed and live cases were run.
+Tests use mocked HTTP responses and also cover the 60-hour boundary, invalid
+dates, and model output that contradicts the calculated refund assessment.

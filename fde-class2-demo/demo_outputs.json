@@ -2,22 +2,40 @@
   "label": "PRERECORDED SYNTHETIC RESULTS",
   "results": {
     "C1": {
-      "draft_reply": "I'm sorry the jacket arrived with a broken zip. Based on your report that it arrived yesterday, the damage can be referred for human return review. This is not a refund approval; your issue remains open.",
-      "evidence_refs": ["P1", "P3", "P4"],
+      "draft_reply": "Your delivery_date is 2026-09-15, at least 60 hours before the current check. Under P1, no refund is available under the 60-hour policy. Your issue remains open.",
+      "evidence_refs": [
+        "P1",
+        "P2",
+        "P4",
+        "P3"
+      ],
       "missing_information": [],
-      "review_status": "READY_FOR_HUMAN_REVIEW"
+      "review_status": "BLOCKED"
     },
     "C2": {
-      "draft_reply": "I'm sorry about the broken zip. Please provide the delivery date so a human reviewer can assess the two-day damage reporting rule. Your issue remains open and no refund has been approved.",
-      "evidence_refs": ["P1", "P2", "P3", "P4"],
-      "missing_information": ["delivery_date"],
+      "draft_reply": "Please provide the delivery_date so we can assess the 60-hour refund review window. Your issue remains open.",
+      "evidence_refs": [
+        "P1",
+        "P2",
+        "P4",
+        "P3"
+      ],
+      "missing_information": [
+        "delivery_date"
+      ],
       "review_status": "NEEDS_INFORMATION"
     },
     "C3": {
-      "draft_reply": "Your issue remains open and the replacement request is still under review. I cannot confirm that it is resolved.",
-      "evidence_refs": ["P3", "P4"],
+      "draft_reply": "Your delivery_date is 2026-09-10, at least 60 hours before the current check. Under P1, no refund is available under the 60-hour policy. Your issue remains open.",
+      "evidence_refs": [
+        "P1",
+        "P2",
+        "P4",
+        "P3"
+      ],
       "missing_information": [],
       "review_status": "BLOCKED"
     }
-  }
+  },
+  "recorded_at": "2026-10-23T00:00:00+00:00"
 }
