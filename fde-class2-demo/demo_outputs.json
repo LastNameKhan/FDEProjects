@@ -2,7 +2,7 @@
   "label": "PRERECORDED SYNTHETIC RESULTS",
   "results": {
     "C1": {
-      "draft_reply": "Your delivery_date is 2026-09-15, at least 60 hours before the current check. Under P1, no refund is available under the 60-hour policy. Your issue remains open.",
+      "draft_reply": "Your delivery_date is 2026-09-15, more than 78 hours before the current check. Under P1, the draft recommendation is to reject the refund request because it is outside the 78-hour policy window. Your issue remains open.",
       "evidence_refs": [
         "P1",
         "P2",
@@ -13,7 +13,7 @@
       "review_status": "BLOCKED"
     },
     "C2": {
-      "draft_reply": "Please provide the delivery_date so we can assess the 60-hour refund review window. Your issue remains open.",
+      "draft_reply": "Please provide delivery_date to assess the 78-hour refund review window. Your issue remains open.",
       "evidence_refs": [
         "P1",
         "P2",
@@ -26,7 +26,7 @@
       "review_status": "NEEDS_INFORMATION"
     },
     "C3": {
-      "draft_reply": "Your delivery_date is 2026-09-10, at least 60 hours before the current check. Under P1, no refund is available under the 60-hour policy. Your issue remains open.",
+      "draft_reply": "Your delivery_date is 2026-09-10, more than 78 hours before the current check. Under P1, the draft recommendation is to reject the refund request because it is outside the 78-hour policy window. Your issue remains open.",
       "evidence_refs": [
         "P1",
         "P2",
@@ -37,5 +37,5 @@
       "review_status": "BLOCKED"
     }
   },
-  "recorded_at": "2026-10-23T00:00:00+00:00"
+  "recorded_at": "2026-10-25T00:00:00+00:00"
 }

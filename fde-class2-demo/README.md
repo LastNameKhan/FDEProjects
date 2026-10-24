@@ -66,19 +66,20 @@ names), and `review_status` (`READY_FOR_HUMAN_REVIEW`, `NEEDS_INFORMATION`, or
 `BLOCKED`). `UNAVAILABLE` is a local failure state, never an accepted model status.
 Correct structure and known policy references do not prove correct content.
 A human must verify facts, policy applicability, and wording before acting.
-Refund eligibility is calculated in Python using `delivery_date` and the current
-machine time, never relative customer wording such as "yesterday". Fewer than
-60 elapsed hours means `READY_FOR_HUMAN_REVIEW`; exactly 60 hours or more means
-`BLOCKED` with no refund available under P1. Missing, invalid, or future dates
-mean `NEEDS_INFORMATION`. Date-only delivery values are treated as midnight in
-the machine's local timezone because a delivery time is not provided.
+The app calculates the current timestamp in Python and checks `delivery_date`.
+Delivery between zero and 78 hours ago (inclusive) is eligible for human refund
+review (`READY_FOR_HUMAN_REVIEW`). More than 78 hours produces a recommendation
+to reject the refund under P1 (`BLOCKED`). Missing, invalid, or future dates need
+clarification (`NEEDS_INFORMATION`). Date-only values mean midnight in the
+machine's local timezone. Full ISO timestamps must include a timezone.
 
-The model receives the calculated assessment. After model output passes
-validation, the final draft uses standard policy wording calculated by the app,
-so the model cannot change eligibility or ask for an already supplied valid date.
-Provider errors still produce `UNAVAILABLE`. No refund is automatically approved.
-Offline demos are fixed synthetic snapshots at `recorded_at` in
-`demo_outputs.json`; they do not recalculate using today's date.
+The timestamp and computed refund assessment are supplied to Ollama. After
+validating the model response, the final draft uses the application's standard
+policy wording so model errors cannot reverse eligibility or request an already
+supplied valid date. The timestamp used is printed for human review. Provider
+errors still produce `UNAVAILABLE`. No refund is automatically approved or
+rejected in any external system; these are draft recommendations only.
+Offline demos are fixed synthetic snapshots at `recorded_at`, not live date checks.
 
 ## Dependencies and verification
 
@@ -91,5 +92,6 @@ Python 3.9.6 virtual environment: `python-dotenv==1.2.1` and `pytest==8.4.2`.
 The full original pinned set has not been tested.
 
 Ollama and `llama3.2:3b` were subsequently installed and live cases were run.
-Tests use mocked HTTP responses and also cover the 60-hour boundary, invalid
-dates, and model output that contradicts the calculated refund assessment.
+Tests use mocked HTTP responses and cover the inclusive 78-hour boundary,
+local-midnight date handling, timezone offsets, invalid dates, and contradictory
+model output.
