@@ -3,6 +3,13 @@
 A minimal reusable assistant workflow that creates personalized Gmail drafts
 from a pasted job description and your Google Docs resume. All sending is manual.
 
+## Outreach contacts
+
+Use `emails.txt` as the single active contact list (one email per line).
+New batches are appended and deduplicated. `outreach-exclusions.json` records
+unreachable addresses and prevents future reimports unless explicitly reinstated.
+The dated startup-outreach files preserve historical draft results only.
+
 ## Use
 
 1. Open this project in your assistant with the Gmail plugin connected.
