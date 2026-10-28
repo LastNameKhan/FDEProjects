@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-26",
+  "updated": "2026-10-27",
   "reason": "User reported these addresses unreachable. Exclude from future outreach unless explicitly reinstated.",
   "emails": [
     "careers@kanha.ai",
@@ -25,6 +25,74 @@
     "hello@surebright.com",
     "hiring@clinikally.com",
     "founders@freyavoice.ai",
-    "hello@freyavoice.ai"
+    "hello@freyavoice.ai",
+    "careers@olakrutrim.com",
+    "careers@madstreetden.com",
+    "support@getpostman.com",
+    "careers@groww.in",
+    "hiring@browserstack.com",
+    "careers@jupiter.money",
+    "careers@upgrad.com",
+    "careers@pocketfm.com",
+    "careers@m2pfintech.com",
+    "careers@nobroker.in",
+    "careers@magicbricks.com",
+    "careers@khatabook.com",
+    "careers@honasa.in",
+    "support@fi.money",
+    "careers@lambdatest.com",
+    "careers@pixis.ai",
+    "careers@eruditus.com",
+    "gm@buidlguidl.com",
+    "hr@exicom.in",
+    "careers@agrevolution.in",
+    "careers@prozo.com",
+    "careers@loadshare.net",
+    "careers@boxnbiz.com",
+    "careers@wareiq.com",
+    "careers@atherenergy.com",
+    "careers@colive.com",
+    "careers@stanzaliving.com"
+  ],
+  "reports": [
+    {
+      "reported": "2026-10-27",
+      "source": "User report",
+      "emails": [
+        "careers@olakrutrim.com",
+        "careers@madstreetden.com",
+        "support@getpostman.com",
+        "careers@groww.in",
+        "hiring@browserstack.com",
+        "careers@jupiter.money",
+        "careers@upgrad.com",
+        "careers@pocketfm.com",
+        "careers@m2pfintech.com",
+        "careers@nobroker.in",
+        "careers@magicbricks.com",
+        "careers@khatabook.com",
+        "careers@honasa.in",
+        "support@fi.money",
+        "careers@lambdatest.com",
+        "careers@pixis.ai",
+        "careers@eruditus.com",
+        "gm@buidlguidl.com",
+        "hr@exicom.in",
+        "careers@agrevolution.in",
+        "careers@prozo.com",
+        "careers@loadshare.net",
+        "careers@boxnbiz.com",
+        "careers@wareiq.com",
+        "careers@atherenergy.com",
+        "careers@colive.com",
+        "careers@stanzaliving.com"
+      ],
+      "reason": "Unsuccessful delivery: recipient not found, nonexistent account, inactive mailbox, or invalid recipient. Do not retry the identical addresses without corrected contact information.",
+      "exceptions": {
+        "careers@pocketfm.com": "Reported inactive mailbox",
+        "careers@eruditus.com": "Explicit invalid-recipient rejection"
+      },
+      "smtp_note": "Most, not necessarily all, returned 550 5.1.1 or equivalent."
+    }
   ]
 }

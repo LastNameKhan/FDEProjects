@@ -1,0 +1,5344 @@
+{
+  "schema_version": 1,
+  "updated": "2026-10-27",
+  "active_email_file": "emails.txt",
+  "suppression_file": "outreach-exclusions.json",
+  "notes": [
+    "emails.txt remains the single email-only master. This file supplies metadata and review flags.",
+    "Company research does not verify mailbox delivery or an active engineering vacancy.",
+    "Prior-batch contacts retain their metadata; null categories await classification rather than guessed labels.",
+    "Held contacts remain listed for review but are not eligible for this outreach batch."
+  ],
+  "categories": [
+    "AI & Automation",
+    "Advertising & Marketing Technology",
+    "AgriTech & Food Supply",
+    "Consumer Brands & E-Commerce",
+    "Consumer Services",
+    "Consumer Technology",
+    "Content & Media",
+    "Data Centers & Infrastructure",
+    "Developer Tools & Infrastructure",
+    "EV & Clean Energy",
+    "EdTech & Learning",
+    "Enterprise SaaS",
+    "FinTech & Banking",
+    "HealthTech & Digital Healthcare",
+    "Industrial Technology & Automation",
+    "Logistics & Supply Chain",
+    "Mobility & Transportation",
+    "PropTech & Housing",
+    "Public Sector & Innovation",
+    "Quick Commerce & Delivery",
+    "Recruitment & Staffing",
+    "Software Engineering & Consulting",
+    "Telecommunications & Connectivity",
+    "Web3 & Blockchain"
+  ],
+  "contacts": [
+    {
+      "email": "founders@re-tell.ai",
+      "company": "Retell AI",
+      "category": null,
+      "category_status": "prior_batch_classification_pending",
+      "websites": [
+        "https://www.retellai.com/careers"
+      ],
+      "focus": "voice AI agents and the interfaces used to configure and monitor them",
+      "contact_type": "founder",
+      "source": "https://www.retellai.com/careers",
+      "email_verification": "historical_user_provided_unverified",
+      "research_checked": "2026-10-26",
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true
+    },
+    {
+      "email": "founders@asha.health",
+      "company": "Asha Health",
+      "category": null,
+      "category_status": "prior_batch_classification_pending",
+      "websites": [
+        "https://www.asha.health/"
+      ],
+      "focus": null,
+      "contact_type": "founder",
+      "source": "https://www.asha.health/",
+      "email_verification": "historical_user_provided_unverified",
+      "research_checked": null,
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true
+    },
+    {
+      "email": "akkshay@asha.health",
+      "company": "Asha Health",
+      "category": null,
+      "category_status": "prior_batch_classification_pending",
+      "websites": [
+        "https://www.asha.health/"
+      ],
+      "focus": null,
+      "contact_type": "general",
+      "source": "https://www.asha.health/",
+      "email_verification": "historical_user_provided_unverified",
+      "research_checked": null,
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true
+    },
+    {
+      "email": "gokul@asha.health",
+      "company": "Asha Health",
+      "category": null,
+      "category_status": "prior_batch_classification_pending",
+      "websites": [
+        "https://www.asha.health/"
+      ],
+      "focus": null,
+      "contact_type": "general",
+      "source": "https://www.asha.health/",
+      "email_verification": "historical_user_provided_unverified",
+      "research_checked": null,
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true
+    },
+    {
+      "email": "info@peakflo.co",
+      "company": "Peakflo",
+      "category": null,
+      "category_status": "prior_batch_classification_pending",
+      "websites": [
+        "https://peakflo.co/"
+      ],
+      "focus": null,
+      "contact_type": "general",
+      "source": "https://peakflo.co/",
+      "email_verification": "historical_user_provided_unverified",
+      "research_checked": null,
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true
+    },
+    {
+      "email": "support@emergent.sh",
+      "company": "Emergent",
+      "category": null,
+      "category_status": "prior_batch_classification_pending",
+      "websites": [
+        "https://emergent.sh/about-us"
+      ],
+      "focus": null,
+      "contact_type": "support",
+      "source": "https://emergent.sh/about-us",
+      "email_verification": "historical_user_provided_unverified",
+      "research_checked": null,
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true
+    },
+    {
+      "email": "support@codingal.com",
+      "company": "Codingal",
+      "category": null,
+      "category_status": "prior_batch_classification_pending",
+      "websites": [
+        "https://www.codingal.com/"
+      ],
+      "focus": null,
+      "contact_type": "support",
+      "source": "https://www.codingal.com/",
+      "email_verification": "historical_user_provided_unverified",
+      "research_checked": null,
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true
+    },
+    {
+      "email": "founders@flick.art",
+      "company": "Flick",
+      "category": null,
+      "category_status": "prior_batch_classification_pending",
+      "websites": [
+        "https://flick.art/"
+      ],
+      "focus": null,
+      "contact_type": "founder",
+      "source": "https://flick.art/",
+      "email_verification": "historical_user_provided_unverified",
+      "research_checked": null,
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true
+    },
+    {
+      "email": "hello@gojiberry.ai",
+      "company": "Gojiberry AI",
+      "category": null,
+      "category_status": "prior_batch_classification_pending",
+      "websites": [
+        "https://www.ycombinator.com/companies/gojiberry-ai"
+      ],
+      "focus": null,
+      "contact_type": "general",
+      "source": "https://www.ycombinator.com/companies/gojiberry-ai",
+      "email_verification": "historical_user_provided_unverified",
+      "research_checked": null,
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true
+    },
+    {
+      "email": "jiehua.wu@comena.ai",
+      "company": "Comena",
+      "category": null,
+      "category_status": "prior_batch_classification_pending",
+      "websites": [
+        "https://comena.ai/"
+      ],
+      "focus": null,
+      "contact_type": "general",
+      "source": "https://comena.ai/",
+      "email_verification": "historical_user_provided_unverified",
+      "research_checked": null,
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true
+    },
+    {
+      "email": "contact@lamb-labs.com",
+      "company": "Lamb Labs",
+      "category": null,
+      "category_status": "prior_batch_classification_pending",
+      "websites": [
+        "https://lamb-labs.com/"
+      ],
+      "focus": null,
+      "contact_type": "general",
+      "source": "https://lamb-labs.com/",
+      "email_verification": "historical_user_provided_unverified",
+      "research_checked": null,
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true
+    },
+    {
+      "email": "contact@zeit-ai.com",
+      "company": "Zeit AI",
+      "category": null,
+      "category_status": "prior_batch_classification_pending",
+      "websites": [
+        "https://www.zeit-ai.com/"
+      ],
+      "focus": null,
+      "contact_type": "general",
+      "source": "https://www.zeit-ai.com/",
+      "email_verification": "historical_user_provided_unverified",
+      "research_checked": null,
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true
+    },
+    {
+      "email": "mathieu@getcoach.com",
+      "company": "COACH",
+      "category": null,
+      "category_status": "prior_batch_classification_pending",
+      "websites": [
+        "https://www.ycombinator.com/companies/ai-coach"
+      ],
+      "focus": null,
+      "contact_type": "general",
+      "source": "https://www.ycombinator.com/companies/ai-coach",
+      "email_verification": "historical_user_provided_unverified",
+      "research_checked": null,
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true
+    },
+    {
+      "email": "info@axross.co",
+      "company": "Axross",
+      "category": null,
+      "category_status": "prior_batch_classification_pending",
+      "websites": [
+        "https://www.axross.co/"
+      ],
+      "focus": null,
+      "contact_type": "general",
+      "source": "https://www.axross.co/",
+      "email_verification": "historical_user_provided_unverified",
+      "research_checked": null,
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true
+    },
+    {
+      "email": "founders@hud.ai",
+      "company": "HUD",
+      "category": null,
+      "category_status": "prior_batch_classification_pending",
+      "websites": [
+        "https://www.hud.ai/"
+      ],
+      "focus": null,
+      "contact_type": "founder",
+      "source": "https://www.hud.ai/",
+      "email_verification": "historical_user_provided_unverified",
+      "research_checked": null,
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true
+    },
+    {
+      "email": "contact@ooakdata.com",
+      "company": "Ooak Data",
+      "category": null,
+      "category_status": "prior_batch_classification_pending",
+      "websites": [
+        "https://ooakdata.com/"
+      ],
+      "focus": null,
+      "contact_type": "general",
+      "source": "https://ooakdata.com/",
+      "email_verification": "historical_user_provided_unverified",
+      "research_checked": null,
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true
+    },
+    {
+      "email": "contact@kombo.dev",
+      "company": "Kombo",
+      "category": null,
+      "category_status": "prior_batch_classification_pending",
+      "websites": [
+        "https://www.kombo.dev/"
+      ],
+      "focus": null,
+      "contact_type": "general",
+      "source": "https://www.kombo.dev/",
+      "email_verification": "historical_user_provided_unverified",
+      "research_checked": null,
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true
+    },
+    {
+      "email": "hello@ziphq.com",
+      "company": "Zip",
+      "category": null,
+      "category_status": "prior_batch_classification_pending",
+      "websites": [
+        "https://www.ycombinator.com/companies/zip"
+      ],
+      "focus": null,
+      "contact_type": "general",
+      "source": "https://www.ycombinator.com/companies/zip",
+      "email_verification": "historical_user_provided_unverified",
+      "research_checked": null,
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true
+    },
+    {
+      "email": "contato@zippi.com.br",
+      "company": "Zippi",
+      "category": null,
+      "category_status": "prior_batch_classification_pending",
+      "websites": [
+        "https://zippi.com.br/"
+      ],
+      "focus": null,
+      "contact_type": "general",
+      "source": "https://zippi.com.br/",
+      "email_verification": "historical_user_provided_unverified",
+      "research_checked": null,
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true
+    },
+    {
+      "email": "hamze@heytenor.com",
+      "company": "Tenor",
+      "category": null,
+      "category_status": "prior_batch_classification_pending",
+      "websites": [
+        "https://heytenor.com/"
+      ],
+      "focus": null,
+      "contact_type": "general",
+      "source": "https://heytenor.com/",
+      "email_verification": "historical_user_provided_unverified",
+      "research_checked": null,
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true
+    },
+    {
+      "email": "info@bolto.com",
+      "company": "Bolto",
+      "category": null,
+      "category_status": "prior_batch_classification_pending",
+      "websites": [
+        "https://www.bolto.com/"
+      ],
+      "focus": null,
+      "contact_type": "general",
+      "source": "https://www.bolto.com/",
+      "email_verification": "historical_user_provided_unverified",
+      "research_checked": null,
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true
+    },
+    {
+      "email": "contact@aurelian.com",
+      "company": "Aurelian",
+      "category": null,
+      "category_status": "prior_batch_classification_pending",
+      "websites": [
+        "https://www.aurelian.com/"
+      ],
+      "focus": null,
+      "contact_type": "general",
+      "source": "https://www.aurelian.com/",
+      "email_verification": "historical_user_provided_unverified",
+      "research_checked": null,
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true
+    },
+    {
+      "email": "anandchaturvedi9@gmail.com",
+      "company": "dili",
+      "category": null,
+      "category_status": "prior_batch_classification_pending",
+      "websites": [
+        "https://www.ycombinator.com/companies/dili"
+      ],
+      "focus": null,
+      "contact_type": "general",
+      "source": "https://www.ycombinator.com/companies/dili",
+      "email_verification": "historical_user_provided_unverified",
+      "research_checked": null,
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true
+    },
+    {
+      "email": "engineering@trybree.com",
+      "company": "Bree",
+      "category": null,
+      "category_status": "prior_batch_classification_pending",
+      "websites": [
+        "https://www.trybree.com/"
+      ],
+      "focus": null,
+      "contact_type": "recruiting",
+      "source": "https://www.trybree.com/",
+      "email_verification": "historical_user_provided_unverified",
+      "research_checked": null,
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true
+    },
+    {
+      "email": "hello@corgi.insure",
+      "company": "Corgi Insurance",
+      "category": null,
+      "category_status": "prior_batch_classification_pending",
+      "websites": [
+        "https://www.corgi.insure/"
+      ],
+      "focus": null,
+      "contact_type": "general",
+      "source": "https://www.corgi.insure/",
+      "email_verification": "historical_user_provided_unverified",
+      "research_checked": null,
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true
+    },
+    {
+      "email": "hello@getsolum.com",
+      "company": "Solum Health",
+      "category": null,
+      "category_status": "prior_batch_classification_pending",
+      "websites": [
+        "https://getsolum.com/"
+      ],
+      "focus": null,
+      "contact_type": "general",
+      "source": "https://getsolum.com/",
+      "email_verification": "historical_user_provided_unverified",
+      "research_checked": null,
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true
+    },
+    {
+      "email": "hello@siphox.health",
+      "company": "SiPhox Health",
+      "category": null,
+      "category_status": "prior_batch_classification_pending",
+      "websites": [
+        "https://siphoxhealth.com/"
+      ],
+      "focus": null,
+      "contact_type": "general",
+      "source": "https://siphoxhealth.com/",
+      "email_verification": "historical_user_provided_unverified",
+      "research_checked": null,
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true
+    },
+    {
+      "email": "founders@getgale.app",
+      "company": "Gale",
+      "category": null,
+      "category_status": "prior_batch_classification_pending",
+      "websites": [
+        "https://galevisa.com/about"
+      ],
+      "focus": null,
+      "contact_type": "founder",
+      "source": "https://galevisa.com/about",
+      "email_verification": "historical_user_provided_unverified",
+      "research_checked": null,
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true
+    },
+    {
+      "email": "help@numeralhq.com",
+      "company": "Numeral",
+      "category": null,
+      "category_status": "prior_batch_classification_pending",
+      "websites": [
+        "https://www.numeral.com/"
+      ],
+      "focus": null,
+      "contact_type": "support",
+      "source": "https://www.numeral.com/",
+      "email_verification": "historical_user_provided_unverified",
+      "research_checked": null,
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true
+    },
+    {
+      "email": "support@manufact.com",
+      "company": "Manufact",
+      "category": null,
+      "category_status": "prior_batch_classification_pending",
+      "websites": [
+        "https://manufact.com/"
+      ],
+      "focus": null,
+      "contact_type": "support",
+      "source": "https://manufact.com/",
+      "email_verification": "historical_user_provided_unverified",
+      "research_checked": null,
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true
+    },
+    {
+      "email": "support@popl.co",
+      "company": "Popl",
+      "category": null,
+      "category_status": "prior_batch_classification_pending",
+      "websites": [
+        "https://popl.co/"
+      ],
+      "focus": null,
+      "contact_type": "support",
+      "source": "https://popl.co/",
+      "email_verification": "historical_user_provided_unverified",
+      "research_checked": null,
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true
+    },
+    {
+      "email": "p@aglide.com",
+      "company": "Aglide",
+      "category": null,
+      "category_status": "prior_batch_classification_pending",
+      "websites": [
+        "https://www.aglide.com/"
+      ],
+      "focus": null,
+      "contact_type": "general",
+      "source": "https://www.aglide.com/",
+      "email_verification": "historical_user_provided_unverified",
+      "research_checked": null,
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true
+    },
+    {
+      "email": "andy@finta.com",
+      "company": "Finta",
+      "category": null,
+      "category_status": "prior_batch_classification_pending",
+      "websites": [
+        "https://www.finta.com/"
+      ],
+      "focus": null,
+      "contact_type": "general",
+      "source": "https://www.finta.com/",
+      "email_verification": "historical_user_provided_unverified",
+      "research_checked": null,
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true
+    },
+    {
+      "email": "founders@replicas.dev",
+      "company": "Replicas",
+      "category": null,
+      "category_status": "prior_batch_classification_pending",
+      "websites": [
+        "https://replicas.dev/"
+      ],
+      "focus": null,
+      "contact_type": "founder",
+      "source": "https://replicas.dev/",
+      "email_verification": "historical_user_provided_unverified",
+      "research_checked": null,
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true
+    },
+    {
+      "email": "contact@legora.com",
+      "company": "Legora",
+      "category": null,
+      "category_status": "prior_batch_classification_pending",
+      "websites": [
+        "https://legora.com/"
+      ],
+      "focus": null,
+      "contact_type": "general",
+      "source": "https://legora.com/",
+      "email_verification": "historical_user_provided_unverified",
+      "research_checked": null,
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true
+    },
+    {
+      "email": "contact@limrun.com",
+      "company": "Limrun",
+      "category": null,
+      "category_status": "prior_batch_classification_pending",
+      "websites": [
+        "https://www.ycombinator.com/companies/limrun"
+      ],
+      "focus": null,
+      "contact_type": "general",
+      "source": "https://www.ycombinator.com/companies/limrun",
+      "email_verification": "historical_user_provided_unverified",
+      "research_checked": null,
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true
+    },
+    {
+      "email": "hello@itsrever.com",
+      "company": "REVER",
+      "category": null,
+      "category_status": "prior_batch_classification_pending",
+      "websites": [
+        "https://www.itsrever.com/en"
+      ],
+      "focus": null,
+      "contact_type": "general",
+      "source": "https://www.itsrever.com/en",
+      "email_verification": "historical_user_provided_unverified",
+      "research_checked": null,
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true
+    },
+    {
+      "email": "founders@diligencesquared.com",
+      "company": "DiligenceSquared",
+      "category": null,
+      "category_status": "prior_batch_classification_pending",
+      "websites": [
+        "https://www.diligencesquared.com/"
+      ],
+      "focus": null,
+      "contact_type": "founder",
+      "source": "https://www.diligencesquared.com/",
+      "email_verification": "historical_user_provided_unverified",
+      "research_checked": null,
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true
+    },
+    {
+      "email": "founders@gogograndparent.com",
+      "company": "GoGoGrandparent",
+      "category": null,
+      "category_status": "prior_batch_classification_pending",
+      "websites": [
+        "https://www.gogograndparent.com/"
+      ],
+      "focus": null,
+      "contact_type": "founder",
+      "source": "https://www.gogograndparent.com/",
+      "email_verification": "historical_user_provided_unverified",
+      "research_checked": null,
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true
+    },
+    {
+      "email": "founders@wordware.ai",
+      "company": "Wordware",
+      "category": null,
+      "category_status": "prior_batch_classification_pending",
+      "websites": [
+        "https://www.wordware.ai/"
+      ],
+      "focus": null,
+      "contact_type": "founder",
+      "source": "https://www.wordware.ai/",
+      "email_verification": "historical_user_provided_unverified",
+      "research_checked": null,
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true
+    },
+    {
+      "email": "founders@agentmail.cc",
+      "company": "AgentMail",
+      "category": null,
+      "category_status": "prior_batch_classification_pending",
+      "websites": [
+        "https://www.agentmail.to/"
+      ],
+      "focus": null,
+      "contact_type": "founder",
+      "source": "https://www.agentmail.to/",
+      "email_verification": "historical_user_provided_unverified",
+      "research_checked": null,
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true
+    },
+    {
+      "email": "founders@yonduai.com",
+      "company": "Yondu",
+      "category": null,
+      "category_status": "prior_batch_classification_pending",
+      "websites": [
+        "https://www.yondu.ai/"
+      ],
+      "focus": null,
+      "contact_type": "founder",
+      "source": "https://www.yondu.ai/",
+      "email_verification": "historical_user_provided_unverified",
+      "research_checked": null,
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true
+    },
+    {
+      "email": "hello@yonduai.com",
+      "company": "Yondu",
+      "category": null,
+      "category_status": "prior_batch_classification_pending",
+      "websites": [
+        "https://www.yondu.ai/"
+      ],
+      "focus": null,
+      "contact_type": "general",
+      "source": "https://www.yondu.ai/",
+      "email_verification": "historical_user_provided_unverified",
+      "research_checked": null,
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true
+    },
+    {
+      "email": "hello@stacksync.com",
+      "company": "Stacksync",
+      "category": null,
+      "category_status": "prior_batch_classification_pending",
+      "websites": [
+        "https://www.stacksync.com/"
+      ],
+      "focus": null,
+      "contact_type": "general",
+      "source": "https://www.stacksync.com/",
+      "email_verification": "historical_user_provided_unverified",
+      "research_checked": null,
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true
+    },
+    {
+      "email": "ruben@stacksync.cloud",
+      "company": "Stacksync",
+      "category": null,
+      "category_status": "prior_batch_classification_pending",
+      "websites": [
+        "https://www.stacksync.com/"
+      ],
+      "focus": null,
+      "contact_type": "general",
+      "source": "https://www.stacksync.com/",
+      "email_verification": "historical_user_provided_unverified",
+      "research_checked": null,
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true
+    },
+    {
+      "email": "hello@greatquestion.co",
+      "company": "Great Question",
+      "category": null,
+      "category_status": "prior_batch_classification_pending",
+      "websites": [
+        "https://www.greatquestion.com/"
+      ],
+      "focus": null,
+      "contact_type": "general",
+      "source": "https://www.greatquestion.com/",
+      "email_verification": "historical_user_provided_unverified",
+      "research_checked": null,
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true
+    },
+    {
+      "email": "info@react-wise.com",
+      "company": "ReactWise",
+      "category": null,
+      "category_status": "prior_batch_classification_pending",
+      "websites": [
+        "https://www.ycombinator.com/companies/reactwise"
+      ],
+      "focus": null,
+      "contact_type": "general",
+      "source": "https://www.ycombinator.com/companies/reactwise",
+      "email_verification": "historical_user_provided_unverified",
+      "research_checked": null,
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true
+    },
+    {
+      "email": "hey@metorial.com",
+      "company": "Metorial",
+      "category": null,
+      "category_status": "prior_batch_classification_pending",
+      "websites": [
+        "https://metorial.com/"
+      ],
+      "focus": null,
+      "contact_type": "general",
+      "source": "https://metorial.com/",
+      "email_verification": "historical_user_provided_unverified",
+      "research_checked": null,
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true
+    },
+    {
+      "email": "hello@superset.sh",
+      "company": "Superset",
+      "category": null,
+      "category_status": "prior_batch_classification_pending",
+      "websites": [
+        "https://superset.sh/"
+      ],
+      "focus": null,
+      "contact_type": "general",
+      "source": "https://superset.sh/",
+      "email_verification": "historical_user_provided_unverified",
+      "research_checked": null,
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true
+    },
+    {
+      "email": "support@safetywing.com",
+      "company": "SafetyWing",
+      "category": null,
+      "category_status": "prior_batch_classification_pending",
+      "websites": [
+        "https://safetywing.com/"
+      ],
+      "focus": null,
+      "contact_type": "support",
+      "source": "https://safetywing.com/",
+      "email_verification": "historical_user_provided_unverified",
+      "research_checked": null,
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true
+    },
+    {
+      "email": "support@zuddl.com",
+      "company": "Zuddl",
+      "category": null,
+      "category_status": "prior_batch_classification_pending",
+      "websites": [
+        "https://www.zuddl.com/"
+      ],
+      "focus": null,
+      "contact_type": "support",
+      "source": "https://www.zuddl.com/",
+      "email_verification": "historical_user_provided_unverified",
+      "research_checked": null,
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true
+    },
+    {
+      "email": "careers@pingaura.ai",
+      "company": "PingAura",
+      "category": null,
+      "category_status": "prior_batch_classification_pending",
+      "websites": [
+        "https://www.pingaura.ai/"
+      ],
+      "focus": null,
+      "contact_type": "recruiting",
+      "source": "https://www.pingaura.ai/",
+      "email_verification": "historical_user_provided_unverified",
+      "research_checked": null,
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true
+    },
+    {
+      "email": "info@triyak.in",
+      "company": "Triyak Ventures",
+      "category": null,
+      "category_status": "prior_batch_classification_pending",
+      "websites": [
+        "https://www.triyak.in/"
+      ],
+      "focus": null,
+      "contact_type": "general",
+      "source": "https://www.triyak.in/",
+      "email_verification": "historical_user_provided_unverified",
+      "research_checked": null,
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true
+    },
+    {
+      "email": "careers@zyklabs.in",
+      "company": "Zyklabs",
+      "category": null,
+      "category_status": "prior_batch_classification_pending",
+      "websites": [
+        "https://zyklabs.in/"
+      ],
+      "focus": null,
+      "contact_type": "recruiting",
+      "source": "https://zyklabs.in/",
+      "email_verification": "historical_user_provided_unverified",
+      "research_checked": null,
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true
+    },
+    {
+      "email": "careers@inrx.io",
+      "company": "INRx",
+      "category": null,
+      "category_status": "prior_batch_classification_pending",
+      "websites": [
+        "https://inrx.io/about"
+      ],
+      "focus": null,
+      "contact_type": "recruiting",
+      "source": "https://inrx.io/about",
+      "email_verification": "historical_user_provided_unverified",
+      "research_checked": null,
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true
+    },
+    {
+      "email": "siddharth@codevector.in",
+      "company": "CodeVector",
+      "category": null,
+      "category_status": "prior_batch_classification_pending",
+      "websites": [
+        "https://www.codevector.in/"
+      ],
+      "focus": null,
+      "contact_type": "general",
+      "source": "https://www.codevector.in/",
+      "email_verification": "historical_user_provided_unverified",
+      "research_checked": null,
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true
+    },
+    {
+      "email": "jobs@qwikbaba.com",
+      "company": "QwikBaba",
+      "category": null,
+      "category_status": "prior_batch_classification_pending",
+      "websites": [
+        "https://www.qwikbaba.com/"
+      ],
+      "focus": null,
+      "contact_type": "recruiting",
+      "source": "https://www.qwikbaba.com/",
+      "email_verification": "historical_user_provided_unverified",
+      "research_checked": null,
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true
+    },
+    {
+      "email": "careers@neualto.com",
+      "company": "NeuAlto",
+      "category": null,
+      "category_status": "prior_batch_classification_pending",
+      "websites": [
+        "https://www.neualto.com/"
+      ],
+      "focus": null,
+      "contact_type": "recruiting",
+      "source": "https://www.neualto.com/",
+      "email_verification": "historical_user_provided_unverified",
+      "research_checked": null,
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true
+    },
+    {
+      "email": "jobs@aveshasystems.com",
+      "company": "Avesha",
+      "category": null,
+      "category_status": "prior_batch_classification_pending",
+      "websites": [
+        "https://avesha.io/"
+      ],
+      "focus": null,
+      "contact_type": "recruiting",
+      "source": "https://avesha.io/",
+      "email_verification": "historical_user_provided_unverified",
+      "research_checked": null,
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true
+    },
+    {
+      "email": "hello@swayamsruja.com",
+      "company": "Swayam Sruja",
+      "category": null,
+      "category_status": "prior_batch_classification_pending",
+      "websites": [
+        "https://www.swayamsruja.com/careers"
+      ],
+      "focus": null,
+      "contact_type": "general",
+      "source": "https://www.swayamsruja.com/careers",
+      "email_verification": "historical_user_provided_unverified",
+      "research_checked": null,
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true
+    },
+    {
+      "email": "jobs@iqudinformatics.com",
+      "company": "iQud Informatics",
+      "category": null,
+      "category_status": "prior_batch_classification_pending",
+      "websites": [
+        "https://iqudinformatics.com/"
+      ],
+      "focus": null,
+      "contact_type": "recruiting",
+      "source": "https://iqudinformatics.com/",
+      "email_verification": "historical_user_provided_unverified",
+      "research_checked": null,
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true
+    },
+    {
+      "email": "support@upleaptech.com",
+      "company": "UpLeap Technologies",
+      "category": null,
+      "category_status": "prior_batch_classification_pending",
+      "websites": [
+        "https://upleaptech.com/"
+      ],
+      "focus": null,
+      "contact_type": "support",
+      "source": "https://upleaptech.com/",
+      "email_verification": "historical_user_provided_unverified",
+      "research_checked": null,
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true
+    },
+    {
+      "email": "hr@explorex.co",
+      "company": "Explorex",
+      "category": null,
+      "category_status": "prior_batch_classification_pending",
+      "websites": [
+        "https://explorex.co/why-explorex"
+      ],
+      "focus": null,
+      "contact_type": "recruiting",
+      "source": "https://explorex.co/why-explorex",
+      "email_verification": "historical_user_provided_unverified",
+      "research_checked": null,
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true
+    },
+    {
+      "email": "care@neodocs.in",
+      "company": "NeoDocs",
+      "category": null,
+      "category_status": "prior_batch_classification_pending",
+      "websites": [
+        "https://neodocs.in/"
+      ],
+      "focus": null,
+      "contact_type": "support",
+      "source": "https://neodocs.in/",
+      "email_verification": "historical_user_provided_unverified",
+      "research_checked": null,
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true
+    },
+    {
+      "email": "hr@santrictechnologies.com",
+      "company": "Santric Technologies",
+      "category": null,
+      "category_status": "prior_batch_classification_pending",
+      "websites": [
+        "https://www.santrictechnologies.com/"
+      ],
+      "focus": null,
+      "contact_type": "recruiting",
+      "source": "https://www.santrictechnologies.com/",
+      "email_verification": "historical_user_provided_unverified",
+      "research_checked": null,
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true
+    },
+    {
+      "email": "hr@skydreamix.co.in",
+      "company": "SkyDreamix",
+      "category": null,
+      "category_status": "prior_batch_classification_pending",
+      "websites": [
+        "https://skydreamix.co.in/"
+      ],
+      "focus": null,
+      "contact_type": "recruiting",
+      "source": "https://skydreamix.co.in/",
+      "email_verification": "historical_user_provided_unverified",
+      "research_checked": null,
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true
+    },
+    {
+      "email": "hr@vibronatech.com",
+      "company": "Vibrona Technologies",
+      "category": null,
+      "category_status": "prior_batch_classification_pending",
+      "websites": [
+        "https://www.arunesh.tech/careers/"
+      ],
+      "focus": null,
+      "contact_type": "recruiting",
+      "source": "https://www.arunesh.tech/careers/",
+      "email_verification": "historical_user_provided_unverified",
+      "research_checked": null,
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true
+    },
+    {
+      "email": "careers@mnrathi.com",
+      "company": "MNRATHI",
+      "category": null,
+      "category_status": "prior_batch_classification_pending",
+      "websites": [
+        "https://mnrathi.com/"
+      ],
+      "focus": null,
+      "contact_type": "recruiting",
+      "source": "https://mnrathi.com/",
+      "email_verification": "historical_user_provided_unverified",
+      "research_checked": null,
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true
+    },
+    {
+      "email": "hr@arqbyte.com",
+      "company": "ArqByte",
+      "category": null,
+      "category_status": "prior_batch_classification_pending",
+      "websites": [
+        "https://arqbyte.com/careers"
+      ],
+      "focus": null,
+      "contact_type": "recruiting",
+      "source": "https://arqbyte.com/careers",
+      "email_verification": "historical_user_provided_unverified",
+      "research_checked": null,
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true
+    },
+    {
+      "email": "hr@rayonweb.com",
+      "company": "Rayon Web Solutions",
+      "category": null,
+      "category_status": "prior_batch_classification_pending",
+      "websites": [
+        "https://rayonweb.com/"
+      ],
+      "focus": null,
+      "contact_type": "recruiting",
+      "source": "https://rayonweb.com/",
+      "email_verification": "historical_user_provided_unverified",
+      "research_checked": null,
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true
+    },
+    {
+      "email": "careers@intellicar.in",
+      "company": "Intellicar",
+      "category": null,
+      "category_status": "prior_batch_classification_pending",
+      "websites": [
+        "https://www.intellicar.in/"
+      ],
+      "focus": null,
+      "contact_type": "recruiting",
+      "source": "https://www.intellicar.in/",
+      "email_verification": "historical_user_provided_unverified",
+      "research_checked": null,
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true
+    },
+    {
+      "email": "hr@meslova.com",
+      "company": "Meslova Systems",
+      "category": null,
+      "category_status": "prior_batch_classification_pending",
+      "websites": [
+        "https://meslova.com/"
+      ],
+      "focus": null,
+      "contact_type": "recruiting",
+      "source": "https://meslova.com/",
+      "email_verification": "historical_user_provided_unverified",
+      "research_checked": null,
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true
+    },
+    {
+      "email": "hr@ggstinnovations.com",
+      "company": "GGST Innovations",
+      "category": null,
+      "category_status": "prior_batch_classification_pending",
+      "websites": [
+        "https://www.ggstinnovations.com/"
+      ],
+      "focus": null,
+      "contact_type": "recruiting",
+      "source": "https://www.ggstinnovations.com/",
+      "email_verification": "historical_user_provided_unverified",
+      "research_checked": null,
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true
+    },
+    {
+      "email": "hr@trndx.ai",
+      "company": "TrndX",
+      "category": null,
+      "category_status": "prior_batch_classification_pending",
+      "websites": [
+        "https://trndx.ai/"
+      ],
+      "focus": null,
+      "contact_type": "recruiting",
+      "source": "https://trndx.ai/",
+      "email_verification": "historical_user_provided_unverified",
+      "research_checked": null,
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true
+    },
+    {
+      "email": "careers@aetherlabs.in",
+      "company": "AetherLabs",
+      "category": null,
+      "category_status": "prior_batch_classification_pending",
+      "websites": [
+        "https://www.aetherlabs.in/"
+      ],
+      "focus": null,
+      "contact_type": "recruiting",
+      "source": "https://www.aetherlabs.in/",
+      "email_verification": "historical_user_provided_unverified",
+      "research_checked": null,
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true
+    },
+    {
+      "email": "careers@nextleappro.com",
+      "company": "Next Leap Pro",
+      "category": null,
+      "category_status": "prior_batch_classification_pending",
+      "websites": [
+        "https://www.nextleappro.com/"
+      ],
+      "focus": null,
+      "contact_type": "recruiting",
+      "source": "https://www.nextleappro.com/",
+      "email_verification": "historical_user_provided_unverified",
+      "research_checked": null,
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true
+    },
+    {
+      "email": "support@clinxt.in",
+      "company": "Clinxt",
+      "category": null,
+      "category_status": "prior_batch_classification_pending",
+      "websites": [
+        "https://www.clinxt.in/"
+      ],
+      "focus": null,
+      "contact_type": "support",
+      "source": "https://www.clinxt.in/",
+      "email_verification": "historical_user_provided_unverified",
+      "research_checked": null,
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true
+    },
+    {
+      "email": "careers@codazz.com",
+      "company": "Codazz",
+      "category": null,
+      "category_status": "prior_batch_classification_pending",
+      "websites": [
+        "https://codazz.com/"
+      ],
+      "focus": null,
+      "contact_type": "recruiting",
+      "source": "https://codazz.com/",
+      "email_verification": "historical_user_provided_unverified",
+      "research_checked": null,
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true
+    },
+    {
+      "email": "hr@arnnimasolution.com",
+      "company": "Arnnima Solution",
+      "category": null,
+      "category_status": "prior_batch_classification_pending",
+      "websites": [
+        "https://arnnimasolution.com/"
+      ],
+      "focus": null,
+      "contact_type": "recruiting",
+      "source": "https://arnnimasolution.com/",
+      "email_verification": "historical_user_provided_unverified",
+      "research_checked": null,
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true
+    },
+    {
+      "email": "hr@hashtrust.in",
+      "company": "Hashtrust Technologies",
+      "category": null,
+      "category_status": "prior_batch_classification_pending",
+      "websites": [
+        "https://hashtrust.in/join-us"
+      ],
+      "focus": null,
+      "contact_type": "recruiting",
+      "source": "https://hashtrust.in/join-us",
+      "email_verification": "historical_user_provided_unverified",
+      "research_checked": null,
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true
+    },
+    {
+      "email": "hr@groupin.app",
+      "company": "GroupIN",
+      "category": null,
+      "category_status": "prior_batch_classification_pending",
+      "websites": [
+        "https://groupin.app/"
+      ],
+      "focus": null,
+      "contact_type": "recruiting",
+      "source": "https://groupin.app/",
+      "email_verification": "historical_user_provided_unverified",
+      "research_checked": null,
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true
+    },
+    {
+      "email": "hr@xtrazcon.com",
+      "company": "XtrazCon",
+      "category": null,
+      "category_status": "prior_batch_classification_pending",
+      "websites": [
+        "https://xtrazcon.com/"
+      ],
+      "focus": null,
+      "contact_type": "recruiting",
+      "source": "https://xtrazcon.com/",
+      "email_verification": "historical_user_provided_unverified",
+      "research_checked": null,
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true
+    },
+    {
+      "email": "hr@aits.ooo",
+      "company": "Affluent IT Services",
+      "category": null,
+      "category_status": "prior_batch_classification_pending",
+      "websites": [
+        "https://aits.ooo/"
+      ],
+      "focus": null,
+      "contact_type": "recruiting",
+      "source": "https://aits.ooo/",
+      "email_verification": "historical_user_provided_unverified",
+      "research_checked": null,
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true
+    },
+    {
+      "email": "hr@turgajo.com",
+      "company": "Turgajo",
+      "category": null,
+      "category_status": "prior_batch_classification_pending",
+      "websites": [
+        "https://turgajo.com/"
+      ],
+      "focus": null,
+      "contact_type": "recruiting",
+      "source": "https://turgajo.com/",
+      "email_verification": "historical_user_provided_unverified",
+      "research_checked": null,
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true
+    },
+    {
+      "email": "hr@almerak.com",
+      "company": "Merak Tech",
+      "category": null,
+      "category_status": "prior_batch_classification_pending",
+      "websites": [
+        "https://almerak.com/"
+      ],
+      "focus": null,
+      "contact_type": "recruiting",
+      "source": "https://almerak.com/",
+      "email_verification": "historical_user_provided_unverified",
+      "research_checked": null,
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true
+    },
+    {
+      "email": "hr@zappkode.com",
+      "company": "Zappkode",
+      "category": null,
+      "category_status": "prior_batch_classification_pending",
+      "websites": [
+        "https://zappkode.com/"
+      ],
+      "focus": null,
+      "contact_type": "recruiting",
+      "source": "https://zappkode.com/",
+      "email_verification": "historical_user_provided_unverified",
+      "research_checked": null,
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true
+    },
+    {
+      "email": "hr@swakai.in",
+      "company": "SwaKai Technologies",
+      "category": null,
+      "category_status": "prior_batch_classification_pending",
+      "websites": [
+        "https://swakai.in/"
+      ],
+      "focus": null,
+      "contact_type": "recruiting",
+      "source": "https://swakai.in/",
+      "email_verification": "historical_user_provided_unverified",
+      "research_checked": null,
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true
+    },
+    {
+      "email": "hr@techrish.com",
+      "company": "Techrish",
+      "category": null,
+      "category_status": "prior_batch_classification_pending",
+      "websites": [
+        "https://techrish.com/"
+      ],
+      "focus": null,
+      "contact_type": "recruiting",
+      "source": "https://techrish.com/",
+      "email_verification": "historical_user_provided_unverified",
+      "research_checked": null,
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true
+    },
+    {
+      "email": "careers@privify.io",
+      "company": "Privify",
+      "category": null,
+      "category_status": "prior_batch_classification_pending",
+      "websites": [
+        "https://privify.io/careers"
+      ],
+      "focus": null,
+      "contact_type": "recruiting",
+      "source": "https://privify.io/careers",
+      "email_verification": "historical_user_provided_unverified",
+      "research_checked": null,
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true
+    },
+    {
+      "email": "teenlancer@funngro.com",
+      "company": "Funngro",
+      "category": null,
+      "category_status": "prior_batch_classification_pending",
+      "websites": [
+        "https://www.funngro.com/careers"
+      ],
+      "focus": null,
+      "contact_type": "general",
+      "source": "https://www.funngro.com/careers",
+      "email_verification": "historical_user_provided_unverified",
+      "research_checked": null,
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true
+    },
+    {
+      "email": "careers@storestory.in",
+      "company": "StoreStory",
+      "category": null,
+      "category_status": "prior_batch_classification_pending",
+      "websites": [
+        "https://storestory.in/careers"
+      ],
+      "focus": null,
+      "contact_type": "recruiting",
+      "source": "https://storestory.in/careers",
+      "email_verification": "historical_user_provided_unverified",
+      "research_checked": null,
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true
+    },
+    {
+      "email": "careers@jobpeer.in",
+      "company": "JobPeer",
+      "category": null,
+      "category_status": "prior_batch_classification_pending",
+      "websites": [
+        "https://www.jobpeer.in/careers"
+      ],
+      "focus": null,
+      "contact_type": "recruiting",
+      "source": "https://www.jobpeer.in/careers",
+      "email_verification": "historical_user_provided_unverified",
+      "research_checked": null,
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true
+    },
+    {
+      "email": "careers@courtnetra.com",
+      "company": "CourtNetra",
+      "category": null,
+      "category_status": "prior_batch_classification_pending",
+      "websites": [
+        "https://www.courtnetra.com/"
+      ],
+      "focus": null,
+      "contact_type": "recruiting",
+      "source": "https://www.courtnetra.com/",
+      "email_verification": "historical_user_provided_unverified",
+      "research_checked": null,
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true
+    },
+    {
+      "email": "careers@rasokart.com",
+      "company": "RasoKart",
+      "category": null,
+      "category_status": "prior_batch_classification_pending",
+      "websites": [
+        "https://rasokart.com/careers"
+      ],
+      "focus": null,
+      "contact_type": "recruiting",
+      "source": "https://rasokart.com/careers",
+      "email_verification": "historical_user_provided_unverified",
+      "research_checked": null,
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true
+    },
+    {
+      "email": "rajat@bhume.in",
+      "company": "BhuMe",
+      "category": null,
+      "category_status": "prior_batch_classification_pending",
+      "websites": [
+        "https://www.bhume.in/"
+      ],
+      "focus": null,
+      "contact_type": "general",
+      "source": "https://www.bhume.in/",
+      "email_verification": "historical_user_provided_unverified",
+      "research_checked": null,
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true
+    },
+    {
+      "email": "careers@infiltratechnologies.com",
+      "company": "Infiltra Technologies",
+      "category": null,
+      "category_status": "prior_batch_classification_pending",
+      "websites": [
+        "https://infiltratechnologies.com/"
+      ],
+      "focus": null,
+      "contact_type": "recruiting",
+      "source": "https://infiltratechnologies.com/",
+      "email_verification": "historical_user_provided_unverified",
+      "research_checked": null,
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true
+    },
+    {
+      "email": "careers@codevibe.in",
+      "company": "Codevibe Technology",
+      "category": null,
+      "category_status": "prior_batch_classification_pending",
+      "websites": [
+        "https://codevibe.in/"
+      ],
+      "focus": null,
+      "contact_type": "recruiting",
+      "source": "https://codevibe.in/",
+      "email_verification": "historical_user_provided_unverified",
+      "research_checked": null,
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true
+    },
+    {
+      "email": "info@nxorasoft.com",
+      "company": "NexoraSoft",
+      "category": null,
+      "category_status": "prior_batch_classification_pending",
+      "websites": [
+        "https://nxorasoft.com/"
+      ],
+      "focus": null,
+      "contact_type": "general",
+      "source": "https://nxorasoft.com/",
+      "email_verification": "historical_user_provided_unverified",
+      "research_checked": null,
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true
+    },
+    {
+      "email": "careers@codeleapsolutions.com",
+      "company": "Codeleap Techno Solutions",
+      "category": null,
+      "category_status": "prior_batch_classification_pending",
+      "websites": [
+        "https://codeleapsolutions.com/careers/mobile-app-developer-react-native/"
+      ],
+      "focus": null,
+      "contact_type": "recruiting",
+      "source": "https://codeleapsolutions.com/careers/mobile-app-developer-react-native/",
+      "email_verification": "historical_user_provided_unverified",
+      "research_checked": null,
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true
+    },
+    {
+      "email": "careers@yuccasolutions.com",
+      "company": "Yucca IT Solutions",
+      "category": null,
+      "category_status": "prior_batch_classification_pending",
+      "websites": [
+        "https://www.yuccasolutions.com/"
+      ],
+      "focus": null,
+      "contact_type": "recruiting",
+      "source": "https://www.yuccasolutions.com/",
+      "email_verification": "historical_user_provided_unverified",
+      "research_checked": null,
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true
+    },
+    {
+      "email": "careers@daasil.com",
+      "company": "DAASIL",
+      "category": null,
+      "category_status": "prior_batch_classification_pending",
+      "websites": [
+        "https://daasil.com/"
+      ],
+      "focus": null,
+      "contact_type": "recruiting",
+      "source": "https://daasil.com/",
+      "email_verification": "historical_user_provided_unverified",
+      "research_checked": null,
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true
+    },
+    {
+      "email": "official@quantapixel.in",
+      "company": "QuantaPixel",
+      "category": null,
+      "category_status": "prior_batch_classification_pending",
+      "websites": [
+        "https://quantapixel.com/about"
+      ],
+      "focus": null,
+      "contact_type": "general",
+      "source": "https://quantapixel.com/about",
+      "email_verification": "historical_user_provided_unverified",
+      "research_checked": null,
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true
+    },
+    {
+      "email": "careers@boomitra.com",
+      "company": "Boomitra",
+      "category": null,
+      "category_status": "prior_batch_classification_pending",
+      "websites": [
+        "https://boomitra.com/careers/"
+      ],
+      "focus": null,
+      "contact_type": "recruiting",
+      "source": "https://boomitra.com/careers/",
+      "email_verification": "historical_user_provided_unverified",
+      "research_checked": null,
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true
+    },
+    {
+      "email": "careers@cloudphysician.net",
+      "company": "Cloudphysician",
+      "category": null,
+      "category_status": "prior_batch_classification_pending",
+      "websites": [
+        "https://www.cloudphysician.ai/"
+      ],
+      "focus": null,
+      "contact_type": "recruiting",
+      "source": "https://www.cloudphysician.ai/",
+      "email_verification": "historical_user_provided_unverified",
+      "research_checked": null,
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true
+    },
+    {
+      "email": "careers@revolite.io",
+      "company": "Revolite",
+      "category": null,
+      "category_status": "prior_batch_classification_pending",
+      "websites": [
+        "https://revolite.io"
+      ],
+      "focus": "agentic automation and custom software applications",
+      "contact_type": "recruiting",
+      "source": "https://revolite.io",
+      "email_verification": "historical_user_provided_unverified",
+      "research_checked": "2026-10-26",
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true
+    },
+    {
+      "email": "careers@prorigosoftware.com",
+      "company": "Prorigo",
+      "category": null,
+      "category_status": "prior_batch_classification_pending",
+      "websites": [
+        "https://www.prorigo.com/en/about/company"
+      ],
+      "focus": "outsourced product development and enterprise application integration",
+      "contact_type": "recruiting",
+      "source": "https://www.prorigo.com/en/about/company",
+      "email_verification": "historical_user_provided_unverified",
+      "research_checked": "2026-10-26",
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true
+    },
+    {
+      "email": "careers@bytehubble.ai",
+      "company": "ByteHubble",
+      "category": null,
+      "category_status": "prior_batch_classification_pending",
+      "websites": [
+        "https://www.bytehubble.ai"
+      ],
+      "focus": "AI-assisted database operations and autonomous database agents",
+      "contact_type": "recruiting",
+      "source": "https://www.bytehubble.ai",
+      "email_verification": "historical_user_provided_unverified",
+      "research_checked": "2026-10-26",
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true
+    },
+    {
+      "email": "praveen@onmeta.in",
+      "company": "OnMeta",
+      "category": null,
+      "category_status": "prior_batch_classification_pending",
+      "websites": [
+        "https://onmeta.in"
+      ],
+      "focus": "crypto payment infrastructure for application integrations",
+      "contact_type": "general",
+      "source": "https://onmeta.in",
+      "email_verification": "historical_user_provided_unverified",
+      "research_checked": "2026-10-26",
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true
+    },
+    {
+      "email": "hr@infoenum.com",
+      "company": "InfoEnum",
+      "category": null,
+      "category_status": "prior_batch_classification_pending",
+      "websites": [
+        "https://infoenum.com"
+      ],
+      "focus": "agentic AI workflows and custom software systems",
+      "contact_type": "recruiting",
+      "source": "https://infoenum.com",
+      "email_verification": "historical_user_provided_unverified",
+      "research_checked": "2026-10-26",
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true
+    },
+    {
+      "email": "hr@impaxivesolutions.com",
+      "company": "Impaxive Solutions",
+      "category": null,
+      "category_status": "prior_batch_classification_pending",
+      "websites": [
+        "https://impaxivesolutions.com"
+      ],
+      "focus": "application modernization, cloud delivery and AI automation",
+      "contact_type": "recruiting",
+      "source": "https://impaxivesolutions.com",
+      "email_verification": "historical_user_provided_unverified",
+      "research_checked": "2026-10-26",
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true
+    },
+    {
+      "email": "careers@launchlions.com",
+      "company": "Launch Lions",
+      "category": null,
+      "category_status": "prior_batch_classification_pending",
+      "websites": [
+        "https://launchlions.com"
+      ],
+      "focus": "business websites and marketing-connected digital experiences",
+      "contact_type": "recruiting",
+      "source": "https://launchlions.com",
+      "email_verification": "historical_user_provided_unverified",
+      "research_checked": "2026-10-26",
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true
+    },
+    {
+      "email": "careers@mnbresearch.com",
+      "company": "MNB Research",
+      "category": null,
+      "category_status": "prior_batch_classification_pending",
+      "websites": [
+        "https://www.mnbresearch.com"
+      ],
+      "focus": "AI automation and operational software for small and medium businesses",
+      "contact_type": "recruiting",
+      "source": "https://www.mnbresearch.com",
+      "email_verification": "historical_user_provided_unverified",
+      "research_checked": "2026-10-26",
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true
+    },
+    {
+      "email": "hr@cloudsolutionshub.com",
+      "company": "Cloud Solutions Hub",
+      "category": null,
+      "category_status": "prior_batch_classification_pending",
+      "websites": [
+        "https://cloudsolutionshub.com"
+      ],
+      "focus": "cloud transformation and connected digital product development",
+      "contact_type": "recruiting",
+      "source": "https://cloudsolutionshub.com",
+      "email_verification": "historical_user_provided_unverified",
+      "research_checked": "2026-10-26",
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true
+    },
+    {
+      "email": "careers@naysainfotechindia.com",
+      "company": "Naysa Infotech India",
+      "category": null,
+      "category_status": "prior_batch_classification_pending",
+      "websites": [
+        "https://naysainfotechindia.com"
+      ],
+      "focus": "modular enterprise and compliance software platforms",
+      "contact_type": "recruiting",
+      "source": "https://naysainfotechindia.com",
+      "email_verification": "historical_user_provided_unverified",
+      "research_checked": "2026-10-26",
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true
+    },
+    {
+      "email": "hr@bridgestonetec.com",
+      "company": "Bridgestone Technologies",
+      "category": null,
+      "category_status": "prior_batch_classification_pending",
+      "websites": [
+        "https://bridgestonetec.com"
+      ],
+      "focus": "software development services and business applications",
+      "contact_type": "recruiting",
+      "source": "https://bridgestonetec.com",
+      "email_verification": "historical_user_provided_unverified",
+      "research_checked": "2026-10-26",
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true
+    },
+    {
+      "email": "hrd@galaxytechsolutions.com",
+      "company": "Galaxy Tech Solutions",
+      "category": null,
+      "category_status": "prior_batch_classification_pending",
+      "websites": [
+        "https://galaxytechsolutions.com"
+      ],
+      "focus": "web application development and UI/UX design",
+      "contact_type": "recruiting",
+      "source": "https://galaxytechsolutions.com",
+      "email_verification": "historical_user_provided_unverified",
+      "research_checked": "2026-10-26",
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true
+    },
+    {
+      "email": "careers@palindrome.co",
+      "company": "Palindrome",
+      "category": null,
+      "category_status": "prior_batch_classification_pending",
+      "websites": [
+        "https://palindrome.co"
+      ],
+      "focus": "advisor-approved wealth-management workflows, reports and review packs",
+      "contact_type": "recruiting",
+      "source": "https://palindrome.co",
+      "email_verification": "historical_user_provided_unverified",
+      "research_checked": "2026-10-26",
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true
+    },
+    {
+      "email": "careers@sociosports.com",
+      "company": "SocioSports",
+      "category": null,
+      "category_status": "prior_batch_classification_pending",
+      "websites": [
+        "https://sociosports.com/terms-conditions"
+      ],
+      "focus": "sports participation, community engagement and event discovery",
+      "contact_type": "recruiting",
+      "source": "https://sociosports.com/terms-conditions",
+      "email_verification": "historical_user_provided_unverified",
+      "research_checked": "2026-10-26",
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true
+    },
+    {
+      "email": "careers@cashbook.in",
+      "company": "CashBook",
+      "category": null,
+      "category_status": "prior_batch_classification_pending",
+      "websites": [
+        "https://cashbook.in"
+      ],
+      "focus": "employee UPI wallets, business expense controls and spending limits",
+      "contact_type": "recruiting",
+      "source": "https://cashbook.in",
+      "email_verification": "historical_user_provided_unverified",
+      "research_checked": "2026-10-26",
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true
+    },
+    {
+      "email": "careers@appsphere.in",
+      "company": "App Sphere",
+      "category": null,
+      "category_status": "prior_batch_classification_pending",
+      "websites": [
+        "https://www.appsphere.in/products"
+      ],
+      "focus": "productivity tracking tools and the PaperLens document scanning product",
+      "contact_type": "recruiting",
+      "source": "https://www.appsphere.in/products",
+      "email_verification": "historical_user_provided_unverified",
+      "research_checked": "2026-10-26",
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true
+    },
+    {
+      "email": "yuvarani@techasoft.com",
+      "company": "Techasoft",
+      "category": null,
+      "category_status": "prior_batch_classification_pending",
+      "websites": [
+        "https://www.techasoft.com"
+      ],
+      "focus": "enterprise applications, CRM tools and AI-enabled software",
+      "contact_type": "general",
+      "source": "https://www.techasoft.com",
+      "email_verification": "historical_user_provided_unverified",
+      "research_checked": "2026-10-26",
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true
+    },
+    {
+      "email": "careers@brovitech.com",
+      "company": "Brovitech",
+      "category": null,
+      "category_status": "prior_batch_classification_pending",
+      "websites": [
+        "https://brovitech.com"
+      ],
+      "focus": "custom SaaS, mobile products and embedded AI features for founders",
+      "contact_type": "recruiting",
+      "source": "https://brovitech.com",
+      "email_verification": "historical_user_provided_unverified",
+      "research_checked": "2026-10-26",
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true
+    },
+    {
+      "email": "careers@testunity.com",
+      "company": "TestUnity",
+      "category": null,
+      "category_status": "prior_batch_classification_pending",
+      "websites": [
+        "https://testunity.com"
+      ],
+      "focus": "test automation reporting, launch health and regression dashboards",
+      "contact_type": "recruiting",
+      "source": "https://testunity.com",
+      "email_verification": "historical_user_provided_unverified",
+      "research_checked": "2026-10-26",
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true
+    },
+    {
+      "email": "hr@techlanditsolutions.com",
+      "company": "Techland",
+      "category": null,
+      "category_status": "prior_batch_classification_pending",
+      "websites": [
+        "https://techlanditsolutions.com"
+      ],
+      "focus": "custom web applications, mobile products and UI/UX delivery",
+      "contact_type": "recruiting",
+      "source": "https://techlanditsolutions.com",
+      "email_verification": "historical_user_provided_unverified",
+      "research_checked": "2026-10-26",
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true
+    },
+    {
+      "email": "hrindia@razorleaf.com",
+      "company": "Razorleaf",
+      "category": null,
+      "category_status": "prior_batch_classification_pending",
+      "websites": [
+        "https://www.razorleaf.com/services/plm-integration/"
+      ],
+      "focus": "enterprise integration and product lifecycle workflows through CLOVER",
+      "contact_type": "recruiting",
+      "source": "https://www.razorleaf.com/services/plm-integration/",
+      "email_verification": "historical_user_provided_unverified",
+      "research_checked": "2026-10-26",
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true
+    },
+    {
+      "email": "pulak.chandan@thoughtworks.com",
+      "company": "Thoughtworks",
+      "category": null,
+      "category_status": "prior_batch_classification_pending",
+      "websites": [
+        "https://www.thoughtworks.com/about-us"
+      ],
+      "focus": "digital product engineering that brings together design, engineering and AI",
+      "contact_type": "general",
+      "source": "https://www.thoughtworks.com/about-us",
+      "email_verification": "historical_user_provided_unverified",
+      "research_checked": "2026-10-26",
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true
+    },
+    {
+      "email": "ayushi.garg@huntingcube.com",
+      "company": "HuntingCube",
+      "category": null,
+      "category_status": "prior_batch_classification_pending",
+      "websites": [
+        "https://huntingcube.ai/browse/job-apply?jobId=26010002"
+      ],
+      "focus": "technology recruitment for engineering and product teams",
+      "contact_type": "general",
+      "source": "https://huntingcube.ai/browse/job-apply?jobId=26010002",
+      "email_verification": "historical_user_provided_unverified",
+      "research_checked": "2026-10-26",
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true
+    },
+    {
+      "email": "agaikwad@schmersal.com",
+      "company": "Schmersal",
+      "category": null,
+      "category_status": "prior_batch_classification_pending",
+      "websites": [
+        "https://www.schmersal.com/en/company/the-schmersal-group/india-ranjangaon"
+      ],
+      "focus": "industrial safety and automation products",
+      "contact_type": "general",
+      "source": "https://www.schmersal.com/en/company/the-schmersal-group/india-ranjangaon",
+      "email_verification": "historical_user_provided_unverified",
+      "research_checked": "2026-10-26",
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true
+    },
+    {
+      "email": "hrd@eminenthrsolutions.com",
+      "company": "Eminent HR Solutions",
+      "category": null,
+      "category_status": "prior_batch_classification_pending",
+      "websites": [
+        "https://www.linkedin.com/company/eminent-hr-solutions-pvt-ltd"
+      ],
+      "focus": "technology recruitment and matching engineers with client roles",
+      "contact_type": "recruiting",
+      "source": "https://www.linkedin.com/company/eminent-hr-solutions-pvt-ltd",
+      "email_verification": "historical_user_provided_unverified",
+      "research_checked": "2026-10-26",
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true
+    },
+    {
+      "email": "urvashiwadhwa521@gmail.com",
+      "company": "Gmail",
+      "category": null,
+      "category_status": "prior_batch_classification_pending",
+      "websites": [
+        "https://gmail.com"
+      ],
+      "focus": null,
+      "contact_type": "general",
+      "source": null,
+      "email_verification": "historical_user_provided_unverified",
+      "research_checked": null,
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true
+    },
+    {
+      "email": "careers@haptik.ai",
+      "company": "Haptik",
+      "category": "AI & Automation",
+      "category_status": "categorized",
+      "original_groups": [
+        "AI, DeepTech & Automation Startups"
+      ],
+      "brands": [
+        "Haptik"
+      ],
+      "websites": [
+        "https://haptik.ai"
+      ],
+      "focus": "Conversational AI and GenAI solutions",
+      "contact_type": "recruiting",
+      "source": "https://www.haptik.ai/",
+      "email_verification": "user_provided_unverified",
+      "research_checked": "2026-10-26",
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true,
+      "review_reason": null
+    },
+    {
+      "email": "hr@gnani.ai",
+      "company": "Gnani.ai",
+      "category": "AI & Automation",
+      "category_status": "categorized",
+      "original_groups": [
+        "AI, DeepTech & Automation Startups"
+      ],
+      "brands": [
+        "Gnani.ai"
+      ],
+      "websites": [
+        "https://gnani.ai"
+      ],
+      "focus": "Speech recognition and conversational AI",
+      "contact_type": "recruiting",
+      "source": "https://www.gnani.ai/wp-content/uploads/2024/10/Gnani_Collections_Case_Study-Intl-1-1.pdf",
+      "email_verification": "user_provided_unverified",
+      "research_checked": "2026-10-26",
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true,
+      "review_reason": null
+    },
+    {
+      "email": "careers@sarvam.ai",
+      "company": "Sarvam AI",
+      "category": "AI & Automation",
+      "category_status": "categorized",
+      "original_groups": [
+        "AI, DeepTech & Automation Startups"
+      ],
+      "brands": [
+        "Sarvam AI"
+      ],
+      "websites": [
+        "https://sarvam.ai"
+      ],
+      "focus": "Indian language foundational AI",
+      "contact_type": "recruiting",
+      "source": "https://docs.sarvam.ai/",
+      "email_verification": "user_provided_unverified",
+      "research_checked": "2026-10-26",
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true,
+      "review_reason": null
+    },
+    {
+      "email": "hr@qure.ai",
+      "company": "Qure.ai",
+      "category": "HealthTech & Digital Healthcare",
+      "category_status": "categorized",
+      "original_groups": [
+        "AI, DeepTech & Automation Startups"
+      ],
+      "brands": [
+        "Qure.ai"
+      ],
+      "websites": [
+        "https://qure.ai"
+      ],
+      "focus": "Medical imaging AI diagnostics",
+      "contact_type": "recruiting",
+      "source": "https://www.qure.ai/",
+      "email_verification": "user_provided_unverified",
+      "research_checked": "2026-10-26",
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true,
+      "review_reason": null
+    },
+    {
+      "email": "careers@zeptonow.com",
+      "company": "Zepto",
+      "category": "Quick Commerce & Delivery",
+      "category_status": "categorized",
+      "original_groups": [
+        "FinTech, SaaS & Enterprise Tech Startups"
+      ],
+      "brands": [
+        "Zepto"
+      ],
+      "websites": [
+        "https://zeptonow.com"
+      ],
+      "focus": "Quick commerce and logistics",
+      "contact_type": "recruiting",
+      "source": "https://www.zepto.com/buy-grocery",
+      "email_verification": "user_provided_unverified",
+      "research_checked": "2026-10-26",
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true,
+      "review_reason": null
+    },
+    {
+      "email": "hr@clevertap.com",
+      "company": "CleverTap",
+      "category": "Advertising & Marketing Technology",
+      "category_status": "categorized",
+      "original_groups": [
+        "FinTech, SaaS & Enterprise Tech Startups"
+      ],
+      "brands": [
+        "CleverTap"
+      ],
+      "websites": [
+        "https://clevertap.com"
+      ],
+      "focus": "Customer engagement and analytics",
+      "contact_type": "recruiting",
+      "source": "https://clevertap.com/",
+      "email_verification": "user_provided_unverified",
+      "research_checked": "2026-10-26",
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true,
+      "review_reason": null
+    },
+    {
+      "email": "careers@keka.com",
+      "company": "Keka HR",
+      "category": "Enterprise SaaS",
+      "category_status": "categorized",
+      "original_groups": [
+        "FinTech, SaaS & Enterprise Tech Startups"
+      ],
+      "brands": [
+        "Keka HR"
+      ],
+      "websites": [
+        "https://keka.com"
+      ],
+      "focus": "Payroll and HR software",
+      "contact_type": "recruiting",
+      "source": "https://www.keka.com/",
+      "email_verification": "user_provided_unverified",
+      "research_checked": "2026-10-26",
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true,
+      "review_reason": null
+    },
+    {
+      "email": "careers@amagi.com",
+      "company": "Amagi",
+      "category": "Content & Media",
+      "category_status": "categorized",
+      "original_groups": [
+        "FinTech, SaaS & Enterprise Tech Startups"
+      ],
+      "brands": [
+        "Amagi"
+      ],
+      "websites": [
+        "https://amagi.com"
+      ],
+      "focus": "Cloud broadcast and media software",
+      "contact_type": "recruiting",
+      "source": "https://www.amagi.com/",
+      "email_verification": "user_provided_unverified",
+      "research_checked": "2026-10-26",
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true,
+      "review_reason": null
+    },
+    {
+      "email": "careers@pharmeasy.in",
+      "company": "PharmEasy",
+      "category": "HealthTech & Digital Healthcare",
+      "category_status": "categorized",
+      "original_groups": [
+        "Consumer Tech, HealthTech & Logistics"
+      ],
+      "brands": [
+        "PharmEasy"
+      ],
+      "websites": [
+        "https://pharmeasy.in"
+      ],
+      "focus": "Online pharmacy and healthcare",
+      "contact_type": "recruiting",
+      "source": "https://pharmeasy.in/",
+      "email_verification": "user_provided_unverified",
+      "research_checked": "2026-10-26",
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true,
+      "review_reason": null
+    },
+    {
+      "email": "hr@licious.com",
+      "company": "Licious",
+      "category": "Consumer Brands & E-Commerce",
+      "category_status": "categorized",
+      "original_groups": [
+        "Consumer Tech, HealthTech & Logistics"
+      ],
+      "brands": [
+        "Licious"
+      ],
+      "websites": [
+        "https://licious.in"
+      ],
+      "focus": "Consumer food commerce",
+      "contact_type": "recruiting",
+      "source": "https://www.licious.in/blog/safety",
+      "email_verification": "user_provided_unverified",
+      "research_checked": "2026-10-26",
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true,
+      "review_reason": null
+    },
+    {
+      "email": "careers@goniyo.com",
+      "company": "Niyo",
+      "category": "FinTech & Banking",
+      "category_status": "categorized",
+      "original_groups": [
+        "Consumer Tech, HealthTech & Logistics"
+      ],
+      "brands": [
+        "Niyo"
+      ],
+      "websites": [
+        "https://goniyo.com"
+      ],
+      "focus": "Travel and financial services",
+      "contact_type": "recruiting",
+      "source": "https://goniyo.com/",
+      "email_verification": "user_provided_unverified",
+      "research_checked": "2026-10-26",
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true,
+      "review_reason": null
+    },
+    {
+      "email": "hr@porter.in",
+      "company": "Porter",
+      "category": "Logistics & Supply Chain",
+      "category_status": "categorized",
+      "original_groups": [
+        "Consumer Tech, HealthTech & Logistics"
+      ],
+      "brands": [
+        "Porter"
+      ],
+      "websites": [
+        "https://porter.in"
+      ],
+      "focus": "Intra-city logistics",
+      "contact_type": "recruiting",
+      "source": "https://porter.in/",
+      "email_verification": "user_provided_unverified",
+      "research_checked": "2026-10-26",
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true,
+      "review_reason": null
+    },
+    {
+      "email": "careers@countrydelight.in",
+      "company": "Country Delight",
+      "category": "Consumer Brands & E-Commerce",
+      "category_status": "categorized",
+      "original_groups": [
+        "Consumer Tech, HealthTech & Logistics"
+      ],
+      "brands": [
+        "Country Delight"
+      ],
+      "websites": [
+        "https://countrydelight.in"
+      ],
+      "focus": "Direct-to-consumer grocery delivery",
+      "contact_type": "recruiting",
+      "source": "https://countrydelight.in/",
+      "email_verification": "user_provided_unverified",
+      "research_checked": "2026-10-26",
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true,
+      "review_reason": null
+    },
+    {
+      "email": "hr@ultraviolette.com",
+      "company": "Ultraviolette",
+      "category": "EV & Clean Energy",
+      "category_status": "categorized",
+      "original_groups": [
+        "Consumer Tech, HealthTech & Logistics"
+      ],
+      "brands": [
+        "Ultraviolette"
+      ],
+      "websites": [
+        "https://ultraviolette.com"
+      ],
+      "focus": "Electric vehicles and battery technology",
+      "contact_type": "recruiting",
+      "source": "https://www.ultraviolette.com/",
+      "email_verification": "user_provided_unverified",
+      "research_checked": "2026-10-26",
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true,
+      "review_reason": null
+    },
+    {
+      "email": "careers@inmobi.com",
+      "company": "InMobi",
+      "category": "Advertising & Marketing Technology",
+      "category_status": "categorized",
+      "original_groups": [
+        "Emerging Tech & Product Agencies"
+      ],
+      "brands": [
+        "InMobi"
+      ],
+      "websites": [
+        "https://inmobi.com"
+      ],
+      "focus": "Mobile advertising technology",
+      "contact_type": "recruiting",
+      "source": "https://www.inmobi.com/",
+      "email_verification": "user_provided_unverified",
+      "research_checked": "2026-10-26",
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true,
+      "review_reason": null
+    },
+    {
+      "email": "hr@capillarytech.com",
+      "company": "Capillary Technologies",
+      "category": "Enterprise SaaS",
+      "category_status": "categorized",
+      "original_groups": [
+        "Emerging Tech & Product Agencies"
+      ],
+      "brands": [
+        "Capillary Technologies"
+      ],
+      "websites": [
+        "https://capillarytech.com"
+      ],
+      "focus": "Customer loyalty software",
+      "contact_type": "recruiting",
+      "source": "https://www.capillarytech.com/",
+      "email_verification": "user_provided_unverified",
+      "research_checked": "2026-10-26",
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true,
+      "review_reason": null
+    },
+    {
+      "email": "careers@mindtickle.com",
+      "company": "Mindtickle",
+      "category": "Enterprise SaaS",
+      "category_status": "categorized",
+      "original_groups": [
+        "Emerging Tech & Product Agencies"
+      ],
+      "brands": [
+        "Mindtickle"
+      ],
+      "websites": [
+        "https://mindtickle.com"
+      ],
+      "focus": "Sales readiness and enablement",
+      "contact_type": "recruiting",
+      "source": "https://www.mindtickle.com/",
+      "email_verification": "user_provided_unverified",
+      "research_checked": "2026-10-26",
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true,
+      "review_reason": null
+    },
+    {
+      "email": "jobs@glance.com",
+      "company": "Glance",
+      "category": "Content & Media",
+      "category_status": "categorized",
+      "original_groups": [
+        "Emerging Tech & Product Agencies"
+      ],
+      "brands": [
+        "Glance"
+      ],
+      "websites": [
+        "https://glance.com"
+      ],
+      "focus": "AI-assisted shopping and product discovery",
+      "contact_type": "recruiting",
+      "source": "https://glance.com/",
+      "email_verification": "user_provided_unverified",
+      "research_checked": "2026-10-26",
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true,
+      "review_reason": null
+    },
+    {
+      "email": "careers@rapido.bike",
+      "company": "Rapido",
+      "category": "Mobility & Transportation",
+      "category_status": "categorized",
+      "original_groups": [
+        "Quick Commerce & Logistics Startups"
+      ],
+      "brands": [
+        "Rapido"
+      ],
+      "websites": [
+        "https://rapido.bike"
+      ],
+      "focus": "Mobility and local delivery",
+      "contact_type": "recruiting",
+      "source": "https://rapido.bike/Home",
+      "email_verification": "user_provided_unverified",
+      "research_checked": "2026-10-26",
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true,
+      "review_reason": null
+    },
+    {
+      "email": "careers@dunzo.in",
+      "company": "Dunzo",
+      "category": "Quick Commerce & Delivery",
+      "category_status": "categorized",
+      "original_groups": [
+        "Quick Commerce & Logistics Startups"
+      ],
+      "brands": [
+        "Dunzo"
+      ],
+      "websites": [
+        "https://dunzo.com"
+      ],
+      "focus": "Hyper-local delivery",
+      "contact_type": "recruiting",
+      "source": "https://restofworld.org/2025/dunzo-shutdown-india-quick-commerce/",
+      "email_verification": "user_provided_unverified",
+      "research_checked": "2026-10-26",
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": false,
+      "review_reason": "Reported shutdown; supplied website offline; no current operation verified."
+    },
+    {
+      "email": "hr@shadowfax.in",
+      "company": "Shadowfax",
+      "category": "Logistics & Supply Chain",
+      "category_status": "categorized",
+      "original_groups": [
+        "Quick Commerce & Logistics Startups"
+      ],
+      "brands": [
+        "Shadowfax"
+      ],
+      "websites": [
+        "https://shadowfax.in"
+      ],
+      "focus": "Last-mile delivery network",
+      "contact_type": "recruiting",
+      "source": "https://shadowfax.in/",
+      "email_verification": "user_provided_unverified",
+      "research_checked": "2026-10-26",
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true,
+      "review_reason": null
+    },
+    {
+      "email": "careers@xpressbees.com",
+      "company": "Xpressbees",
+      "category": "Logistics & Supply Chain",
+      "category_status": "categorized",
+      "original_groups": [
+        "Quick Commerce & Logistics Startups"
+      ],
+      "brands": [
+        "Xpressbees"
+      ],
+      "websites": [
+        "https://xpressbees.com"
+      ],
+      "focus": "E-commerce logistics",
+      "contact_type": "recruiting",
+      "source": "https://www.xpressbees.com/default.aspx",
+      "email_verification": "user_provided_unverified",
+      "research_checked": "2026-10-26",
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true,
+      "review_reason": null
+    },
+    {
+      "email": "careers@sliceit.com",
+      "company": "Slice",
+      "category": "FinTech & Banking",
+      "category_status": "categorized",
+      "original_groups": [
+        "FinTech & Neo-Banking Startups"
+      ],
+      "brands": [
+        "Slice"
+      ],
+      "websites": [
+        "https://sliceit.com"
+      ],
+      "focus": "Digital banking and payment products",
+      "contact_type": "recruiting",
+      "source": "https://slice.bank.in/",
+      "email_verification": "user_provided_unverified",
+      "research_checked": "2026-10-26",
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true,
+      "review_reason": null
+    },
+    {
+      "email": "careers@fi.money",
+      "company": "Fi Money",
+      "category": "FinTech & Banking",
+      "category_status": "categorized",
+      "original_groups": [
+        "FinTech & Neo-Banking Startups"
+      ],
+      "brands": [
+        "Fi Money"
+      ],
+      "websites": [
+        "https://fi.money"
+      ],
+      "focus": "Financial application; banking services transition announced",
+      "contact_type": "recruiting",
+      "source": "https://fi.money/",
+      "email_verification": "user_provided_unverified",
+      "research_checked": "2026-10-26",
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true,
+      "review_reason": null
+    },
+    {
+      "email": "careers@coinswitch.co",
+      "company": "CoinSwitch",
+      "category": "Web3 & Blockchain",
+      "category_status": "categorized",
+      "original_groups": [
+        "FinTech & Neo-Banking Startups",
+        "Web3, Crypto & Blockchain Startups"
+      ],
+      "brands": [
+        "CoinSwitch"
+      ],
+      "websites": [
+        "https://coinswitch.co",
+        "https://coinswitch.co"
+      ],
+      "focus": "Crypto and investment platform",
+      "contact_type": "recruiting",
+      "source": "https://coinswitch.co/",
+      "email_verification": "user_provided_unverified",
+      "research_checked": "2026-10-26",
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true,
+      "review_reason": null
+    },
+    {
+      "email": "careers@pw.live",
+      "company": "PhysicsWallah",
+      "category": "EdTech & Learning",
+      "category_status": "categorized",
+      "original_groups": [
+        "EdTech, Content & Media Startups"
+      ],
+      "brands": [
+        "PhysicsWallah"
+      ],
+      "websites": [
+        "https://pw.live"
+      ],
+      "focus": "Test preparation and education",
+      "contact_type": "recruiting",
+      "source": "https://www.pw.live/",
+      "email_verification": "user_provided_unverified",
+      "research_checked": "2026-10-26",
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true,
+      "review_reason": null
+    },
+    {
+      "email": "careers@unacademy.com",
+      "company": "Unacademy",
+      "category": "EdTech & Learning",
+      "category_status": "categorized",
+      "original_groups": [
+        "EdTech, Content & Media Startups"
+      ],
+      "brands": [
+        "Unacademy"
+      ],
+      "websites": [
+        "https://unacademy.com"
+      ],
+      "focus": "Learning and test preparation",
+      "contact_type": "recruiting",
+      "source": "https://unacademy.com/",
+      "email_verification": "user_provided_unverified",
+      "research_checked": "2026-10-26",
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true,
+      "review_reason": null
+    },
+    {
+      "email": "careers@housing.com",
+      "company": "Housing.com",
+      "category": "PropTech & Housing",
+      "category_status": "categorized",
+      "original_groups": [
+        "PropTech & Consumer Marketplace Startups"
+      ],
+      "brands": [
+        "Housing.com"
+      ],
+      "websites": [
+        "https://housing.com"
+      ],
+      "focus": "Property discovery",
+      "contact_type": "recruiting",
+      "source": "https://housing.com/",
+      "email_verification": "user_provided_unverified",
+      "research_checked": "2026-10-26",
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true,
+      "review_reason": null
+    },
+    {
+      "email": "careers@cardekho.com",
+      "company": "CarDekho",
+      "category": "Consumer Brands & E-Commerce",
+      "category_status": "categorized",
+      "original_groups": [
+        "PropTech & Consumer Marketplace Startups"
+      ],
+      "brands": [
+        "CarDekho"
+      ],
+      "websites": [
+        "https://cardekho.com"
+      ],
+      "focus": "Automotive marketplace",
+      "contact_type": "recruiting",
+      "source": "https://www.cardekho.com/",
+      "email_verification": "user_provided_unverified",
+      "research_checked": "2026-10-26",
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true,
+      "review_reason": null
+    },
+    {
+      "email": "careers@urbancompany.com",
+      "company": "Urban Company",
+      "category": "Consumer Services",
+      "category_status": "categorized",
+      "original_groups": [
+        "Unicorns & Scale-up Indian Startups"
+      ],
+      "brands": [
+        "Urban Company"
+      ],
+      "websites": [
+        "https://urbancompany.com"
+      ],
+      "focus": "Home services marketplace",
+      "contact_type": "recruiting",
+      "source": "https://www.urbancompany.com/",
+      "email_verification": "user_provided_unverified",
+      "research_checked": "2026-10-26",
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true,
+      "review_reason": null
+    },
+    {
+      "email": "hr@lenskart.com",
+      "company": "Lenskart",
+      "category": "Consumer Brands & E-Commerce",
+      "category_status": "categorized",
+      "original_groups": [
+        "Unicorns & Scale-up Indian Startups"
+      ],
+      "brands": [
+        "Lenskart"
+      ],
+      "websites": [
+        "https://lenskart.com"
+      ],
+      "focus": "Omnichannel eyewear",
+      "contact_type": "recruiting",
+      "source": "https://www.lenskart.com/",
+      "email_verification": "user_provided_unverified",
+      "research_checked": "2026-10-26",
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true,
+      "review_reason": null
+    },
+    {
+      "email": "careers@blinkit.com",
+      "company": "Blinkit",
+      "category": "Quick Commerce & Delivery",
+      "category_status": "categorized",
+      "original_groups": [
+        "Unicorns & Scale-up Indian Startups"
+      ],
+      "brands": [
+        "Blinkit"
+      ],
+      "websites": [
+        "https://blinkit.com"
+      ],
+      "focus": "Quick commerce",
+      "contact_type": "recruiting",
+      "source": "https://blinkit.com/",
+      "email_verification": "user_provided_unverified",
+      "research_checked": "2026-10-26",
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true,
+      "review_reason": null
+    },
+    {
+      "email": "careers@delhivery.com",
+      "company": "Delhivery",
+      "category": "Logistics & Supply Chain",
+      "category_status": "categorized",
+      "original_groups": [
+        "Unicorns & Scale-up Indian Startups"
+      ],
+      "brands": [
+        "Delhivery"
+      ],
+      "websites": [
+        "https://delhivery.com"
+      ],
+      "focus": "Supply chain and logistics",
+      "contact_type": "recruiting",
+      "source": "https://www.delhivery.com/",
+      "email_verification": "user_provided_unverified",
+      "research_checked": "2026-10-26",
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true,
+      "review_reason": null
+    },
+    {
+      "email": "careers@caratlane.com",
+      "company": "CaratLane",
+      "category": "Consumer Brands & E-Commerce",
+      "category_status": "categorized",
+      "original_groups": [
+        "Unicorns & Scale-up Indian Startups"
+      ],
+      "brands": [
+        "CaratLane"
+      ],
+      "websites": [
+        "https://caratlane.com"
+      ],
+      "focus": "Omnichannel jewellery",
+      "contact_type": "recruiting",
+      "source": "https://www.caratlane.com/",
+      "email_verification": "user_provided_unverified",
+      "research_checked": "2026-10-26",
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true,
+      "review_reason": null
+    },
+    {
+      "email": "careers@rivigo.com",
+      "company": "Rivigo",
+      "category": "Logistics & Supply Chain",
+      "category_status": "categorized",
+      "original_groups": [
+        "Unicorns & Scale-up Indian Startups"
+      ],
+      "brands": [
+        "Rivigo"
+      ],
+      "websites": [
+        "https://rivigo.com"
+      ],
+      "focus": "Express logistics within Mahindra Logistics",
+      "contact_type": "recruiting",
+      "source": "https://mahindralogistics.com/jvs-subsidiaries/",
+      "email_verification": "user_provided_unverified",
+      "research_checked": "2026-10-26",
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true,
+      "review_reason": null
+    },
+    {
+      "email": "careers@zestmoney.in",
+      "company": "ZestMoney",
+      "category": "FinTech & Banking",
+      "category_status": "categorized",
+      "original_groups": [
+        "FinTech & Banking Startups"
+      ],
+      "brands": [
+        "ZestMoney"
+      ],
+      "websites": [
+        "https://zestmoney.in"
+      ],
+      "focus": "Credit platform connecting customers with lending partner DMI",
+      "contact_type": "recruiting",
+      "source": "https://www.zestmoney.in/aboutus/",
+      "email_verification": "user_provided_unverified",
+      "research_checked": "2026-10-26",
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true,
+      "review_reason": null
+    },
+    {
+      "email": "careers@navi.com",
+      "company": "Navi",
+      "category": "FinTech & Banking",
+      "category_status": "categorized",
+      "original_groups": [
+        "FinTech & Banking Startups"
+      ],
+      "brands": [
+        "Navi"
+      ],
+      "websites": [
+        "https://navi.com"
+      ],
+      "focus": "Digital financial services",
+      "contact_type": "recruiting",
+      "source": "https://navi.com/about-us",
+      "email_verification": "user_provided_unverified",
+      "research_checked": "2026-10-26",
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true,
+      "review_reason": null
+    },
+    {
+      "email": "careers@bharatpe.com",
+      "company": "BharatPe",
+      "category": "FinTech & Banking",
+      "category_status": "categorized",
+      "original_groups": [
+        "FinTech & Banking Startups"
+      ],
+      "brands": [
+        "BharatPe"
+      ],
+      "websites": [
+        "https://bharatpe.com"
+      ],
+      "focus": "Merchant payments and financial services",
+      "contact_type": "recruiting",
+      "source": "https://bharatpe.com/",
+      "email_verification": "user_provided_unverified",
+      "research_checked": "2026-10-26",
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true,
+      "review_reason": null
+    },
+    {
+      "email": "careers@cashe.co.in",
+      "company": "CASHe",
+      "category": "FinTech & Banking",
+      "category_status": "categorized",
+      "original_groups": [
+        "FinTech & Banking Startups"
+      ],
+      "brands": [
+        "CASHe"
+      ],
+      "websites": [
+        "https://cashe.co.in"
+      ],
+      "focus": "Digital lending",
+      "contact_type": "recruiting",
+      "source": "https://in.linkedin.com/company/cashe-app",
+      "email_verification": "user_provided_unverified",
+      "research_checked": "2026-10-26",
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true,
+      "review_reason": null
+    },
+    {
+      "email": "careers@credgenics.com",
+      "company": "Credgenics",
+      "category": "Enterprise SaaS",
+      "category_status": "categorized",
+      "original_groups": [
+        "FinTech & Banking Startups"
+      ],
+      "brands": [
+        "Credgenics"
+      ],
+      "websites": [
+        "https://credgenics.com"
+      ],
+      "focus": "Debt collection and resolution software",
+      "contact_type": "recruiting",
+      "source": "https://credgenics.com/",
+      "email_verification": "user_provided_unverified",
+      "research_checked": "2026-10-26",
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true,
+      "review_reason": null
+    },
+    {
+      "email": "careers@hasura.io",
+      "company": "Hasura",
+      "category": "Developer Tools & Infrastructure",
+      "category_status": "categorized",
+      "original_groups": [
+        "B2B SaaS, Cloud & Developer Tools Startups"
+      ],
+      "brands": [
+        "Hasura"
+      ],
+      "websites": [
+        "https://hasura.io"
+      ],
+      "focus": "AI and data tooling, GraphQL APIs",
+      "contact_type": "recruiting",
+      "source": "https://hasura.io/",
+      "email_verification": "user_provided_unverified",
+      "research_checked": "2026-10-26",
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true,
+      "review_reason": null
+    },
+    {
+      "email": "careers@sirionlabs.com",
+      "company": "Sirion",
+      "category": "Enterprise SaaS",
+      "category_status": "categorized",
+      "original_groups": [
+        "B2B SaaS, Cloud & Developer Tools Startups"
+      ],
+      "brands": [
+        "Sirion"
+      ],
+      "websites": [
+        "https://sirionlabs.com"
+      ],
+      "focus": "Contract lifecycle management",
+      "contact_type": "recruiting",
+      "source": "https://www.sirion.ai/",
+      "email_verification": "user_provided_unverified",
+      "research_checked": "2026-10-26",
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true,
+      "review_reason": null
+    },
+    {
+      "email": "careers@wingify.com",
+      "company": "Wingify",
+      "category": "Advertising & Marketing Technology",
+      "category_status": "categorized",
+      "original_groups": [
+        "B2B SaaS, Cloud & Developer Tools Startups"
+      ],
+      "brands": [
+        "Wingify"
+      ],
+      "websites": [
+        "https://wingify.com"
+      ],
+      "focus": "Conversion optimization and experimentation",
+      "contact_type": "recruiting",
+      "source": "https://wingify.com/",
+      "email_verification": "user_provided_unverified",
+      "research_checked": "2026-10-26",
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true,
+      "review_reason": null
+    },
+    {
+      "email": "support@agilecrm.com",
+      "company": "Agile CRM",
+      "category": "Enterprise SaaS",
+      "category_status": "categorized",
+      "original_groups": [
+        "B2B SaaS, Cloud & Developer Tools Startups"
+      ],
+      "brands": [
+        "Agile CRM"
+      ],
+      "websites": [
+        "https://agilecrm.com"
+      ],
+      "focus": "CRM and marketing automation",
+      "contact_type": "support",
+      "source": "https://www.agilecrm.com/",
+      "email_verification": "user_provided_unverified",
+      "research_checked": "2026-10-26",
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true,
+      "review_reason": null
+    },
+    {
+      "email": "careers@atlan.com",
+      "company": "Atlan",
+      "category": "Developer Tools & Infrastructure",
+      "category_status": "categorized",
+      "original_groups": [
+        "B2B SaaS, Cloud & Developer Tools Startups"
+      ],
+      "brands": [
+        "Atlan"
+      ],
+      "websites": [
+        "https://atlan.com"
+      ],
+      "focus": "Metadata and data collaboration",
+      "contact_type": "recruiting",
+      "source": "https://atlan.com/",
+      "email_verification": "user_provided_unverified",
+      "research_checked": "2026-10-26",
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true,
+      "review_reason": null
+    },
+    {
+      "email": "careers@practo.com",
+      "company": "Practo",
+      "category": "HealthTech & Digital Healthcare",
+      "category_status": "categorized",
+      "original_groups": [
+        "HealthTech, EdTech & Consumer Services Startups"
+      ],
+      "brands": [
+        "Practo"
+      ],
+      "websites": [
+        "https://practo.com"
+      ],
+      "focus": "Healthcare access and clinic software",
+      "contact_type": "recruiting",
+      "source": "https://www.practo.com/company/about",
+      "email_verification": "user_provided_unverified",
+      "research_checked": "2026-10-26",
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true,
+      "review_reason": null
+    },
+    {
+      "email": "careers@beatoapp.com",
+      "company": "BeatO",
+      "category": "HealthTech & Digital Healthcare",
+      "category_status": "categorized",
+      "original_groups": [
+        "HealthTech, EdTech & Consumer Services Startups",
+        "HealthTech & Digital Healthcare Startups"
+      ],
+      "brands": [
+        "BeatO"
+      ],
+      "websites": [
+        "https://beatoapp.com",
+        "https://beatoapp.com"
+      ],
+      "focus": "Digital diabetes management",
+      "contact_type": "recruiting",
+      "source": "https://beatoapp.com/",
+      "email_verification": "user_provided_unverified",
+      "research_checked": "2026-10-26",
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true,
+      "review_reason": null
+    },
+    {
+      "email": "careers@vedantu.com",
+      "company": "Vedantu",
+      "category": "EdTech & Learning",
+      "category_status": "categorized",
+      "original_groups": [
+        "HealthTech, EdTech & Consumer Services Startups"
+      ],
+      "brands": [
+        "Vedantu"
+      ],
+      "websites": [
+        "https://vedantu.com"
+      ],
+      "focus": "Interactive learning",
+      "contact_type": "recruiting",
+      "source": "https://www.vedantu.com/",
+      "email_verification": "user_provided_unverified",
+      "research_checked": "2026-10-26",
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true,
+      "review_reason": null
+    },
+    {
+      "email": "careers@toppr.com",
+      "company": "Toppr",
+      "category": "EdTech & Learning",
+      "category_status": "categorized",
+      "original_groups": [
+        "HealthTech, EdTech & Consumer Services Startups"
+      ],
+      "brands": [
+        "Toppr"
+      ],
+      "websites": [
+        "https://toppr.com"
+      ],
+      "focus": "After-school learning",
+      "contact_type": "recruiting",
+      "source": "https://toppr.com",
+      "email_verification": "user_provided_unverified",
+      "research_checked": "2026-10-26",
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": false,
+      "review_reason": "Official site inaccessible and no current operation or recruiting destination verified."
+    },
+    {
+      "email": "careers@cult.fit",
+      "company": "Cult.fit",
+      "category": "Consumer Services",
+      "category_status": "categorized",
+      "original_groups": [
+        "HealthTech, EdTech & Consumer Services Startups"
+      ],
+      "brands": [
+        "Cult.fit"
+      ],
+      "websites": [
+        "https://cult.fit"
+      ],
+      "focus": "Fitness and wellness",
+      "contact_type": "recruiting",
+      "source": "https://support.cult.fit/support/solutions/articles/25000027856-which-fitness-services-does-cult-fit-offer-",
+      "email_verification": "user_provided_unverified",
+      "research_checked": "2026-10-26",
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true,
+      "review_reason": null
+    },
+    {
+      "email": "support@transak.com",
+      "company": "Transak",
+      "category": "Web3 & Blockchain",
+      "category_status": "categorized",
+      "original_groups": [
+        "Web3, Crypto & Blockchain Startups"
+      ],
+      "brands": [
+        "Transak"
+      ],
+      "websites": [
+        "https://transak.com"
+      ],
+      "focus": "Fiat-to-crypto payments",
+      "contact_type": "support",
+      "source": "https://transak.com/",
+      "email_verification": "user_provided_unverified",
+      "research_checked": "2026-10-26",
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true,
+      "review_reason": null
+    },
+    {
+      "email": "careers@polygon.technology",
+      "company": "Polygon Labs",
+      "category": "Web3 & Blockchain",
+      "category_status": "categorized",
+      "original_groups": [
+        "Web3, Crypto & Blockchain Startups"
+      ],
+      "brands": [
+        "Polygon Labs"
+      ],
+      "websites": [
+        "https://polygon.technology"
+      ],
+      "focus": "Blockchain infrastructure",
+      "contact_type": "recruiting",
+      "source": "https://polygon.technology/",
+      "email_verification": "user_provided_unverified",
+      "research_checked": "2026-10-26",
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true,
+      "review_reason": null
+    },
+    {
+      "email": "support@wazirx.com",
+      "company": "WazirX",
+      "category": "Web3 & Blockchain",
+      "category_status": "categorized",
+      "original_groups": [
+        "Web3, Crypto & Blockchain Startups"
+      ],
+      "brands": [
+        "WazirX"
+      ],
+      "websites": [
+        "https://wazirx.com"
+      ],
+      "focus": "Crypto asset exchange",
+      "contact_type": "support",
+      "source": "https://wazirx.com/",
+      "email_verification": "user_provided_unverified",
+      "research_checked": "2026-10-26",
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true,
+      "review_reason": null
+    },
+    {
+      "email": "careers@ninjacart.com",
+      "company": "Ninjacart",
+      "category": "AgriTech & Food Supply",
+      "category_status": "categorized",
+      "original_groups": [
+        "AgriTech & Farm-Tech Startups"
+      ],
+      "brands": [
+        "Ninjacart"
+      ],
+      "websites": [
+        "https://ninjacart.com"
+      ],
+      "focus": "Fresh produce supply chain",
+      "contact_type": "recruiting",
+      "source": "https://ninjacart.com/",
+      "email_verification": "user_provided_unverified",
+      "research_checked": "2026-10-26",
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true,
+      "review_reason": null
+    },
+    {
+      "email": "careers@waycool.in",
+      "company": "WayCool",
+      "category": "AgriTech & Food Supply",
+      "category_status": "categorized",
+      "original_groups": [
+        "AgriTech & Farm-Tech Startups"
+      ],
+      "brands": [
+        "WayCool"
+      ],
+      "websites": [
+        "https://waycool.in"
+      ],
+      "focus": "Food supply and agricultural logistics",
+      "contact_type": "recruiting",
+      "source": "https://waycool.in/logistic-distribution-solution",
+      "email_verification": "user_provided_unverified",
+      "research_checked": "2026-10-26",
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true,
+      "review_reason": null
+    },
+    {
+      "email": "careers@otipy.com",
+      "company": "Otipy / Crofarm",
+      "category": "AgriTech & Food Supply",
+      "category_status": "categorized",
+      "original_groups": [
+        "AgriTech & Farm-Tech Startups"
+      ],
+      "brands": [
+        "Otipy / Crofarm"
+      ],
+      "websites": [
+        "https://otipy.com"
+      ],
+      "focus": "Farm-to-table commerce",
+      "contact_type": "recruiting",
+      "source": "https://www.livemint.com/companies/blinkit-instamart-grofers-farm-produce-agri-tech-quick-commerce-zepto-kirana-otipy-agriculture-startups/11753087991560.html",
+      "email_verification": "user_provided_unverified",
+      "research_checked": "2026-10-26",
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": false,
+      "review_reason": "Reported closure in May 2025; official website unavailable."
+    },
+    {
+      "email": "careers@gramophone.in",
+      "company": "Gramophone",
+      "category": "AgriTech & Food Supply",
+      "category_status": "categorized",
+      "original_groups": [
+        "AgriTech & Farm-Tech Startups"
+      ],
+      "brands": [
+        "Gramophone"
+      ],
+      "websites": [
+        "https://gramophone.in"
+      ],
+      "focus": "Agronomy and farm advisory",
+      "contact_type": "recruiting",
+      "source": "https://gramophone.in/",
+      "email_verification": "user_provided_unverified",
+      "research_checked": "2026-10-26",
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true,
+      "review_reason": null
+    },
+    {
+      "email": "careers@elastic.run",
+      "company": "ElasticRun",
+      "category": "Logistics & Supply Chain",
+      "category_status": "categorized",
+      "original_groups": [
+        "Advanced Logistics & Supply Chain Tech"
+      ],
+      "brands": [
+        "ElasticRun"
+      ],
+      "websites": [
+        "https://elastic.run"
+      ],
+      "focus": "Fulfillment for e-commerce, quick commerce and B2B",
+      "contact_type": "recruiting",
+      "source": "https://elastic.run/",
+      "email_verification": "user_provided_unverified",
+      "research_checked": "2026-10-26",
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true,
+      "review_reason": null
+    },
+    {
+      "email": "careers@olaelectric.com",
+      "company": "Ola Electric",
+      "category": "EV & Clean Energy",
+      "category_status": "categorized",
+      "original_groups": [
+        "CleanTech, EV & Energy Startups"
+      ],
+      "brands": [
+        "Ola Electric"
+      ],
+      "websites": [
+        "https://olaelectric.com"
+      ],
+      "focus": "Electric mobility and batteries",
+      "contact_type": "recruiting",
+      "source": "https://www.olaelectric.com/",
+      "email_verification": "user_provided_unverified",
+      "research_checked": "2026-10-26",
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true,
+      "review_reason": null
+    },
+    {
+      "email": "careers@bounceshare.com",
+      "company": "Bounce",
+      "category": "EV & Clean Energy",
+      "category_status": "categorized",
+      "original_groups": [
+        "CleanTech, EV & Energy Startups"
+      ],
+      "brands": [
+        "Bounce"
+      ],
+      "websites": [
+        "https://bounceshare.com"
+      ],
+      "focus": "Electric mobility and battery swapping",
+      "contact_type": "recruiting",
+      "source": "https://bounceinfinity.com/",
+      "email_verification": "user_provided_unverified",
+      "research_checked": "2026-10-26",
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true,
+      "review_reason": null
+    },
+    {
+      "email": "careers@statiq.in",
+      "company": "Statiq",
+      "category": "EV & Clean Energy",
+      "category_status": "categorized",
+      "original_groups": [
+        "CleanTech, EV & Energy Startups"
+      ],
+      "brands": [
+        "Statiq"
+      ],
+      "websites": [
+        "https://statiq.in"
+      ],
+      "focus": "EV charging network",
+      "contact_type": "recruiting",
+      "source": "https://www.statiq.in/",
+      "email_verification": "user_provided_unverified",
+      "research_checked": "2026-10-26",
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true,
+      "review_reason": null
+    },
+    {
+      "email": "contact@benovymed.com",
+      "company": "Benovymed Healthcare",
+      "category": "HealthTech & Digital Healthcare",
+      "category_status": "categorized",
+      "original_groups": [
+        "HealthTech & Digital Healthcare Startups"
+      ],
+      "brands": [
+        "Benovymed Healthcare"
+      ],
+      "websites": [
+        "https://benovymed.com"
+      ],
+      "focus": "Digital healthcare",
+      "contact_type": "general",
+      "source": "https://benovymed.com/",
+      "email_verification": "user_provided_unverified",
+      "research_checked": "2026-10-26",
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true,
+      "review_reason": null
+    },
+    {
+      "email": "careers@portea.com",
+      "company": "Portea Medical",
+      "category": "HealthTech & Digital Healthcare",
+      "category_status": "categorized",
+      "original_groups": [
+        "HealthTech & Digital Healthcare Startups"
+      ],
+      "brands": [
+        "Portea Medical"
+      ],
+      "websites": [
+        "https://portea.com"
+      ],
+      "focus": "Home healthcare",
+      "contact_type": "recruiting",
+      "source": "https://www.portea.com/",
+      "email_verification": "user_provided_unverified",
+      "research_checked": "2026-10-26",
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true,
+      "review_reason": null
+    },
+    {
+      "email": "hr@niramai.com",
+      "company": "Niramai",
+      "category": "HealthTech & Digital Healthcare",
+      "category_status": "categorized",
+      "original_groups": [
+        "HealthTech & Digital Healthcare Startups"
+      ],
+      "brands": [
+        "Niramai"
+      ],
+      "websites": [
+        "https://niramai.com"
+      ],
+      "focus": "AI thermal screening",
+      "contact_type": "recruiting",
+      "source": "https://niramai.com/",
+      "email_verification": "user_provided_unverified",
+      "research_checked": "2026-10-26",
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true,
+      "review_reason": null
+    },
+    {
+      "email": "careers@dozee.ai",
+      "company": "Dozee",
+      "category": "HealthTech & Digital Healthcare",
+      "category_status": "categorized",
+      "original_groups": [
+        "HealthTech & Digital Healthcare Startups"
+      ],
+      "brands": [
+        "Dozee"
+      ],
+      "websites": [
+        "https://dozee.ai"
+      ],
+      "focus": "Contactless patient monitoring",
+      "contact_type": "recruiting",
+      "source": "https://www.dozeehealth.ai/science",
+      "email_verification": "user_provided_unverified",
+      "research_checked": "2026-10-26",
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true,
+      "review_reason": null
+    },
+    {
+      "email": "contact@aurumproptech.in",
+      "company": "Aurum PropTech",
+      "category": "PropTech & Housing",
+      "category_status": "categorized",
+      "original_groups": [
+        "PropTech & Real Estate Tech Startups"
+      ],
+      "brands": [
+        "Aurum PropTech"
+      ],
+      "websites": [
+        "https://aurumproptech.in"
+      ],
+      "focus": "Real estate technology",
+      "contact_type": "general",
+      "source": "https://www.aurumproptech.in/about",
+      "email_verification": "user_provided_unverified",
+      "research_checked": "2026-10-26",
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true,
+      "review_reason": null
+    },
+    {
+      "email": "support@propadis.com",
+      "company": "PropTech Solutions",
+      "category": "PropTech & Housing",
+      "category_status": "categorized",
+      "original_groups": [
+        "PropTech & Real Estate Tech Startups"
+      ],
+      "brands": [
+        "PropTech Solutions"
+      ],
+      "websites": [
+        "https://proptechsolutions.in"
+      ],
+      "focus": "Property management technology",
+      "contact_type": "support",
+      "source": "https://proptechsolutions.in",
+      "email_verification": "user_provided_unverified",
+      "research_checked": "2026-10-26",
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": false,
+      "review_reason": "Email domain propadis.com does not match supplied company website proptechsolutions.in; awaiting user clarification."
+    },
+    {
+      "email": "careers@squareyards.com",
+      "company": "Square Yards",
+      "category": "PropTech & Housing",
+      "category_status": "categorized",
+      "original_groups": [
+        "PropTech & Real Estate Tech Startups"
+      ],
+      "brands": [
+        "Square Yards"
+      ],
+      "websites": [
+        "https://squareyards.com"
+      ],
+      "focus": "Real estate and mortgage platform",
+      "contact_type": "recruiting",
+      "source": "https://www.squareyards.com/",
+      "email_verification": "user_provided_unverified",
+      "research_checked": "2026-10-26",
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true,
+      "review_reason": null
+    },
+    {
+      "email": "careers@boat-lifestyle.com",
+      "company": "boAt",
+      "category": "Consumer Brands & E-Commerce",
+      "category_status": "categorized",
+      "original_groups": [
+        "D2C Brands & E-Commerce Startups"
+      ],
+      "brands": [
+        "boAt"
+      ],
+      "websites": [
+        "https://boat-lifestyle.com"
+      ],
+      "focus": "Consumer audio and electronics",
+      "contact_type": "recruiting",
+      "source": "https://www.boat-lifestyle.com/",
+      "email_verification": "user_provided_unverified",
+      "research_checked": "2026-10-26",
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true,
+      "review_reason": null
+    },
+    {
+      "email": "careers@wakefit.co",
+      "company": "Wakefit",
+      "category": "Consumer Brands & E-Commerce",
+      "category_status": "categorized",
+      "original_groups": [
+        "D2C Brands & E-Commerce Startups"
+      ],
+      "brands": [
+        "Wakefit"
+      ],
+      "websites": [
+        "https://wakefit.co"
+      ],
+      "focus": "Sleep and home products",
+      "contact_type": "recruiting",
+      "source": "https://www.wakefit.co/",
+      "email_verification": "user_provided_unverified",
+      "research_checked": "2026-10-26",
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true,
+      "review_reason": null
+    },
+    {
+      "email": "hr@beardo.in",
+      "company": "Beardo",
+      "category": "Consumer Brands & E-Commerce",
+      "category_status": "categorized",
+      "original_groups": [
+        "D2C Brands & E-Commerce Startups"
+      ],
+      "brands": [
+        "Beardo"
+      ],
+      "websites": [
+        "https://beardo.in"
+      ],
+      "focus": "Grooming and personal care",
+      "contact_type": "recruiting",
+      "source": "https://beardo.in/",
+      "email_verification": "user_provided_unverified",
+      "research_checked": "2026-10-26",
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true,
+      "review_reason": null
+    },
+    {
+      "email": "hello@perforacare.com",
+      "company": "Perfora",
+      "category": "Consumer Brands & E-Commerce",
+      "category_status": "categorized",
+      "original_groups": [
+        "D2C Brands & E-Commerce Startups"
+      ],
+      "brands": [
+        "Perfora"
+      ],
+      "websites": [
+        "https://perforacare.com"
+      ],
+      "focus": "Oral care products",
+      "contact_type": "general",
+      "source": "https://perforacare.com/",
+      "email_verification": "user_provided_unverified",
+      "research_checked": "2026-10-26",
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true,
+      "review_reason": null
+    },
+    {
+      "email": "careers@darwinbox.com",
+      "company": "Darwinbox",
+      "category": "Enterprise SaaS",
+      "category_status": "categorized",
+      "websites": [
+        "https://darwinbox.com"
+      ],
+      "focus": "AI-native HCM platform Cortex",
+      "contact_type": "recruiting",
+      "source": "https://www.darwinbox.com/",
+      "email_verification": "user_provided_unverified",
+      "research_checked": "2026-10-27",
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true,
+      "review_reason": null
+    },
+    {
+      "email": "india-careers@phenom.com",
+      "company": "Phenom",
+      "category": "Enterprise SaaS",
+      "category_status": "categorized",
+      "websites": [
+        "https://phenom.com"
+      ],
+      "focus": "Talent CRM, career sites, interview scheduling and career pathing",
+      "contact_type": "recruiting",
+      "source": "https://www.phenom.com/",
+      "email_verification": "user_provided_unverified",
+      "research_checked": "2026-10-27",
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true,
+      "review_reason": null
+    },
+    {
+      "email": "careers-india@freshworks.com",
+      "company": "Freshworks",
+      "category": "Enterprise SaaS",
+      "category_status": "categorized",
+      "websites": [
+        "https://freshworks.com"
+      ],
+      "focus": "AI-assisted customer service through Freshdesk",
+      "contact_type": "recruiting",
+      "source": "https://www.freshworks.com/freshdesk/",
+      "email_verification": "user_provided_unverified",
+      "research_checked": "2026-10-27",
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true,
+      "review_reason": null
+    },
+    {
+      "email": "careers@razorpay.com",
+      "company": "Razorpay",
+      "category": "FinTech & Banking",
+      "category_status": "categorized",
+      "websites": [
+        "https://razorpay.com"
+      ],
+      "focus": "Online payments, banking and payroll interfaces",
+      "contact_type": "recruiting",
+      "source": "https://razorpay.com/",
+      "email_verification": "user_provided_unverified",
+      "research_checked": "2026-10-27",
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true,
+      "review_reason": null
+    },
+    {
+      "email": "careers@innominds.com",
+      "company": "Innominds",
+      "category": "Software Engineering & Consulting",
+      "category_status": "categorized",
+      "websites": [
+        "https://innominds.com"
+      ],
+      "focus": "Digital product engineering and AI-native software delivery",
+      "contact_type": "recruiting",
+      "source": "https://www.innominds.com/scalable-product-engineering",
+      "email_verification": "user_provided_unverified",
+      "research_checked": "2026-10-27",
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true,
+      "review_reason": null
+    },
+    {
+      "email": "careers@valuelabs.com",
+      "company": "ValueLabs",
+      "category": "Software Engineering & Consulting",
+      "category_status": "categorized",
+      "websites": [
+        "https://valuelabs.com"
+      ],
+      "focus": "Custom agentic AI solutions and enterprise delivery",
+      "contact_type": "recruiting",
+      "source": "https://www.valuelabs.com/",
+      "email_verification": "user_provided_unverified",
+      "research_checked": "2026-10-27",
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true,
+      "review_reason": null
+    },
+    {
+      "email": "synchronyindia_careers@synchrony.com",
+      "company": "Synchrony",
+      "category": "FinTech & Banking",
+      "category_status": "categorized",
+      "websites": [
+        "https://synchrony.com"
+      ],
+      "focus": "Consumer financing, retail credit and card products",
+      "contact_type": "recruiting",
+      "source": "https://www.synchrony.com/",
+      "email_verification": "user_provided_unverified",
+      "research_checked": "2026-10-27",
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true,
+      "review_reason": null
+    },
+    {
+      "email": "careers@virtusa.com",
+      "company": "Virtusa",
+      "category": "Software Engineering & Consulting",
+      "category_status": "categorized",
+      "websites": [
+        "https://virtusa.com"
+      ],
+      "focus": "AI engineering, operations and digital experiences",
+      "contact_type": "recruiting",
+      "source": "https://www.virtusa.com/",
+      "email_verification": "user_provided_unverified",
+      "research_checked": "2026-10-27",
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true,
+      "review_reason": null
+    },
+    {
+      "email": "careers@arcesium.com",
+      "company": "Arcesium",
+      "category": "FinTech & Banking",
+      "category_status": "categorized",
+      "websites": [
+        "https://arcesium.com"
+      ],
+      "focus": "Investment data architecture and operational technology",
+      "contact_type": "recruiting",
+      "source": "https://www.arcesium.com/",
+      "email_verification": "user_provided_unverified",
+      "research_checked": "2026-10-27",
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true,
+      "review_reason": null
+    },
+    {
+      "email": "recruitment@highradius.com",
+      "company": "HighRadius",
+      "category": "Enterprise SaaS",
+      "category_status": "categorized",
+      "websites": [
+        "https://highradius.com"
+      ],
+      "focus": "Accounts receivable, treasury and finance automation",
+      "contact_type": "recruiting",
+      "source": "https://www.highradius.com/",
+      "email_verification": "user_provided_unverified",
+      "research_checked": "2026-10-27",
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true,
+      "review_reason": null
+    },
+    {
+      "email": "careers@zemosolabs.com",
+      "company": "Zemoso",
+      "category": "Software Engineering & Consulting",
+      "category_status": "categorized",
+      "websites": [
+        "https://zemosolabs.com"
+      ],
+      "focus": "Agentic workflows and digital product engineering",
+      "contact_type": "recruiting",
+      "source": "https://www.zemosolabs.com/",
+      "email_verification": "user_provided_unverified",
+      "research_checked": "2026-10-27",
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true,
+      "review_reason": null
+    },
+    {
+      "email": "careers@blueyonder.com",
+      "company": "Blue Yonder",
+      "category": "Logistics & Supply Chain",
+      "category_status": "categorized",
+      "websites": [
+        "https://blueyonder.com"
+      ],
+      "focus": "Supply-chain planning, order, warehouse and transport management",
+      "contact_type": "recruiting",
+      "source": "https://blueyonder.com/solutions",
+      "email_verification": "user_provided_unverified",
+      "research_checked": "2026-10-27",
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true,
+      "review_reason": null
+    },
+    {
+      "email": "recruitment@mtxgroup.com",
+      "company": "MTX Group",
+      "category": "Recruitment & Staffing",
+      "category_status": "categorized",
+      "websites": [
+        "https://mtxgroup.com"
+      ],
+      "focus": "Therapy and education staffing services; not the similarly named tech consultancy",
+      "contact_type": "recruiting",
+      "source": "https://www.mtxgroup.com/",
+      "email_verification": "user_provided_unverified",
+      "research_checked": "2026-10-27",
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true,
+      "review_reason": null
+    },
+    {
+      "email": "tagindia@ibm.com",
+      "company": "IBM",
+      "category": "Software Engineering & Consulting",
+      "category_status": "categorized",
+      "websites": [
+        "https://ibm.com"
+      ],
+      "focus": "watsonx Orchestrate and AI-supported digital experiences",
+      "contact_type": "recruiting",
+      "source": "https://www.ibm.com/au-en",
+      "email_verification": "user_provided_unverified",
+      "research_checked": "2026-10-27",
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true,
+      "review_reason": null
+    },
+    {
+      "email": "indiajobs@ibm.com",
+      "company": "IBM",
+      "category": "Software Engineering & Consulting",
+      "category_status": "categorized",
+      "websites": [
+        "https://ibm.com"
+      ],
+      "focus": "Live-data digital experiences and enterprise AI",
+      "contact_type": "recruiting",
+      "source": "https://www.ibm.com/au-en",
+      "email_verification": "user_provided_unverified",
+      "research_checked": "2026-10-27",
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true,
+      "review_reason": null
+    },
+    {
+      "email": "npwhrindia@intel.com",
+      "company": "Intel",
+      "category": "Developer Tools & Infrastructure",
+      "category_status": "categorized",
+      "websites": [
+        "https://intel.com"
+      ],
+      "focus": "Developer tools, OpenVINO and oneAPI software resources",
+      "contact_type": "recruiting",
+      "source": "https://www.intel.com/content/www/us/en/developer/overview.html",
+      "email_verification": "user_provided_unverified",
+      "research_checked": "2026-10-27",
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true,
+      "review_reason": null
+    },
+    {
+      "email": "hrindia@lucent.com",
+      "company": null,
+      "category": null,
+      "category_status": "research_pending",
+      "websites": [
+        "https://lucent.com"
+      ],
+      "focus": null,
+      "contact_type": "recruiting",
+      "source": "https://lucent.com",
+      "email_verification": "user_provided_unverified",
+      "research_checked": "2026-10-27",
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": false,
+      "review_reason": "Lucent domain could not be opened; current company and recruiting context for this legacy address unresolved."
+    },
+    {
+      "email": "dreamjob@sony.com",
+      "company": "Sony",
+      "category": "Content & Media",
+      "category_status": "categorized",
+      "websites": [
+        "https://sony.com"
+      ],
+      "focus": "Gaming, music and entertainment digital products",
+      "contact_type": "recruiting",
+      "source": "https://www.sony.com/en/",
+      "email_verification": "user_provided_unverified",
+      "research_checked": "2026-10-27",
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true,
+      "review_reason": null
+    },
+    {
+      "email": "hsshr@hughes.com",
+      "company": "Hughes",
+      "category": "Telecommunications & Connectivity",
+      "category_status": "categorized",
+      "websites": [
+        "https://hughes.com"
+      ],
+      "focus": "Enterprise connectivity and 5G solutions",
+      "contact_type": "general",
+      "source": "https://www.hughes.com/",
+      "email_verification": "user_provided_unverified",
+      "research_checked": "2026-10-27",
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true,
+      "review_reason": null
+    },
+    {
+      "email": "nadhr@nortel.com",
+      "company": null,
+      "category": null,
+      "category_status": "research_pending",
+      "websites": [
+        "https://nortel.com"
+      ],
+      "focus": null,
+      "contact_type": "general",
+      "source": "https://nortel.com",
+      "email_verification": "user_provided_unverified",
+      "research_checked": "2026-10-27",
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": false,
+      "review_reason": "Nortel domain unavailable; no current company/recruiting identity verified."
+    },
+    {
+      "email": "recruitment@tcs.com",
+      "company": "TCS",
+      "category": "Software Engineering & Consulting",
+      "category_status": "categorized",
+      "websites": [
+        "https://tcs.com"
+      ],
+      "focus": "Technology services and enterprise transformation",
+      "contact_type": "recruiting",
+      "source": "https://www.tcs.com/",
+      "email_verification": "user_provided_unverified",
+      "research_checked": "2026-10-27",
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true,
+      "review_reason": null
+    },
+    {
+      "email": "resume@tcs.com",
+      "company": "TCS",
+      "category": "Software Engineering & Consulting",
+      "category_status": "categorized",
+      "websites": [
+        "https://tcs.com"
+      ],
+      "focus": "Technology services and enterprise transformation",
+      "contact_type": "recruiting",
+      "source": "https://www.tcs.com/",
+      "email_verification": "user_provided_unverified",
+      "research_checked": "2026-10-27",
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true,
+      "review_reason": null
+    },
+    {
+      "email": "bangalore@veritas.com",
+      "company": "Veritas / Cohesity",
+      "category": "Developer Tools & Infrastructure",
+      "category_status": "categorized",
+      "websites": [
+        "https://veritas.com"
+      ],
+      "focus": "Veritas website redirects to Cohesity data protection platform",
+      "contact_type": "general",
+      "source": "https://www.cohesity.com/",
+      "email_verification": "user_provided_unverified",
+      "research_checked": "2026-10-27",
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true,
+      "review_reason": null
+    },
+    {
+      "email": "jobs@aspect.com",
+      "company": "Aspect",
+      "category": "Enterprise SaaS",
+      "category_status": "categorized",
+      "websites": [
+        "https://aspect.com"
+      ],
+      "focus": "Workforce management and policy-aware operational tools",
+      "contact_type": "recruiting",
+      "source": "https://www.aspect.com/",
+      "email_verification": "user_provided_unverified",
+      "research_checked": "2026-10-27",
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true,
+      "review_reason": null
+    },
+    {
+      "email": "resume@mbt.com",
+      "company": null,
+      "category": null,
+      "category_status": "research_pending",
+      "websites": [
+        "https://mbt.com"
+      ],
+      "focus": null,
+      "contact_type": "recruiting",
+      "source": "https://mbt.com",
+      "email_verification": "user_provided_unverified",
+      "research_checked": "2026-10-27",
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": false,
+      "review_reason": "mbt.com currently identifies MBT footwear; intended employer for this apparent legacy recruiting address is unclear."
+    },
+    {
+      "email": "resumes@hp.com",
+      "company": "HP",
+      "category": "Consumer Technology",
+      "category_status": "categorized",
+      "websites": [
+        "https://hp.com"
+      ],
+      "focus": "Computers, printers and customer-facing digital services",
+      "contact_type": "recruiting",
+      "source": "https://www.hp.com/be-nl/home.html",
+      "email_verification": "user_provided_unverified",
+      "research_checked": "2026-10-27",
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true,
+      "review_reason": null
+    },
+    {
+      "email": "career@novell.com",
+      "company": "Novell / OpenText",
+      "category": "Enterprise SaaS",
+      "category_status": "categorized",
+      "websites": [
+        "https://novell.com"
+      ],
+      "focus": "Novell website redirects to OpenText Micro Focus brand information",
+      "contact_type": "recruiting",
+      "source": "https://www.opentext.com/about/brands/microfocus",
+      "email_verification": "user_provided_unverified",
+      "research_checked": "2026-10-27",
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true,
+      "review_reason": null
+    },
+    {
+      "email": "careers@sun.com",
+      "company": "Sun / Oracle",
+      "category": "Developer Tools & Infrastructure",
+      "category_status": "categorized",
+      "websites": [
+        "https://sun.com"
+      ],
+      "focus": "Sun website redirects to Oracle IT infrastructure offering",
+      "contact_type": "recruiting",
+      "source": "https://www.oracle.com/it-infrastructure/",
+      "email_verification": "user_provided_unverified",
+      "research_checked": "2026-10-27",
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true,
+      "review_reason": null
+    },
+    {
+      "email": "recruit-india@deshaw.com",
+      "company": "D. E. Shaw",
+      "category": "FinTech & Banking",
+      "category_status": "categorized",
+      "websites": [
+        "https://deshaw.com"
+      ],
+      "focus": "Investment management, technology development and risk management",
+      "contact_type": "recruiting",
+      "source": "https://www.deshaw.com/",
+      "email_verification": "user_provided_unverified",
+      "research_checked": "2026-10-27",
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true,
+      "review_reason": null
+    },
+    {
+      "email": "hrdindia@infogain.com",
+      "company": "Infogain / Tenarai",
+      "category": "Software Engineering & Consulting",
+      "category_status": "categorized",
+      "websites": [
+        "https://infogain.com"
+      ],
+      "focus": "Infogain website redirects to Tenarai enterprise AI and digital engineering",
+      "contact_type": "recruiting",
+      "source": "https://www.tenarai.com/",
+      "email_verification": "user_provided_unverified",
+      "research_checked": "2026-10-27",
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true,
+      "review_reason": null
+    },
+    {
+      "email": "globaltalent@satyam.com",
+      "company": null,
+      "category": null,
+      "category_status": "research_pending",
+      "websites": [
+        "https://satyam.com"
+      ],
+      "focus": null,
+      "contact_type": "general",
+      "source": "https://satyam.com",
+      "email_verification": "user_provided_unverified",
+      "research_checked": "2026-10-27",
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": false,
+      "review_reason": "satyam.com redirects to Satyam Pharma-Chem, a chemicals manufacturer; intended employer identity unclear."
+    },
+    {
+      "email": "resumes@psi.com",
+      "company": null,
+      "category": null,
+      "category_status": "research_pending",
+      "websites": [
+        "https://psi.com"
+      ],
+      "focus": null,
+      "contact_type": "recruiting",
+      "source": "https://psi.com",
+      "email_verification": "user_provided_unverified",
+      "research_checked": "2026-10-27",
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": false,
+      "review_reason": "Current company identity/product could not be established from the supplied domain and focused official-source research."
+    },
+    {
+      "email": "hmsrecruit@siemens.com",
+      "company": "Siemens",
+      "category": "Industrial Technology & Automation",
+      "category_status": "categorized",
+      "websites": [
+        "https://siemens.com"
+      ],
+      "focus": "Industrial technology and software",
+      "contact_type": "general",
+      "source": "https://www.siemens.com/en-us/",
+      "email_verification": "user_provided_unverified",
+      "research_checked": "2026-10-27",
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true,
+      "review_reason": null
+    },
+    {
+      "email": "careers@wipro.com",
+      "company": "Wipro",
+      "category": "Software Engineering & Consulting",
+      "category_status": "categorized",
+      "websites": [
+        "https://wipro.com"
+      ],
+      "focus": "Consulting and AI-powered technology services",
+      "contact_type": "recruiting",
+      "source": "https://www.wipro.com/",
+      "email_verification": "user_provided_unverified",
+      "research_checked": "2026-10-27",
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true,
+      "review_reason": null
+    },
+    {
+      "email": "adsihr@americandata.com",
+      "company": null,
+      "category": null,
+      "category_status": "research_pending",
+      "websites": [
+        "https://americandata.com"
+      ],
+      "focus": null,
+      "contact_type": "general",
+      "source": "https://americandata.com",
+      "email_verification": "user_provided_unverified",
+      "research_checked": "2026-10-27",
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": false,
+      "review_reason": "Current company identity/product could not be established from the supplied domain and focused official-source research."
+    },
+    {
+      "email": "careers@bhartitelesoft.com",
+      "company": null,
+      "category": null,
+      "category_status": "research_pending",
+      "websites": [
+        "https://bhartitelesoft.com"
+      ],
+      "focus": null,
+      "contact_type": "recruiting",
+      "source": "https://bhartitelesoft.com",
+      "email_verification": "user_provided_unverified",
+      "research_checked": "2026-10-27",
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": false,
+      "review_reason": "bhartitelesoft.com redirects to a domain-sale page."
+    },
+    {
+      "email": "india_jobs@cisco.com",
+      "company": "Cisco",
+      "category": "Developer Tools & Infrastructure",
+      "category_status": "categorized",
+      "websites": [
+        "https://cisco.com"
+      ],
+      "focus": "Networking, security and infrastructure software",
+      "contact_type": "general",
+      "source": "https://www.cisco.com/",
+      "email_verification": "user_provided_unverified",
+      "research_checked": "2026-10-27",
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true,
+      "review_reason": null
+    },
+    {
+      "email": "allianzservicesindia-careers@allianz.com",
+      "company": "Allianz",
+      "category": "FinTech & Banking",
+      "category_status": "categorized",
+      "websites": [
+        "https://allianz.com"
+      ],
+      "focus": "Insurance and asset management; India services inquiry",
+      "contact_type": "general",
+      "source": "https://www.allianz.com/en.html",
+      "email_verification": "user_provided_unverified",
+      "research_checked": "2026-10-27",
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true,
+      "review_reason": null
+    },
+    {
+      "email": "careerindia@seranova.com",
+      "company": null,
+      "category": null,
+      "category_status": "research_pending",
+      "websites": [
+        "https://seranova.com"
+      ],
+      "focus": null,
+      "contact_type": "recruiting",
+      "source": "https://seranova.com",
+      "email_verification": "user_provided_unverified",
+      "research_checked": "2026-10-27",
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": false,
+      "review_reason": "seranova.com currently identifies a beauty retailer; intended employer for this apparent legacy address is unclear."
+    },
+    {
+      "email": "hrd@telesoft.com",
+      "company": null,
+      "category": null,
+      "category_status": "research_pending",
+      "websites": [
+        "https://telesoft.com"
+      ],
+      "focus": null,
+      "contact_type": "recruiting",
+      "source": "https://telesoft.com",
+      "email_verification": "user_provided_unverified",
+      "research_checked": "2026-10-27",
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": false,
+      "review_reason": "Current company identity/product could not be established from the supplied domain and focused official-source research."
+    },
+    {
+      "email": "infinity@ssi.com",
+      "company": null,
+      "category": null,
+      "category_status": "research_pending",
+      "websites": [
+        "https://ssi.com"
+      ],
+      "focus": null,
+      "contact_type": "general",
+      "source": "https://ssi.com",
+      "email_verification": "user_provided_unverified",
+      "research_checked": "2026-10-27",
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": false,
+      "review_reason": "Current company identity/product could not be established from the supplied domain and focused official-source research."
+    },
+    {
+      "email": "careers@usinteractive.com",
+      "company": null,
+      "category": null,
+      "category_status": "research_pending",
+      "websites": [
+        "https://usinteractive.com"
+      ],
+      "focus": null,
+      "contact_type": "recruiting",
+      "source": "https://usinteractive.com",
+      "email_verification": "user_provided_unverified",
+      "research_checked": "2026-10-27",
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": false,
+      "review_reason": "Current company identity/product could not be established from the supplied domain and focused official-source research."
+    },
+    {
+      "email": "jobs@cerebra.com",
+      "company": null,
+      "category": null,
+      "category_status": "research_pending",
+      "websites": [
+        "https://cerebra.com"
+      ],
+      "focus": null,
+      "contact_type": "recruiting",
+      "source": "https://cerebra.com",
+      "email_verification": "user_provided_unverified",
+      "research_checked": "2026-10-27",
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": false,
+      "review_reason": "Current company identity/product could not be established from the supplied domain and focused official-source research."
+    },
+    {
+      "email": "hrindia@empowertel.com",
+      "company": null,
+      "category": null,
+      "category_status": "research_pending",
+      "websites": [
+        "https://empowertel.com"
+      ],
+      "focus": null,
+      "contact_type": "recruiting",
+      "source": "https://empowertel.com",
+      "email_verification": "user_provided_unverified",
+      "research_checked": "2026-10-27",
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": false,
+      "review_reason": "Current company identity/product could not be established from the supplied domain and focused official-source research."
+    },
+    {
+      "email": "hrtoi@ptc.com",
+      "company": "PTC",
+      "category": "Enterprise SaaS",
+      "category_status": "categorized",
+      "websites": [
+        "https://ptc.com"
+      ],
+      "focus": "Jetstream connected product-data collaboration and PLM software",
+      "contact_type": "recruiting",
+      "source": "https://www.ptc.com/en",
+      "email_verification": "user_provided_unverified",
+      "research_checked": "2026-10-27",
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true,
+      "review_reason": null
+    },
+    {
+      "email": "work_here@kindle.com",
+      "company": null,
+      "category": null,
+      "category_status": "research_pending",
+      "websites": [
+        "https://kindle.com"
+      ],
+      "focus": null,
+      "contact_type": "general",
+      "source": "https://kindle.com",
+      "email_verification": "user_provided_unverified",
+      "research_checked": "2026-10-27",
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": false,
+      "review_reason": "Current company identity/product could not be established from the supplied domain and focused official-source research."
+    },
+    {
+      "email": "guru@synopsys.com",
+      "company": "Synopsys",
+      "category": "Industrial Technology & Automation",
+      "category_status": "categorized",
+      "websites": [
+        "https://synopsys.com"
+      ],
+      "focus": "Electronic design automation, semiconductor IP and systems verification",
+      "contact_type": "general",
+      "source": "https://www.synopsys.com/",
+      "email_verification": "user_provided_unverified",
+      "research_checked": "2026-10-27",
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true,
+      "review_reason": null
+    },
+    {
+      "email": "careers@sas.com",
+      "company": "SAS",
+      "category": "Enterprise SaaS",
+      "category_status": "categorized",
+      "websites": [
+        "https://sas.com"
+      ],
+      "focus": "Viya analytics, reporting and AI platform",
+      "contact_type": "recruiting",
+      "source": "https://www.sas.com/en_us/software/viya.html",
+      "email_verification": "user_provided_unverified",
+      "research_checked": "2026-10-27",
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true,
+      "review_reason": null
+    },
+    {
+      "email": "forbeshr@forbes.com",
+      "company": "Forbes",
+      "category": "Content & Media",
+      "category_status": "categorized",
+      "websites": [
+        "https://forbes.com"
+      ],
+      "focus": "Digital journalism, newsletters and media content",
+      "contact_type": "general",
+      "source": "https://www.forbes.com/",
+      "email_verification": "user_provided_unverified",
+      "research_checked": "2026-10-27",
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true,
+      "review_reason": null
+    },
+    {
+      "email": "dreamcareers@zensar.com",
+      "company": "Zensar",
+      "category": "Software Engineering & Consulting",
+      "category_status": "categorized",
+      "websites": [
+        "https://zensar.com"
+      ],
+      "focus": "AI-led digital transformation and conversational AI projects",
+      "contact_type": "recruiting",
+      "source": "https://www.zensar.com/",
+      "email_verification": "user_provided_unverified",
+      "research_checked": "2026-10-27",
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true,
+      "review_reason": null
+    },
+    {
+      "email": "careers@firminiq.com",
+      "company": "FIRMINIQ",
+      "category": "HealthTech & Digital Healthcare",
+      "category_status": "categorized",
+      "websites": [
+        "https://firminiq.com"
+      ],
+      "focus": "Connected healthcare product development and web application services",
+      "contact_type": "recruiting",
+      "source": "https://firminiq.com/",
+      "email_verification": "user_provided_unverified",
+      "research_checked": "2026-10-27",
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true,
+      "review_reason": null
+    },
+    {
+      "email": "hr@codesfortomorrow.com",
+      "company": "Codes for Tomorrow",
+      "category": "Software Engineering & Consulting",
+      "category_status": "categorized",
+      "websites": [
+        "https://codesfortomorrow.com"
+      ],
+      "focus": "Blockchain, AI and production digital product development",
+      "contact_type": "recruiting",
+      "source": "https://codesfortomorrow.com/",
+      "email_verification": "user_provided_unverified",
+      "research_checked": "2026-10-27",
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true,
+      "review_reason": null
+    },
+    {
+      "email": "careers@probizmanagementservices.com",
+      "company": null,
+      "category": null,
+      "category_status": "research_pending",
+      "websites": [
+        "https://probizmanagementservices.com"
+      ],
+      "focus": null,
+      "contact_type": "recruiting",
+      "source": "https://probizmanagementservices.com",
+      "email_verification": "user_provided_unverified",
+      "research_checked": "2026-10-27",
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": false,
+      "review_reason": "Current company identity/product could not be established from the supplied domain and focused official-source research."
+    },
+    {
+      "email": "hr@theossystems.com",
+      "company": null,
+      "category": null,
+      "category_status": "research_pending",
+      "websites": [
+        "https://theossystems.com"
+      ],
+      "focus": null,
+      "contact_type": "recruiting",
+      "source": "https://theossystems.com",
+      "email_verification": "user_provided_unverified",
+      "research_checked": "2026-10-27",
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": false,
+      "review_reason": "Current company identity/product could not be established from the supplied domain and focused official-source research."
+    },
+    {
+      "email": "jobs@technobrains.io",
+      "company": "TechnoBrains",
+      "category": "Software Engineering & Consulting",
+      "category_status": "categorized",
+      "websites": [
+        "https://technobrains.io"
+      ],
+      "focus": "React, Angular, mobile and AI software development services",
+      "contact_type": "recruiting",
+      "source": "https://technobrains.io/",
+      "email_verification": "user_provided_unverified",
+      "research_checked": "2026-10-27",
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true,
+      "review_reason": null
+    },
+    {
+      "email": "infostrands@infostrands.com",
+      "company": null,
+      "category": null,
+      "category_status": "research_pending",
+      "websites": [
+        "https://infostrands.com"
+      ],
+      "focus": null,
+      "contact_type": "general",
+      "source": "https://infostrands.com",
+      "email_verification": "user_provided_unverified",
+      "research_checked": "2026-10-27",
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": false,
+      "review_reason": "Current company identity/product could not be established from the supplied domain and focused official-source research."
+    },
+    {
+      "email": "hr@objectorb.com",
+      "company": null,
+      "category": null,
+      "category_status": "research_pending",
+      "websites": [
+        "https://objectorb.com"
+      ],
+      "focus": null,
+      "contact_type": "recruiting",
+      "source": "https://objectorb.com",
+      "email_verification": "user_provided_unverified",
+      "research_checked": "2026-10-27",
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": false,
+      "review_reason": "Current company identity/product could not be established from the supplied domain and focused official-source research."
+    },
+    {
+      "email": "hrd@comnet.com",
+      "company": "Comnet Consulting",
+      "category": "Software Engineering & Consulting",
+      "category_status": "categorized",
+      "websites": [
+        "https://comnet.com"
+      ],
+      "focus": "Managed IT and software services; US business identity",
+      "contact_type": "recruiting",
+      "source": "https://www.comnet.com/",
+      "email_verification": "user_provided_unverified",
+      "research_checked": "2026-10-27",
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true,
+      "review_reason": null
+    },
+    {
+      "email": "hrtelecom@cis.com",
+      "company": null,
+      "category": null,
+      "category_status": "research_pending",
+      "websites": [
+        "https://cis.com"
+      ],
+      "focus": null,
+      "contact_type": "recruiting",
+      "source": "https://cis.com",
+      "email_verification": "user_provided_unverified",
+      "research_checked": "2026-10-27",
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": false,
+      "review_reason": "cis.com only displays a maintenance/support notice; company identity and product context unresolved."
+    },
+    {
+      "email": "jobs@greenmicrosystems.com",
+      "company": null,
+      "category": null,
+      "category_status": "research_pending",
+      "websites": [
+        "https://greenmicrosystems.com"
+      ],
+      "focus": null,
+      "contact_type": "recruiting",
+      "source": "https://greenmicrosystems.com",
+      "email_verification": "user_provided_unverified",
+      "research_checked": "2026-10-27",
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": false,
+      "review_reason": "Current company identity/product could not be established from the supplied domain and focused official-source research."
+    },
+    {
+      "email": "personnel@stpi.in",
+      "company": "Software Technology Parks of India",
+      "category": "Public Sector & Innovation",
+      "category_status": "categorized",
+      "websites": [
+        "https://stpi.in"
+      ],
+      "focus": "Technology incubation and ecosystem services",
+      "contact_type": "recruiting",
+      "source": "https://stpi.in/",
+      "email_verification": "user_provided_unverified",
+      "research_checked": "2026-10-27",
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true,
+      "review_reason": null
+    },
+    {
+      "email": "careers@quark.com",
+      "company": "Quark",
+      "category": "Enterprise SaaS",
+      "category_status": "categorized",
+      "websites": [
+        "https://quark.com"
+      ],
+      "focus": "Structured authoring, publishing and content lifecycle management",
+      "contact_type": "recruiting",
+      "source": "https://www.quark.com/",
+      "email_verification": "user_provided_unverified",
+      "research_checked": "2026-10-27",
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true,
+      "review_reason": null
+    },
+    {
+      "email": "career@sierraopt.com",
+      "company": null,
+      "category": null,
+      "category_status": "research_pending",
+      "websites": [
+        "https://sierraopt.com"
+      ],
+      "focus": null,
+      "contact_type": "recruiting",
+      "source": "https://sierraopt.com",
+      "email_verification": "user_provided_unverified",
+      "research_checked": "2026-10-27",
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": false,
+      "review_reason": "Current company identity/product could not be established from the supplied domain and focused official-source research."
+    },
+    {
+      "email": "recruit_ecom@dsq.com",
+      "company": null,
+      "category": null,
+      "category_status": "research_pending",
+      "websites": [
+        "https://dsq.com"
+      ],
+      "focus": null,
+      "contact_type": "recruiting",
+      "source": "https://dsq.com",
+      "email_verification": "user_provided_unverified",
+      "research_checked": "2026-10-27",
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": false,
+      "review_reason": "Current company identity/product could not be established from the supplied domain and focused official-source research."
+    },
+    {
+      "email": "ecomjobs@cybertech.com",
+      "company": "CyberTech",
+      "category": "Software Engineering & Consulting",
+      "category_status": "categorized",
+      "websites": [
+        "https://cybertech.com"
+      ],
+      "focus": "Cloud ERP, SAP application extension and ArcGIS services",
+      "contact_type": "general",
+      "source": "https://cybertech.com/",
+      "email_verification": "user_provided_unverified",
+      "research_checked": "2026-10-27",
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true,
+      "review_reason": null
+    },
+    {
+      "email": "resumes@formulasys.com",
+      "company": null,
+      "category": null,
+      "category_status": "research_pending",
+      "websites": [
+        "https://formulasys.com"
+      ],
+      "focus": null,
+      "contact_type": "recruiting",
+      "source": "https://formulasys.com",
+      "email_verification": "user_provided_unverified",
+      "research_checked": "2026-10-27",
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": false,
+      "review_reason": "Current company identity/product could not be established from the supplied domain and focused official-source research."
+    },
+    {
+      "email": "hr@workflow.com",
+      "company": "Decisions (workflow.com)",
+      "category": "Enterprise SaaS",
+      "category_status": "categorized",
+      "websites": [
+        "https://workflow.com"
+      ],
+      "focus": "Rules-driven workflow automation; source domain redirects to Decisions",
+      "contact_type": "recruiting",
+      "source": "https://decisions.com/platform/workflows",
+      "email_verification": "user_provided_unverified",
+      "research_checked": "2026-10-27",
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true,
+      "review_reason": null
+    },
+    {
+      "email": "got2b@systemlogic.com",
+      "company": null,
+      "category": null,
+      "category_status": "research_pending",
+      "websites": [
+        "https://systemlogic.com"
+      ],
+      "focus": null,
+      "contact_type": "general",
+      "source": "https://systemlogic.com",
+      "email_verification": "user_provided_unverified",
+      "research_checked": "2026-10-27",
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": false,
+      "review_reason": "systemlogic.com is parked for sale."
+    },
+    {
+      "email": "resume@cyberanalysts.com",
+      "company": null,
+      "category": null,
+      "category_status": "research_pending",
+      "websites": [
+        "https://cyberanalysts.com"
+      ],
+      "focus": null,
+      "contact_type": "recruiting",
+      "source": "https://cyberanalysts.com",
+      "email_verification": "user_provided_unverified",
+      "research_checked": "2026-10-27",
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": false,
+      "review_reason": "Current company identity/product could not be established from the supplied domain and focused official-source research."
+    },
+    {
+      "email": "hr@impetus.com",
+      "company": "Impetus",
+      "category": "Software Engineering & Consulting",
+      "category_status": "categorized",
+      "websites": [
+        "https://impetus.com"
+      ],
+      "focus": "Enterprise AI, data platforms and application modernization",
+      "contact_type": "recruiting",
+      "source": "https://www.impetus.com/",
+      "email_verification": "user_provided_unverified",
+      "research_checked": "2026-10-27",
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true,
+      "review_reason": null
+    },
+    {
+      "email": "svadivel@visteon.com",
+      "company": "Visteon",
+      "category": "Industrial Technology & Automation",
+      "category_status": "categorized",
+      "websites": [
+        "https://visteon.com"
+      ],
+      "focus": "Digital cockpits, infotainment and connected services",
+      "contact_type": "general",
+      "source": "https://www.visteon.com/overview/default.aspx",
+      "email_verification": "user_provided_unverified",
+      "research_checked": "2026-10-27",
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true,
+      "review_reason": null
+    },
+    {
+      "email": "myjobs@amadee.com",
+      "company": null,
+      "category": null,
+      "category_status": "research_pending",
+      "websites": [
+        "https://amadee.com"
+      ],
+      "focus": null,
+      "contact_type": "general",
+      "source": "https://amadee.com",
+      "email_verification": "user_provided_unverified",
+      "research_checked": "2026-10-27",
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": false,
+      "review_reason": "Current company identity/product could not be established from the supplied domain and focused official-source research."
+    },
+    {
+      "email": "hrd@cirruslogic.com",
+      "company": null,
+      "category": null,
+      "category_status": "research_pending",
+      "websites": [
+        "https://cirruslogic.com"
+      ],
+      "focus": null,
+      "contact_type": "recruiting",
+      "source": "https://cirruslogic.com",
+      "email_verification": "user_provided_unverified",
+      "research_checked": "2026-10-27",
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": false,
+      "review_reason": "Cirrus Logic has current official material at cirrus.com, but no current connection to the supplied cirruslogic.com domain was established."
+    },
+    {
+      "email": "mjojo@tvsfugen.com",
+      "company": null,
+      "category": null,
+      "category_status": "research_pending",
+      "websites": [
+        "https://tvsfugen.com"
+      ],
+      "focus": null,
+      "contact_type": "general",
+      "source": "https://tvsfugen.com",
+      "email_verification": "user_provided_unverified",
+      "research_checked": "2026-10-27",
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": false,
+      "review_reason": "Current company identity/product could not be established from the supplied domain and focused official-source research."
+    },
+    {
+      "email": "jobs@onscan.com",
+      "company": null,
+      "category": null,
+      "category_status": "research_pending",
+      "websites": [
+        "https://onscan.com"
+      ],
+      "focus": null,
+      "contact_type": "recruiting",
+      "source": "https://onscan.com",
+      "email_verification": "user_provided_unverified",
+      "research_checked": "2026-10-27",
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": false,
+      "review_reason": "Current company identity/product could not be established from the supplied domain and focused official-source research."
+    },
+    {
+      "email": "jobs@embeddedwireless.com",
+      "company": null,
+      "category": null,
+      "category_status": "research_pending",
+      "websites": [
+        "https://embeddedwireless.com"
+      ],
+      "focus": null,
+      "contact_type": "recruiting",
+      "source": "https://embeddedwireless.com",
+      "email_verification": "user_provided_unverified",
+      "research_checked": "2026-10-27",
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": false,
+      "review_reason": "Current company identity/product could not be established from the supplied domain and focused official-source research."
+    },
+    {
+      "email": "career@deccanet.com",
+      "company": null,
+      "category": null,
+      "category_status": "research_pending",
+      "websites": [
+        "https://deccanet.com"
+      ],
+      "focus": null,
+      "contact_type": "recruiting",
+      "source": "https://deccanet.com",
+      "email_verification": "user_provided_unverified",
+      "research_checked": "2026-10-27",
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": false,
+      "review_reason": "Current company identity/product could not be established from the supplied domain and focused official-source research."
+    },
+    {
+      "email": "joinus@duskvalley.com",
+      "company": null,
+      "category": null,
+      "category_status": "research_pending",
+      "websites": [
+        "https://duskvalley.com"
+      ],
+      "focus": null,
+      "contact_type": "general",
+      "source": "https://duskvalley.com",
+      "email_verification": "user_provided_unverified",
+      "research_checked": "2026-10-27",
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": false,
+      "review_reason": "Current company identity/product could not be established from the supplied domain and focused official-source research."
+    },
+    {
+      "email": "hrd@sema.com",
+      "company": null,
+      "category": null,
+      "category_status": "research_pending",
+      "websites": [
+        "https://sema.com"
+      ],
+      "focus": null,
+      "contact_type": "recruiting",
+      "source": "https://sema.com",
+      "email_verification": "user_provided_unverified",
+      "research_checked": "2026-10-27",
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": false,
+      "review_reason": "sema.com redirects to a NovoMedLink semaglutide safety page; intended employer unclear."
+    },
+    {
+      "email": "future4u@ftd.com",
+      "company": "FTD",
+      "category": "Consumer Brands & E-Commerce",
+      "category_status": "categorized",
+      "websites": [
+        "https://ftd.com"
+      ],
+      "focus": "Online flower discovery, occasion shopping and delivery",
+      "contact_type": "general",
+      "source": "https://www.ftd.com/",
+      "email_verification": "user_provided_unverified",
+      "research_checked": "2026-10-27",
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true,
+      "review_reason": null
+    },
+    {
+      "email": "design@spike.com",
+      "company": "Spike / Paramount Network",
+      "category": "Content & Media",
+      "category_status": "categorized",
+      "websites": [
+        "https://spike.com"
+      ],
+      "focus": "Spike website redirects to Paramount Network show discovery",
+      "contact_type": "general",
+      "source": "https://www.paramountnetwork.com/series/all-series",
+      "email_verification": "user_provided_unverified",
+      "research_checked": "2026-10-27",
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true,
+      "review_reason": null
+    },
+    {
+      "email": "freedom@hcl.com",
+      "company": "HCL Group",
+      "category": "Software Engineering & Consulting",
+      "category_status": "categorized",
+      "websites": [
+        "https://hcl.com"
+      ],
+      "focus": "Technology group; routing inquiry to frontend engineering hiring",
+      "contact_type": "general",
+      "source": "https://hcl.com/",
+      "email_verification": "user_provided_unverified",
+      "research_checked": "2026-10-27",
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true,
+      "review_reason": null
+    },
+    {
+      "email": "corporatetrg@aptech.ac.in",
+      "company": null,
+      "category": null,
+      "category_status": "research_pending",
+      "websites": [
+        "https://aptech.ac.in"
+      ],
+      "focus": null,
+      "contact_type": "general",
+      "source": "https://aptech.ac.in",
+      "email_verification": "user_provided_unverified",
+      "research_checked": "2026-10-27",
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": false,
+      "review_reason": "Current Aptech corporate material is on aptech-worldwide.com; connection to supplied aptech.ac.in domain could not be confirmed."
+    },
+    {
+      "email": "psaib@datamatics.com",
+      "company": "Datamatics",
+      "category": "Software Engineering & Consulting",
+      "category_status": "categorized",
+      "websites": [
+        "https://datamatics.com"
+      ],
+      "focus": "Digital transformation, automation and customer experience",
+      "contact_type": "general",
+      "source": "https://www.datamatics.com/",
+      "email_verification": "user_provided_unverified",
+      "research_checked": "2026-10-27",
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true,
+      "review_reason": null
+    },
+    {
+      "email": "hrd@aquila.com",
+      "company": null,
+      "category": null,
+      "category_status": "research_pending",
+      "websites": [
+        "https://aquila.com"
+      ],
+      "focus": null,
+      "contact_type": "recruiting",
+      "source": "https://aquila.com",
+      "email_verification": "user_provided_unverified",
+      "research_checked": "2026-10-27",
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": false,
+      "review_reason": "Current company identity/product could not be established from the supplied domain and focused official-source research."
+    },
+    {
+      "email": "careers@datum.com",
+      "company": null,
+      "category": null,
+      "category_status": "research_pending",
+      "websites": [
+        "https://datum.com"
+      ],
+      "focus": null,
+      "contact_type": "recruiting",
+      "source": "https://datum.com",
+      "email_verification": "user_provided_unverified",
+      "research_checked": "2026-10-27",
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": false,
+      "review_reason": "Current company identity/product could not be established from the supplied domain and focused official-source research."
+    },
+    {
+      "email": "india_jobs@amber.com",
+      "company": null,
+      "category": null,
+      "category_status": "research_pending",
+      "websites": [
+        "https://amber.com"
+      ],
+      "focus": null,
+      "contact_type": "general",
+      "source": "https://amber.com",
+      "email_verification": "user_provided_unverified",
+      "research_checked": "2026-10-27",
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": false,
+      "review_reason": "Current company identity/product could not be established from the supplied domain and focused official-source research."
+    },
+    {
+      "email": "career@integra.com",
+      "company": "Integra",
+      "category": "Data Centers & Infrastructure",
+      "category_status": "categorized",
+      "websites": [
+        "https://integra.com"
+      ],
+      "focus": "Turnkey data-center facilities; identity differs from similarly named software firms",
+      "contact_type": "recruiting",
+      "source": "https://integra.com/",
+      "email_verification": "user_provided_unverified",
+      "research_checked": "2026-10-27",
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true,
+      "review_reason": null
+    },
+    {
+      "email": "cvindia@lante.com",
+      "company": null,
+      "category": null,
+      "category_status": "research_pending",
+      "websites": [
+        "https://lante.com"
+      ],
+      "focus": null,
+      "contact_type": "general",
+      "source": "https://lante.com",
+      "email_verification": "user_provided_unverified",
+      "research_checked": "2026-10-27",
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": false,
+      "review_reason": "Current company identity/product could not be established from the supplied domain and focused official-source research."
+    },
+    {
+      "email": "relqusa@relq.com",
+      "company": null,
+      "category": null,
+      "category_status": "research_pending",
+      "websites": [
+        "https://relq.com"
+      ],
+      "focus": null,
+      "contact_type": "general",
+      "source": "https://relq.com",
+      "email_verification": "user_provided_unverified",
+      "research_checked": "2026-10-27",
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": false,
+      "review_reason": "Current company identity/product could not be established from the supplied domain and focused official-source research."
+    },
+    {
+      "email": "hrd@sonata-software.com",
+      "company": "Sonata Software",
+      "category": "Software Engineering & Consulting",
+      "category_status": "categorized",
+      "websites": [
+        "https://sonata-software.com"
+      ],
+      "focus": "Business and technology modernization across industries",
+      "contact_type": "recruiting",
+      "source": "https://www.sonata-software.com/",
+      "email_verification": "user_provided_unverified",
+      "research_checked": "2026-10-27",
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": true,
+      "review_reason": null
+    },
+    {
+      "email": "hrdbg@zap.com",
+      "company": null,
+      "category": null,
+      "category_status": "research_pending",
+      "websites": [
+        "https://zap.com"
+      ],
+      "focus": null,
+      "contact_type": "recruiting",
+      "source": "https://zap.com",
+      "email_verification": "user_provided_unverified",
+      "research_checked": "2026-10-27",
+      "hiring_status": "unconfirmed",
+      "outreach_eligible": false,
+      "review_reason": "Current company identity/product could not be established from the supplied domain and focused official-source research."
+    }
+  ]
+}

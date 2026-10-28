@@ -10,6 +10,14 @@ New batches are appended and deduplicated. `outreach-exclusions.json` records
 unreachable addresses and prevents future reimports unless explicitly reinstated.
 The dated startup-outreach files preserve historical draft results only.
 
+`contacts.json` stores company/category metadata for those same addresses,
+including original groups, sources, mailbox verification status and review holds.
+New contacts receive normalized industry categories; unreviewed older categories
+remain explicitly pending. Review-held contacts stay listed but are not drafted.
+Startup outreach uses the unchanged `Resume/Aman-Resume.pdf`, with independently
+written plain-text inquiries and a forwarding request for non-recruiting inboxes.
+Research of a product does not establish that a mailbox works or a role is open.
+
 ## Use
 
 1. Open this project in your assistant with the Gmail plugin connected.

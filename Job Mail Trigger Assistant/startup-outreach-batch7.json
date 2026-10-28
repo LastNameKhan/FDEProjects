@@ -1,0 +1,2956 @@
+{
+  "batch": "batch7",
+  "date": "2026-10-26",
+  "mode": "drafts_only",
+  "resume": "Resume/Aman-Resume.pdf",
+  "resume_bytes": 106346,
+  "email_verification": "User-provided addresses; syntax checked, deliverability not verified.",
+  "items": [
+    {
+      "company": "Haptik",
+      "to": "careers@haptik.ai",
+      "website": "https://haptik.ai",
+      "category": "AI & Automation",
+      "provided_category": "AI, DeepTech & Automation Startups",
+      "focus": "Conversational AI and GenAI solutions",
+      "contact_type": "recruiting",
+      "provided_categories": [
+        "AI, DeepTech & Automation Startups"
+      ],
+      "brands": [
+        "Haptik"
+      ],
+      "related_websites": [
+        "https://haptik.ai"
+      ],
+      "email_verification": "user_provided_unverified",
+      "status": "saved",
+      "subject": "Senior Frontend Engineer | Conversational AI products",
+      "body": "Hello Haptik team,\n\nYour voice, booking and customer-service agents are particularly relevant to my recent startup work on Ewaa Packages AI. Our team combined multilingual travel conversations with validated trip details and ranked packages, making the handoff from chat to action a central product challenge.\n\nI bring 7+ years in frontend engineering, including React/TypeScript administration screens for AI SMS settings and tenant configuration at Bounteous. I’d like to explore senior frontend work on agent setup and customer-facing experiences; building useful AI products in a startup team is what I want to continue.\n\nMy attached resume provides the background for your consideration.\n\nAman Khan\n+91 8223037373\nhttps://github.com/LastNameKhan\nhttps://www.linkedin.com/in/amank-tech27/",
+      "source": "https://www.haptik.ai/",
+      "hiring_status": "unconfirmed",
+      "draft_id": "r636545955323776155",
+      "message_id": "1a1796ce3155492e",
+      "verification": "verified",
+      "attachment_status": "attached",
+      "attachment_filename": "Aman-Resume.pdf",
+      "attachment_bytes": 106346
+    },
+    {
+      "company": "Gnani.ai",
+      "to": "hr@gnani.ai",
+      "website": "https://gnani.ai",
+      "category": "AI & Automation",
+      "provided_category": "AI, DeepTech & Automation Startups",
+      "focus": "Speech recognition and conversational AI",
+      "contact_type": "recruiting",
+      "provided_categories": [
+        "AI, DeepTech & Automation Startups"
+      ],
+      "brands": [
+        "Gnani.ai"
+      ],
+      "related_websites": [
+        "https://gnani.ai"
+      ],
+      "email_verification": "user_provided_unverified",
+      "status": "saved",
+      "subject": "Frontend opportunities in voice AI | React and TypeScript",
+      "body": "Hi Gnani.ai hiring team,\n\nI’m interested in the interfaces around your enterprise voice AI: configuring agents and helping teams understand what happened in a conversation.\n\nAt Bounteous, I worked on React/TypeScript configuration workflows and AI assistant settings. More recently, I contributed to the startup project Ewaa Packages AI, where our team supported multilingual voice/text intake and checked that a conversation contained valid trip information before proceeding. That practical connection between AI and a usable product makes startup work appealing to me.\n\nCould my experience suit a frontend engineering opportunity? My attached CV details that experience and the teams I’ve worked with.\n\nAman Khan\n+91 8223037373\nhttps://github.com/LastNameKhan\nhttps://www.linkedin.com/in/amank-tech27/",
+      "source": "https://www.gnani.ai/wp-content/uploads/2024/10/Gnani_Collections_Case_Study-Intl-1-1.pdf",
+      "hiring_status": "unconfirmed",
+      "draft_id": "r963912405722286117",
+      "message_id": "1a1796d80730d91b",
+      "verification": "verified",
+      "attachment_status": "attached",
+      "attachment_filename": "Aman-Resume.pdf",
+      "attachment_bytes": 106346
+    },
+    {
+      "company": "Krutrim",
+      "to": "careers@olakrutrim.com",
+      "website": "https://olakrutrim.com",
+      "category": "AI & Automation",
+      "provided_category": "AI, DeepTech & Automation Startups",
+      "focus": "Foundational models and AI cloud",
+      "contact_type": "recruiting",
+      "provided_categories": [
+        "AI, DeepTech & Automation Startups"
+      ],
+      "brands": [
+        "Krutrim"
+      ],
+      "related_websites": [
+        "https://olakrutrim.com"
+      ],
+      "email_verification": "user_provided_unverified",
+      "status": "saved",
+      "subject": "Senior React engineer for AI cloud interfaces",
+      "body": "Hello Krutrim team,\n\nBringing compute, storage, networking and AI workloads into one console is the part of Krutrim Cloud that caught my attention. My experience includes tenant administration, credential configuration and permission-aware React/TypeScript screens at Bounteous, alongside AWS delivery workflows.\n\nI also worked with a startup team on Ewaa Packages AI, whose conversational agent turns travel requests into structured inputs for live package generation. I’m keen to stay close to product development in a startup environment, particularly where complex infrastructure needs a clear interface.\n\nPlease consider the attached resume for senior frontend opportunities on your cloud products.\n\nAman Khan\n+91 8223037373\nhttps://github.com/LastNameKhan\nhttps://www.linkedin.com/in/amank-tech27/",
+      "source": "https://www.olakrutrim.com/",
+      "hiring_status": "unconfirmed",
+      "draft_id": "r223617858098795349",
+      "message_id": "1a1796d9dd994537",
+      "verification": "verified",
+      "attachment_status": "attached",
+      "attachment_filename": "Aman-Resume.pdf",
+      "attachment_bytes": 106346
+    },
+    {
+      "company": "Sarvam AI",
+      "to": "careers@sarvam.ai",
+      "website": "https://sarvam.ai",
+      "category": "AI & Automation",
+      "provided_category": "AI, DeepTech & Automation Startups",
+      "focus": "Indian language foundational AI",
+      "contact_type": "recruiting",
+      "provided_categories": [
+        "AI, DeepTech & Automation Startups"
+      ],
+      "brands": [
+        "Sarvam AI"
+      ],
+      "related_websites": [
+        "https://sarvam.ai"
+      ],
+      "email_verification": "user_provided_unverified",
+      "status": "saved",
+      "subject": "React/TypeScript engineer interested in multilingual AI",
+      "body": "Hi Sarvam recruiting team,\n\nMy work on multilingual React applications at RWS makes Sarvam’s Indian-language speech and translation tools especially interesting. I would like to contribute to frontend experiences that help developers and users access those capabilities.\n\nA recent startup project, Ewaa Packages AI, gave me additional exposure to conversational product work: our team gathered travel preferences through multilingual chat and interactive widgets rather than a lengthy intake form. I’d welcome more of that hands-on startup product building.\n\nThe enclosed resume covers my 7+ years of frontend experience. Are there relevant senior engineering opportunities to discuss?\n\nAman Khan\n+91 8223037373\nhttps://github.com/LastNameKhan\nhttps://www.linkedin.com/in/amank-tech27/",
+      "source": "https://docs.sarvam.ai/",
+      "hiring_status": "unconfirmed",
+      "draft_id": "r2993070797568722201",
+      "message_id": "1a1796db97d4a179",
+      "verification": "verified",
+      "attachment_status": "attached",
+      "attachment_filename": "Aman-Resume.pdf",
+      "attachment_bytes": 106346
+    },
+    {
+      "company": "Qure.ai",
+      "to": "hr@qure.ai",
+      "website": "https://qure.ai",
+      "category": "HealthTech & Digital Healthcare",
+      "provided_category": "AI, DeepTech & Automation Startups",
+      "focus": "Medical imaging AI diagnostics",
+      "contact_type": "recruiting",
+      "provided_categories": [
+        "AI, DeepTech & Automation Startups"
+      ],
+      "brands": [
+        "Qure.ai"
+      ],
+      "related_websites": [
+        "https://qure.ai"
+      ],
+      "email_verification": "user_provided_unverified",
+      "status": "saved",
+      "subject": "Senior frontend application | Usable healthcare AI",
+      "body": "Hello Qure.ai team,\n\nI’m reaching out about frontend engineering opportunities supporting your healthcare AI products. Clear presentation and dependable user interactions matter when complex outputs need to be understood, and that is where I would hope to contribute.\n\nMy background spans React/TypeScript interfaces, API integration and reusable components. At RWS, I helped migrate a JavaScript application to React/TypeScript, reducing runtime errors by 30%. I’ve also worked on Ewaa Packages AI with a startup team, whose agent validates travel inputs before generating options; I enjoy developing products where correctness shapes the experience.\n\nI’m attaching my resume for your assessment.\n\nAman Khan\n+91 8223037373\nhttps://github.com/LastNameKhan\nhttps://www.linkedin.com/in/amank-tech27/",
+      "source": "https://www.qure.ai/",
+      "hiring_status": "unconfirmed",
+      "draft_id": "r4202633287718786911",
+      "message_id": "1a1796dd4c85e707",
+      "verification": "verified",
+      "attachment_status": "attached",
+      "attachment_filename": "Aman-Resume.pdf",
+      "attachment_bytes": 106346
+    },
+    {
+      "company": "Mad Street Den",
+      "to": "careers@madstreetden.com",
+      "website": "https://madstreetden.com",
+      "category": "AI & Automation",
+      "provided_category": "AI, DeepTech & Automation Startups",
+      "focus": "Enterprise AI orchestration through Vue.ai",
+      "contact_type": "recruiting",
+      "provided_categories": [
+        "AI, DeepTech & Automation Startups"
+      ],
+      "brands": [
+        "Mad Street Den"
+      ],
+      "related_websites": [
+        "https://madstreetden.com"
+      ],
+      "email_verification": "user_provided_unverified",
+      "status": "saved",
+      "subject": "Frontend product engineering | Enterprise AI workflows",
+      "body": "Hi Mad Street Den team,\n\nVue.ai’s enterprise AI orchestration focus interests me from a frontend product perspective: helping users configure a workflow and understand its output.\n\nI’ve built React/TypeScript administration experiences involving tenant settings, credentials and AI assistant configuration at Bounteous. In a startup setting, I also worked on Ewaa Packages AI; our team connected conversational travel intake to live inventory and six ranked package choices. I’d like my next role to keep that combination of product ownership and close startup collaboration.\n\nWould you consider my attached resume for senior frontend roles around your AI platform?\n\nAman Khan\n+91 8223037373\nhttps://github.com/LastNameKhan\nhttps://www.linkedin.com/in/amank-tech27/",
+      "source": "https://vue.ai/",
+      "hiring_status": "unconfirmed",
+      "draft_id": "r217388901463533823",
+      "message_id": "1a1796df128d37ae",
+      "verification": "verified",
+      "attachment_status": "attached",
+      "attachment_filename": "Aman-Resume.pdf",
+      "attachment_bytes": 106346
+    },
+    {
+      "company": "Zepto",
+      "to": "careers@zeptonow.com",
+      "website": "https://zeptonow.com",
+      "category": "Quick Commerce & Delivery",
+      "provided_category": "FinTech, SaaS & Enterprise Tech Startups",
+      "focus": "Quick commerce and logistics",
+      "contact_type": "recruiting",
+      "provided_categories": [
+        "FinTech, SaaS & Enterprise Tech Startups"
+      ],
+      "brands": [
+        "Zepto"
+      ],
+      "related_websites": [
+        "https://zeptonow.com"
+      ],
+      "email_verification": "user_provided_unverified",
+      "status": "saved",
+      "subject": "Senior Frontend Engineer | Live commerce experiences",
+      "body": "Hello Zepto hiring team,\n\nThe progression from packing to delivery in Zepto’s live order tracking is a frontend problem I’d be interested in working on: keeping changing information understandable without making the screen feel busy.\n\nI have 7+ years of frontend experience, including real-time React integrations at RWS and Firebase/Socket.io collaboration at XBREYINS. My recent startup work on Ewaa Packages AI also involved a product where our team turned live travel inventory into selectable packages. I’m drawn to startup teams building experiences used in everyday decisions.\n\nMy resume is attached; I’d appreciate consideration for relevant React/TypeScript opportunities.\n\nAman Khan\n+91 8223037373\nhttps://github.com/LastNameKhan\nhttps://www.linkedin.com/in/amank-tech27/",
+      "source": "https://www.zepto.com/buy-grocery",
+      "hiring_status": "unconfirmed",
+      "draft_id": "r6667576914987669227",
+      "message_id": "1a1796f23d9c8189",
+      "verification": "verified",
+      "attachment_status": "attached",
+      "attachment_filename": "Aman-Resume.pdf",
+      "attachment_bytes": 106346
+    },
+    {
+      "company": "Groww",
+      "to": "careers@groww.in",
+      "website": "https://groww.in",
+      "category": "FinTech & Banking",
+      "provided_category": "FinTech, SaaS & Enterprise Tech Startups",
+      "focus": "Investment platform",
+      "contact_type": "recruiting",
+      "provided_categories": [
+        "FinTech, SaaS & Enterprise Tech Startups"
+      ],
+      "brands": [
+        "Groww"
+      ],
+      "related_websites": [
+        "https://groww.in"
+      ],
+      "email_verification": "user_provided_unverified",
+      "status": "saved",
+      "subject": "React engineer | Investment discovery and live data",
+      "body": "Hi Groww team,\n\nI’d like to explore senior frontend opportunities involving your investment discovery and trading experiences. Stock filters, watchlists and live P&L make reliable state updates and readable interfaces particularly important.\n\nAt RWS, my Redux work cut unnecessary re-renders by 40%, and I’ve delivered React/TypeScript applications with real-time API integration. I also contributed to Ewaa Packages AI in a startup team, where our system ranked live travel options for comparison. Working closely on a product’s usefulness is a reason I want to continue in startup engineering.\n\nThe attached CV outlines the relevant projects and employment history.\n\nAman Khan\n+91 8223037373\nhttps://github.com/LastNameKhan\nhttps://www.linkedin.com/in/amank-tech27/",
+      "source": "https://groww.in/",
+      "hiring_status": "unconfirmed",
+      "draft_id": "r-5618976446890588018",
+      "message_id": "1a1796f3f189c33e",
+      "verification": "verified",
+      "attachment_status": "attached",
+      "attachment_filename": "Aman-Resume.pdf",
+      "attachment_bytes": 106346
+    },
+    {
+      "company": "Postman",
+      "to": "support@getpostman.com",
+      "website": "https://getpostman.com",
+      "category": "Developer Tools & Infrastructure",
+      "provided_category": "FinTech, SaaS & Enterprise Tech Startups",
+      "focus": "API development platform",
+      "contact_type": "support",
+      "provided_categories": [
+        "FinTech, SaaS & Enterprise Tech Startups"
+      ],
+      "brands": [
+        "Postman"
+      ],
+      "related_websites": [
+        "https://getpostman.com"
+      ],
+      "email_verification": "user_provided_unverified",
+      "status": "saved",
+      "subject": "Senior Frontend Engineer inquiry | API tooling",
+      "body": "Hello Postman team,\n\nCould you forward this note and the attached resume to the engineering hiring team for senior frontend opportunities?\n\nPostman’s API engineering tools interest me because I’ve worked on the UI side of integration setup: webhooks, field mapping, tenant configuration and credential management in React/TypeScript. I also worked with a startup team on Ewaa Packages AI, whose conversational flow calls tools and checks structured trip data before retrieving inventory.\n\nI’d enjoy bringing that experience to developer-facing interfaces, while continuing the close product collaboration I value in startup work.\n\nAman Khan\n+91 8223037373\nhttps://github.com/LastNameKhan\nhttps://www.linkedin.com/in/amank-tech27/",
+      "source": "https://www.postman.com/",
+      "hiring_status": "unconfirmed",
+      "draft_id": "r-2973136113473933161",
+      "message_id": "1a1796f5dfe644cf",
+      "verification": "verified",
+      "attachment_status": "attached",
+      "attachment_filename": "Aman-Resume.pdf",
+      "attachment_bytes": 106346
+    },
+    {
+      "company": "CleverTap",
+      "to": "hr@clevertap.com",
+      "website": "https://clevertap.com",
+      "category": "Advertising & Marketing Technology",
+      "provided_category": "FinTech, SaaS & Enterprise Tech Startups",
+      "focus": "Customer engagement and analytics",
+      "contact_type": "recruiting",
+      "provided_categories": [
+        "FinTech, SaaS & Enterprise Tech Startups"
+      ],
+      "brands": [
+        "CleverTap"
+      ],
+      "related_websites": [
+        "https://clevertap.com"
+      ],
+      "email_verification": "user_provided_unverified",
+      "status": "saved",
+      "subject": "Frontend engineering inquiry | Campaign configuration",
+      "body": "Hello CleverTap recruitment team,\n\nCleverTap’s campaign orchestration and customer analytics connect closely with my work on marketing administration interfaces at Bounteous. I’ve developed React/TypeScript screens for campaign configuration, field mapping, webhooks and AI SMS assistant settings.\n\nI recently worked on Ewaa Packages AI with a startup team; our system translated conversational preferences into ranked travel choices. That experience strengthened my interest in building interfaces that make AI-driven decisions usable, rather than just exposing model output.\n\nI’d be interested in senior frontend opportunities across your engagement products. My resume accompanies this note with further detail.\n\nAman Khan\n+91 8223037373\nhttps://github.com/LastNameKhan\nhttps://www.linkedin.com/in/amank-tech27/",
+      "source": "https://clevertap.com/",
+      "hiring_status": "unconfirmed",
+      "draft_id": "r1999218331674363216",
+      "message_id": "1a1796f7b2f301fc",
+      "verification": "verified",
+      "attachment_status": "attached",
+      "attachment_filename": "Aman-Resume.pdf",
+      "attachment_bytes": 106346
+    },
+    {
+      "company": "Keka HR",
+      "to": "careers@keka.com",
+      "website": "https://keka.com",
+      "category": "Enterprise SaaS",
+      "provided_category": "FinTech, SaaS & Enterprise Tech Startups",
+      "focus": "Payroll and HR software",
+      "contact_type": "recruiting",
+      "provided_categories": [
+        "FinTech, SaaS & Enterprise Tech Startups"
+      ],
+      "brands": [
+        "Keka HR"
+      ],
+      "related_websites": [
+        "https://keka.com"
+      ],
+      "email_verification": "user_provided_unverified",
+      "status": "saved",
+      "subject": "Senior frontend candidate | HR and payroll products",
+      "body": "Hi Keka hiring team,\n\nConnecting onboarding, payroll and employee information is a compelling setting for careful frontend work. I’m interested in helping make those administrative journeys easier to navigate.\n\nMy 7+ years include React/TypeScript tenant management, permission-aware configuration and form validation at Bounteous. I also contributed to the startup project Ewaa Packages AI, where our team used guided widgets alongside chat to collect complete travel requirements. I like the direct product feedback that comes with startup teams and would bring that mindset to your HR software.\n\nPlease find my resume attached for suitable senior frontend positions.\n\nAman Khan\n+91 8223037373\nhttps://github.com/LastNameKhan\nhttps://www.linkedin.com/in/amank-tech27/",
+      "source": "https://www.keka.com/",
+      "hiring_status": "unconfirmed",
+      "draft_id": "r-1521309015732965867",
+      "message_id": "1a1796f97d339a33",
+      "verification": "verified",
+      "attachment_status": "attached",
+      "attachment_filename": "Aman-Resume.pdf",
+      "attachment_bytes": 106346
+    },
+    {
+      "company": "Amagi",
+      "to": "careers@amagi.com",
+      "website": "https://amagi.com",
+      "category": "Content & Media",
+      "provided_category": "FinTech, SaaS & Enterprise Tech Startups",
+      "focus": "Cloud broadcast and media software",
+      "contact_type": "recruiting",
+      "provided_categories": [
+        "FinTech, SaaS & Enterprise Tech Startups"
+      ],
+      "brands": [
+        "Amagi"
+      ],
+      "related_websites": [
+        "https://amagi.com"
+      ],
+      "email_verification": "user_provided_unverified",
+      "status": "saved",
+      "subject": "React/TypeScript application | Media operations software",
+      "body": "Hello Amagi team,\n\nAmagi NOW’s span from media ingest to ad insertion caught my eye. I’d be interested in frontend work that helps operators manage those connected workflows clearly.\n\nAt Bounteous, I built React/TypeScript configuration experiences for marketing applications, including integrations and tenant-specific settings. My recent startup project was Ewaa Packages AI: our team brought conversational intake, live inventory and package selection into one travel workflow. Working across that kind of evolving product is what I enjoy about startup engineering.\n\nI’ve included my resume and would appreciate hearing about senior frontend roles suited to this background.\n\nAman Khan\n+91 8223037373\nhttps://github.com/LastNameKhan\nhttps://www.linkedin.com/in/amank-tech27/",
+      "source": "https://www.amagi.com/",
+      "hiring_status": "unconfirmed",
+      "draft_id": "r7185331159069255277",
+      "message_id": "1a1796fb3861d06f",
+      "verification": "verified",
+      "attachment_status": "attached",
+      "attachment_filename": "Aman-Resume.pdf",
+      "attachment_bytes": 106346
+    },
+    {
+      "company": "PharmEasy",
+      "to": "careers@pharmeasy.in",
+      "website": "https://pharmeasy.in",
+      "category": "HealthTech & Digital Healthcare",
+      "provided_category": "Consumer Tech, HealthTech & Logistics",
+      "focus": "Online pharmacy and healthcare",
+      "contact_type": "recruiting",
+      "provided_categories": [
+        "Consumer Tech, HealthTech & Logistics"
+      ],
+      "brands": [
+        "PharmEasy"
+      ],
+      "related_websites": [
+        "https://pharmeasy.in"
+      ],
+      "email_verification": "user_provided_unverified",
+      "status": "saved",
+      "subject": "Frontend application | Reliable patient journeys",
+      "body": "Hello PharmEasy team,\n\nFinding a medicine, choosing a delivery location and completing an order should feel straightforward even when the underlying information is complex. I’m interested in senior frontend work on those patient-facing journeys.\n\nMy experience includes React/TypeScript forms, API integration and reusable UI architecture. I also worked on Ewaa Packages AI with a startup team; our travel agent checked incomplete or invalid inputs before presenting bookable choices. That blend of practical product work and close team involvement is something I’d like to continue.\n\nMy attached resume offers further context on the applications I’ve delivered.\n\nAman Khan\n+91 8223037373\nhttps://github.com/LastNameKhan\nhttps://www.linkedin.com/in/amank-tech27/",
+      "source": "https://pharmeasy.in/",
+      "hiring_status": "unconfirmed",
+      "draft_id": "r4483186407970288788",
+      "message_id": "1a179701eab141a9",
+      "verification": "verified",
+      "attachment_status": "attached",
+      "attachment_filename": "Aman-Resume.pdf",
+      "attachment_bytes": 106346
+    },
+    {
+      "company": "Licious",
+      "to": "hr@licious.com",
+      "website": "https://licious.in",
+      "category": "Consumer Brands & E-Commerce",
+      "provided_category": "Consumer Tech, HealthTech & Logistics",
+      "focus": "Consumer food commerce",
+      "contact_type": "recruiting",
+      "provided_categories": [
+        "Consumer Tech, HealthTech & Logistics"
+      ],
+      "brands": [
+        "Licious"
+      ],
+      "related_websites": [
+        "https://licious.in"
+      ],
+      "email_verification": "user_provided_unverified",
+      "status": "saved",
+      "subject": "Senior React developer | Consumer ordering products",
+      "body": "Hi Licious team,\n\nI noticed how prominently Licious explains sourcing and quality alongside its meat and seafood offering. Presenting that information clearly during product discovery is a consumer frontend challenge I’d enjoy tackling.\n\nAt RWS, I improved React application reliability through TypeScript migration and state management. More recently, I worked in a startup team on Ewaa Packages AI, where our system made live travel options easier to compare. I’m looking for another product team where engineering stays close to customer decisions.\n\nWould my attached CV be relevant to senior frontend hiring at Licious?\n\nAman Khan\n+91 8223037373\nhttps://github.com/LastNameKhan\nhttps://www.linkedin.com/in/amank-tech27/",
+      "source": "https://www.licious.in/blog/safety",
+      "hiring_status": "unconfirmed",
+      "draft_id": "r-584683086884650698",
+      "message_id": "1a179703b1c7f4f6",
+      "verification": "verified",
+      "attachment_status": "attached",
+      "attachment_filename": "Aman-Resume.pdf",
+      "attachment_bytes": 106346
+    },
+    {
+      "company": "Niyo",
+      "to": "careers@goniyo.com",
+      "website": "https://goniyo.com",
+      "category": "FinTech & Banking",
+      "provided_category": "Consumer Tech, HealthTech & Logistics",
+      "focus": "Travel and financial services",
+      "contact_type": "recruiting",
+      "provided_categories": [
+        "Consumer Tech, HealthTech & Logistics"
+      ],
+      "brands": [
+        "Niyo"
+      ],
+      "related_websites": [
+        "https://goniyo.com"
+      ],
+      "email_verification": "user_provided_unverified",
+      "status": "saved",
+      "subject": "Frontend engineering | Travel and financial experiences",
+      "body": "Hello Niyo recruiting team,\n\nNiyo’s combination of travel services and forex products gives this inquiry a direct connection to my recent work. I contributed to Ewaa Packages AI in a startup team, whose conversational product collected trip preferences and assembled live flight, hotel and activity options.\n\nAlongside that project, I bring senior React/TypeScript experience in API-connected interfaces, configuration workflows and UI performance. I’d like to continue building travel-related products with the involvement and pace I’ve enjoyed in startup work.\n\nI’ve attached my resume for frontend engineering opportunities involving your travel and customer journeys.\n\nAman Khan\n+91 8223037373\nhttps://github.com/LastNameKhan\nhttps://www.linkedin.com/in/amank-tech27/",
+      "source": "https://goniyo.com/",
+      "hiring_status": "unconfirmed",
+      "draft_id": "r505228216250328729",
+      "message_id": "1a17970561c9db72",
+      "verification": "verified",
+      "attachment_status": "attached",
+      "attachment_filename": "Aman-Resume.pdf",
+      "attachment_bytes": 106346
+    },
+    {
+      "company": "Porter",
+      "to": "hr@porter.in",
+      "website": "https://porter.in",
+      "category": "Logistics & Supply Chain",
+      "provided_category": "Consumer Tech, HealthTech & Logistics",
+      "focus": "Intra-city logistics",
+      "contact_type": "recruiting",
+      "provided_categories": [
+        "Consumer Tech, HealthTech & Logistics"
+      ],
+      "brands": [
+        "Porter"
+      ],
+      "related_websites": [
+        "https://porter.in"
+      ],
+      "email_verification": "user_provided_unverified",
+      "status": "saved",
+      "subject": "Senior frontend inquiry | Logistics booking interfaces",
+      "body": "Hi Porter team,\n\nPorter’s customer booking experience and enterprise logistics offering interest me as places where responsive interfaces can simplify a complicated operational task.\n\nI’ve worked on real-time React applications, including Firebase/Socket.io synchronization at XBREYINS, and on tenant-aware administration screens at Bounteous. With a startup team, I recently contributed to Ewaa Packages AI; our system resolved destination and airport ambiguities before retrieving travel options. I’m keen to bring that attention to clear inputs and dependable updates to another product-led environment.\n\nPlease review my attached resume for suitable senior frontend engineering roles.\n\nAman Khan\n+91 8223037373\nhttps://github.com/LastNameKhan\nhttps://www.linkedin.com/in/amank-tech27/",
+      "source": "https://porter.in/",
+      "hiring_status": "unconfirmed",
+      "draft_id": "r7744934353195353554",
+      "message_id": "1a1797073ea7f902",
+      "verification": "verified",
+      "attachment_status": "attached",
+      "attachment_filename": "Aman-Resume.pdf",
+      "attachment_bytes": 106346
+    },
+    {
+      "company": "Country Delight",
+      "to": "careers@countrydelight.in",
+      "website": "https://countrydelight.in",
+      "category": "Consumer Brands & E-Commerce",
+      "provided_category": "Consumer Tech, HealthTech & Logistics",
+      "focus": "Direct-to-consumer grocery delivery",
+      "contact_type": "recruiting",
+      "provided_categories": [
+        "Consumer Tech, HealthTech & Logistics"
+      ],
+      "brands": [
+        "Country Delight"
+      ],
+      "related_websites": [
+        "https://countrydelight.in"
+      ],
+      "email_verification": "user_provided_unverified",
+      "status": "saved",
+      "subject": "React/TypeScript candidate | Everyday subscription journeys",
+      "body": "Hello Country Delight hiring team,\n\nYour early-morning milk and grocery delivery proposition makes dependable everyday interactions particularly interesting to me: customers should be able to understand their selection and ordering details without friction.\n\nMy background covers 7+ years of frontend development, with React state management, API integration and tested reusable interfaces. I also worked with a startup team on Ewaa Packages AI, whose product retained past chats and let travelers revise package choices. I enjoy that ongoing relationship between product iteration and real user needs.\n\nThe resume attached outlines my experience for senior frontend consideration.\n\nAman Khan\n+91 8223037373\nhttps://github.com/LastNameKhan\nhttps://www.linkedin.com/in/amank-tech27/",
+      "source": "https://countrydelight.in/",
+      "hiring_status": "unconfirmed",
+      "draft_id": "r-8579985227791251229",
+      "message_id": "1a1797094ddef327",
+      "verification": "verified",
+      "attachment_status": "attached",
+      "attachment_filename": "Aman-Resume.pdf",
+      "attachment_bytes": 106346
+    },
+    {
+      "company": "Ultraviolette",
+      "to": "hr@ultraviolette.com",
+      "website": "https://ultraviolette.com",
+      "category": "EV & Clean Energy",
+      "provided_category": "Consumer Tech, HealthTech & Logistics",
+      "focus": "Electric vehicles and battery technology",
+      "contact_type": "recruiting",
+      "provided_categories": [
+        "Consumer Tech, HealthTech & Logistics"
+      ],
+      "brands": [
+        "Ultraviolette"
+      ],
+      "related_websites": [
+        "https://ultraviolette.com"
+      ],
+      "email_verification": "user_provided_unverified",
+      "status": "saved",
+      "subject": "Frontend Engineer inquiry | EV discovery and configuration",
+      "body": "Hi Ultraviolette team,\n\nThe configuration and interest-registration journeys across your electric motorcycle range caught my attention. I’d like to work on the frontend experiences that help riders explore a technically detailed product.\n\nAt Bounteous, I developed React/TypeScript configuration interfaces with validation and clear state handling. My startup work includes Ewaa Packages AI, where our team supported changing individual travel selections without rebuilding the entire trip. Staying close to an evolving product is a part of startup culture that suits me.\n\nI’m sharing my resume as an attachment for relevant frontend engineering opportunities.\n\nAman Khan\n+91 8223037373\nhttps://github.com/LastNameKhan\nhttps://www.linkedin.com/in/amank-tech27/",
+      "source": "https://www.ultraviolette.com/",
+      "hiring_status": "unconfirmed",
+      "draft_id": "r-6907552922423263234",
+      "message_id": "1a17970b1c6539e7",
+      "verification": "verified",
+      "attachment_status": "attached",
+      "attachment_filename": "Aman-Resume.pdf",
+      "attachment_bytes": 106346
+    },
+    {
+      "company": "InMobi",
+      "to": "careers@inmobi.com",
+      "website": "https://inmobi.com",
+      "category": "Advertising & Marketing Technology",
+      "provided_category": "Emerging Tech & Product Agencies",
+      "focus": "Mobile advertising technology",
+      "contact_type": "recruiting",
+      "provided_categories": [
+        "Emerging Tech & Product Agencies"
+      ],
+      "brands": [
+        "InMobi"
+      ],
+      "related_websites": [
+        "https://inmobi.com"
+      ],
+      "email_verification": "user_provided_unverified",
+      "status": "saved",
+      "subject": "Senior frontend engineering | Advertising platform UX",
+      "body": "Hello InMobi team,\n\nI’m interested in frontend roles within InMobi Advertising. My work at Bounteous on marketing application interfaces, campaign configuration and integration settings gives me a useful starting point for advertiser-facing product work.\n\nI also contributed to Ewaa Packages AI with a startup team. Our product gathered preferences conversationally before presenting ranked options, which reinforced my interest in interfaces around AI-assisted decisions. I’d like to stay in a team where engineers help shape the product as well as implement it.\n\nMy CV is attached; could you consider it for senior React/TypeScript opportunities?\n\nAman Khan\n+91 8223037373\nhttps://github.com/LastNameKhan\nhttps://www.linkedin.com/in/amank-tech27/",
+      "source": "https://www.inmobi.com/",
+      "hiring_status": "unconfirmed",
+      "draft_id": "r7240609005442628784",
+      "message_id": "1a17971c95c85d8a",
+      "verification": "verified",
+      "attachment_status": "attached",
+      "attachment_filename": "Aman-Resume.pdf",
+      "attachment_bytes": 106346
+    },
+    {
+      "company": "Capillary Technologies",
+      "to": "hr@capillarytech.com",
+      "website": "https://capillarytech.com",
+      "category": "Enterprise SaaS",
+      "provided_category": "Emerging Tech & Product Agencies",
+      "focus": "Customer loyalty software",
+      "contact_type": "recruiting",
+      "provided_categories": [
+        "Emerging Tech & Product Agencies"
+      ],
+      "brands": [
+        "Capillary Technologies"
+      ],
+      "related_websites": [
+        "https://capillarytech.com"
+      ],
+      "email_verification": "user_provided_unverified",
+      "status": "saved",
+      "subject": "Frontend candidate | Loyalty and customer engagement tools",
+      "body": "Hi Capillary Technologies hiring team,\n\nYour loyalty, consumer data and rewards products connect with the configuration-heavy frontend work I’ve been doing at Bounteous. I’ve built React/TypeScript interfaces for campaign settings, field mapping and tenant-specific integrations.\n\nIn addition, I worked on the startup project Ewaa Packages AI, whose team combined preference capture with ranked recommendations. I’m particularly interested in making complex personalization tools approachable for the people using them, and I value working closely with product teams as I did in that startup setting.\n\nThe attached resume details my background for relevant senior frontend openings.\n\nAman Khan\n+91 8223037373\nhttps://github.com/LastNameKhan\nhttps://www.linkedin.com/in/amank-tech27/",
+      "source": "https://www.capillarytech.com/",
+      "hiring_status": "unconfirmed",
+      "draft_id": "r-7352037577365439156",
+      "message_id": "1a17971e7d509011",
+      "verification": "verified",
+      "attachment_status": "attached",
+      "attachment_filename": "Aman-Resume.pdf",
+      "attachment_bytes": 106346
+    },
+    {
+      "company": "BrowserStack",
+      "to": "hiring@browserstack.com",
+      "website": "https://browserstack.com",
+      "category": "Developer Tools & Infrastructure",
+      "provided_category": "Emerging Tech & Product Agencies",
+      "focus": "Software testing infrastructure",
+      "contact_type": "recruiting",
+      "provided_categories": [
+        "Emerging Tech & Product Agencies"
+      ],
+      "brands": [
+        "BrowserStack"
+      ],
+      "related_websites": [
+        "https://browserstack.com"
+      ],
+      "email_verification": "user_provided_unverified",
+      "status": "saved",
+      "subject": "Senior React engineer | Developer testing experiences",
+      "body": "Hello BrowserStack recruitment team,\n\nI’d be keen to help build the interfaces developers use to investigate browser and device test results. BrowserStack’s breadth across web, mobile and accessibility testing makes that an interesting frontend product space.\n\nMy experience includes React/TypeScript UI architecture and Jest/React Testing Library, alongside CI validation at Bounteous. I recently worked with a startup team on Ewaa Packages AI, whose system used validation and evaluation practices around conversational travel intake. I’m looking to continue that practical, quality-focused product work.\n\nI’ve enclosed my resume for senior frontend roles aligned with developer tools.\n\nAman Khan\n+91 8223037373\nhttps://github.com/LastNameKhan\nhttps://www.linkedin.com/in/amank-tech27/",
+      "source": "https://www.browserstack.com/",
+      "hiring_status": "unconfirmed",
+      "draft_id": "r1464862049359729800",
+      "message_id": "1a1797204402baf0",
+      "verification": "verified",
+      "attachment_status": "attached",
+      "attachment_filename": "Aman-Resume.pdf",
+      "attachment_bytes": 106346
+    },
+    {
+      "company": "Mindtickle",
+      "to": "careers@mindtickle.com",
+      "website": "https://mindtickle.com",
+      "category": "Enterprise SaaS",
+      "provided_category": "Emerging Tech & Product Agencies",
+      "focus": "Sales readiness and enablement",
+      "contact_type": "recruiting",
+      "provided_categories": [
+        "Emerging Tech & Product Agencies"
+      ],
+      "brands": [
+        "Mindtickle"
+      ],
+      "related_websites": [
+        "https://mindtickle.com"
+      ],
+      "email_verification": "user_provided_unverified",
+      "status": "saved",
+      "subject": "Senior frontend inquiry | Coaching and readiness products",
+      "body": "Hi Mindtickle team,\n\nYour move from sales readiness into AI-supported coaching caught my eye. I’d enjoy frontend work that makes guidance, activity and progress understandable to the person using the product.\n\nI bring React/TypeScript experience from marketing administration and multilingual applications. My recent startup involvement was Ewaa Packages AI, where our team used chat and interactive widgets to gather preferences before offering choices. I like contributing to products where the interaction design matters as much as the underlying capability.\n\nWould you assess the attached resume for senior frontend opportunities within your enablement platform?\n\nAman Khan\n+91 8223037373\nhttps://github.com/LastNameKhan\nhttps://www.linkedin.com/in/amank-tech27/",
+      "source": "https://www.mindtickle.com/",
+      "hiring_status": "unconfirmed",
+      "draft_id": "r-5710031002973649680",
+      "message_id": "1a179721f7bf6e57",
+      "verification": "verified",
+      "attachment_status": "attached",
+      "attachment_filename": "Aman-Resume.pdf",
+      "attachment_bytes": 106346
+    },
+    {
+      "company": "Glance",
+      "to": "jobs@glance.com",
+      "website": "https://glance.com",
+      "category": "Content & Media",
+      "provided_category": "Emerging Tech & Product Agencies",
+      "focus": "AI-assisted shopping and product discovery",
+      "contact_type": "recruiting",
+      "provided_categories": [
+        "Emerging Tech & Product Agencies"
+      ],
+      "brands": [
+        "Glance"
+      ],
+      "related_websites": [
+        "https://glance.com"
+      ],
+      "email_verification": "user_provided_unverified",
+      "status": "saved",
+      "subject": "React product engineer | AI shopping experiences",
+      "body": "Hello Glance hiring team,\n\nGlance’s current AI shopping focus is a strong reason for me to get in touch. Moving from a user’s preferences to a useful selection of products is closely related to my recent startup project experience.\n\nI worked on Ewaa Packages AI, whose team translated conversational travel requests into six ranked package options. My professional foundation is senior frontend development in React/TypeScript, including state optimization and API-connected applications. I’d like to continue building discovery experiences in the hands-on startup style I enjoy.\n\nMy attached resume is available for relevant frontend engineering consideration.\n\nAman Khan\n+91 8223037373\nhttps://github.com/LastNameKhan\nhttps://www.linkedin.com/in/amank-tech27/",
+      "source": "https://glance.com/",
+      "hiring_status": "unconfirmed",
+      "draft_id": "r7183229337219353394",
+      "message_id": "1a179723e2878015",
+      "verification": "verified",
+      "attachment_status": "attached",
+      "attachment_filename": "Aman-Resume.pdf",
+      "attachment_bytes": 106346
+    },
+    {
+      "company": "Rapido",
+      "to": "careers@rapido.bike",
+      "website": "https://rapido.bike",
+      "category": "Mobility & Transportation",
+      "provided_category": "Quick Commerce & Logistics Startups",
+      "focus": "Mobility and local delivery",
+      "contact_type": "recruiting",
+      "provided_categories": [
+        "Quick Commerce & Logistics Startups"
+      ],
+      "brands": [
+        "Rapido"
+      ],
+      "related_websites": [
+        "https://rapido.bike"
+      ],
+      "email_verification": "user_provided_unverified",
+      "status": "saved",
+      "subject": "Frontend opportunities | Mobility booking products",
+      "body": "Hi Rapido team,\n\nI’m reaching out about senior frontend work on mobility booking experiences. Bringing bike taxis, autos and cabs into a usable product makes consistent journeys and clear changing state especially worthwhile problems.\n\nAt XBREYINS, I worked on collaborative React/React Native interfaces with real-time synchronization. More recently, I contributed to Ewaa Packages AI in a startup team; our travel product handled ambiguous city and airport choices before showing options. I’d enjoy applying that product-minded approach in another fast-evolving team.\n\nPlease find my CV attached for React or frontend roles suited to my background.\n\nAman Khan\n+91 8223037373\nhttps://github.com/LastNameKhan\nhttps://www.linkedin.com/in/amank-tech27/",
+      "source": "https://rapido.bike/Home",
+      "hiring_status": "unconfirmed",
+      "draft_id": "r3243932253498444859",
+      "message_id": "1a179725b32cd1b2",
+      "verification": "verified",
+      "attachment_status": "attached",
+      "attachment_filename": "Aman-Resume.pdf",
+      "attachment_bytes": 106346
+    },
+    {
+      "company": "Dunzo",
+      "to": "careers@dunzo.in",
+      "website": "https://dunzo.com",
+      "category": "Quick Commerce & Delivery",
+      "provided_category": "Quick Commerce & Logistics Startups",
+      "focus": "Hyper-local delivery",
+      "contact_type": "recruiting",
+      "provided_categories": [
+        "Quick Commerce & Logistics Startups"
+      ],
+      "brands": [
+        "Dunzo"
+      ],
+      "related_websites": [
+        "https://dunzo.com"
+      ],
+      "email_verification": "user_provided_unverified",
+      "status": "held_for_review",
+      "reason": "Reported shutdown; supplied website offline; no current operation verified.",
+      "source": "https://restofworld.org/2025/dunzo-shutdown-india-quick-commerce/"
+    },
+    {
+      "company": "Shadowfax",
+      "to": "hr@shadowfax.in",
+      "website": "https://shadowfax.in",
+      "category": "Logistics & Supply Chain",
+      "provided_category": "Quick Commerce & Logistics Startups",
+      "focus": "Last-mile delivery network",
+      "contact_type": "recruiting",
+      "provided_categories": [
+        "Quick Commerce & Logistics Startups"
+      ],
+      "brands": [
+        "Shadowfax"
+      ],
+      "related_websites": [
+        "https://shadowfax.in"
+      ],
+      "email_verification": "user_provided_unverified",
+      "status": "saved",
+      "subject": "Senior frontend application | Delivery operations tools",
+      "body": "Hello Shadowfax team,\n\nYour combination of e-commerce, hyperlocal delivery and courier services makes operational visibility an interesting frontend challenge. I’d like to explore work on interfaces that help people follow deliveries and act on changing information.\n\nMy React background includes real-time synchronization at XBREYINS and API-driven applications at RWS. I also worked with a startup team on Ewaa Packages AI, whose product brought live travel inventory into a comparable set of choices. I’m keen to continue that hands-on approach to product development.\n\nThe attached resume summarises my experience for senior frontend engineering consideration.\n\nAman Khan\n+91 8223037373\nhttps://github.com/LastNameKhan\nhttps://www.linkedin.com/in/amank-tech27/",
+      "source": "https://shadowfax.in/",
+      "hiring_status": "unconfirmed",
+      "draft_id": "r8364121795532138125",
+      "message_id": "1a17972a627489ba",
+      "verification": "verified",
+      "attachment_status": "attached",
+      "attachment_filename": "Aman-Resume.pdf",
+      "attachment_bytes": 106346
+    },
+    {
+      "company": "Xpressbees",
+      "to": "careers@xpressbees.com",
+      "website": "https://xpressbees.com",
+      "category": "Logistics & Supply Chain",
+      "provided_category": "Quick Commerce & Logistics Startups",
+      "focus": "E-commerce logistics",
+      "contact_type": "recruiting",
+      "provided_categories": [
+        "Quick Commerce & Logistics Startups"
+      ],
+      "brands": [
+        "Xpressbees"
+      ],
+      "related_websites": [
+        "https://xpressbees.com"
+      ],
+      "email_verification": "user_provided_unverified",
+      "status": "saved",
+      "subject": "React/TypeScript engineer | Shipping and tracking products",
+      "body": "Hi Xpressbees recruitment team,\n\nI’d be interested in frontend roles around your e-commerce shipping and B2B cargo products. Presenting shipment information clearly across different delivery services seems a valuable place for dependable UI engineering.\n\nAt RWS, I integrated real-time APIs into React applications; at Bounteous, I worked on structured configuration and integration screens. My recent startup project, Ewaa Packages AI, connected user preferences to live travel options through our team’s conversational system. I enjoy working directly on products that make a complicated service easier to use.\n\nI’ve attached my CV for your engineering team’s review.\n\nAman Khan\n+91 8223037373\nhttps://github.com/LastNameKhan\nhttps://www.linkedin.com/in/amank-tech27/",
+      "source": "https://www.xpressbees.com/default.aspx",
+      "hiring_status": "unconfirmed",
+      "draft_id": "r439141869809978017",
+      "message_id": "1a17972c25b3b82e",
+      "verification": "verified",
+      "attachment_status": "attached",
+      "attachment_filename": "Aman-Resume.pdf",
+      "attachment_bytes": 106346
+    },
+    {
+      "company": "Slice",
+      "to": "careers@sliceit.com",
+      "website": "https://sliceit.com",
+      "category": "FinTech & Banking",
+      "provided_category": "FinTech & Neo-Banking Startups",
+      "focus": "Digital banking and payment products",
+      "contact_type": "recruiting",
+      "provided_categories": [
+        "FinTech & Neo-Banking Startups"
+      ],
+      "brands": [
+        "Slice"
+      ],
+      "related_websites": [
+        "https://sliceit.com"
+      ],
+      "email_verification": "user_provided_unverified",
+      "status": "saved",
+      "subject": "Senior frontend candidate | Digital banking journeys",
+      "body": "Hello Slice hiring team,\n\nYour current banking offering spans savings, payments and business accounts. I’d like to contribute to the frontend journeys that make those different services feel coherent.\n\nI bring 7+ years in frontend engineering, with React/TypeScript, state management and careful handling of forms and permissions. I recently worked on Ewaa Packages AI in a startup setting; our team gathered travel requirements through guided conversations before allowing package generation. That attention to user inputs, combined with close product collaboration, is the kind of startup work I want to continue.\n\nMy resume is enclosed for suitable senior React positions.\n\nAman Khan\n+91 8223037373\nhttps://github.com/LastNameKhan\nhttps://www.linkedin.com/in/amank-tech27/",
+      "source": "https://slice.bank.in/",
+      "hiring_status": "unconfirmed",
+      "draft_id": "r5233325965037231451",
+      "message_id": "1a17972e1ea0d89e",
+      "verification": "verified",
+      "attachment_status": "attached",
+      "attachment_filename": "Aman-Resume.pdf",
+      "attachment_bytes": 106346
+    },
+    {
+      "company": "Fi Money",
+      "to": "careers@fi.money",
+      "website": "https://fi.money",
+      "category": "FinTech & Banking",
+      "provided_category": "FinTech & Neo-Banking Startups",
+      "focus": "Financial application; banking services transition announced",
+      "contact_type": "recruiting",
+      "provided_categories": [
+        "FinTech & Neo-Banking Startups"
+      ],
+      "brands": [
+        "Fi Money"
+      ],
+      "related_websites": [
+        "https://fi.money"
+      ],
+      "email_verification": "user_provided_unverified",
+      "status": "saved",
+      "subject": "Senior frontend inquiry | Current product opportunities",
+      "body": "Hi Fi Money team,\n\nI saw the banking-services update on your website and don’t want to assume that older product or role descriptions still apply. Are you considering senior frontend candidates for your current engineering priorities?\n\nMy experience includes React/TypeScript configuration workflows, API-connected applications and UI performance improvements. I also contributed to Ewaa Packages AI with a startup team, whose product supported guided intake and changes to travel selections. I’d like to stay involved in startup product development where clear interfaces help users through changing workflows.\n\nI’ve included my resume so you can assess whether there is a relevant fit.\n\nAman Khan\n+91 8223037373\nhttps://github.com/LastNameKhan\nhttps://www.linkedin.com/in/amank-tech27/",
+      "source": "https://fi.money/",
+      "hiring_status": "unconfirmed",
+      "draft_id": "r-1677626027679704810",
+      "message_id": "1a17972fc5978e0d",
+      "verification": "verified",
+      "attachment_status": "attached",
+      "attachment_filename": "Aman-Resume.pdf",
+      "attachment_bytes": 106346
+    },
+    {
+      "company": "Jupiter",
+      "to": "careers@jupiter.money",
+      "website": "https://jupiter.money",
+      "category": "FinTech & Banking",
+      "provided_category": "FinTech & Neo-Banking Startups",
+      "focus": "Personal finance and banking",
+      "contact_type": "recruiting",
+      "provided_categories": [
+        "FinTech & Neo-Banking Startups"
+      ],
+      "brands": [
+        "Jupiter"
+      ],
+      "related_websites": [
+        "https://jupiter.money"
+      ],
+      "email_verification": "user_provided_unverified",
+      "status": "saved",
+      "subject": "Frontend engineer | Personal finance product experiences",
+      "body": "Hello Jupiter team,\n\nPots, bill payments and spending views give Jupiter several ways to help users understand their money. I’m interested in frontend opportunities that bring these related experiences together clearly.\n\nMy recent professional work includes React/TypeScript application architecture and state management, with a 40% reduction in unnecessary re-renders on a project at RWS. Alongside this, I worked on Ewaa Packages AI with a startup team; our system helped travelers compare choices against their preferences and budget. I’d enjoy continuing to build decision-supporting products in a startup-oriented team.\n\nPlease consider my attached CV for senior frontend work.\n\nAman Khan\n+91 8223037373\nhttps://github.com/LastNameKhan\nhttps://www.linkedin.com/in/amank-tech27/",
+      "source": "https://jupiter.money/",
+      "hiring_status": "unconfirmed",
+      "draft_id": "r4616434934139007012",
+      "message_id": "1a179731881d682e",
+      "verification": "verified",
+      "attachment_status": "attached",
+      "attachment_filename": "Aman-Resume.pdf",
+      "attachment_bytes": 106346
+    },
+    {
+      "company": "CoinSwitch",
+      "to": "careers@coinswitch.co",
+      "website": "https://coinswitch.co",
+      "category": "Web3 & Blockchain",
+      "provided_category": "FinTech & Neo-Banking Startups",
+      "focus": "Crypto and investment platform",
+      "contact_type": "recruiting",
+      "provided_categories": [
+        "FinTech & Neo-Banking Startups",
+        "Web3, Crypto & Blockchain Startups"
+      ],
+      "brands": [
+        "CoinSwitch"
+      ],
+      "related_websites": [
+        "https://coinswitch.co",
+        "https://coinswitch.co"
+      ],
+      "email_verification": "user_provided_unverified",
+      "status": "saved",
+      "subject": "Senior React engineer | Investment and trading interfaces",
+      "body": "Hi CoinSwitch hiring team,\n\nI’m contacting you about frontend engineering, particularly the challenge of presenting trading information and investment choices in a way users can navigate confidently.\n\nMy background is React/TypeScript product development, including real-time API integration and Redux performance optimization at RWS. I also worked in a startup team on Ewaa Packages AI, whose package engine ranked live inventory and exposed different choices for comparison. That product-building experience is why I’m keen on another startup setting.\n\nThe attached resume covers my frontend expertise; I’d welcome consideration for relevant roles without assuming a specific vacancy.\n\nAman Khan\n+91 8223037373\nhttps://github.com/LastNameKhan\nhttps://www.linkedin.com/in/amank-tech27/",
+      "source": "https://coinswitch.co/",
+      "hiring_status": "unconfirmed",
+      "draft_id": "r2821673170920742339",
+      "message_id": "1a17973365642b35",
+      "verification": "verified",
+      "attachment_status": "attached",
+      "attachment_filename": "Aman-Resume.pdf",
+      "attachment_bytes": 106346
+    },
+    {
+      "company": "Pocket FM",
+      "to": "careers@pocketfm.com",
+      "website": "https://pocketfm.com",
+      "category": "Content & Media",
+      "provided_category": "EdTech, Content & Media Startups",
+      "focus": "Audio entertainment platform",
+      "contact_type": "recruiting",
+      "provided_categories": [
+        "EdTech, Content & Media Startups"
+      ],
+      "brands": [
+        "Pocket FM"
+      ],
+      "related_websites": [
+        "https://pocketfm.com"
+      ],
+      "email_verification": "user_provided_unverified",
+      "status": "saved",
+      "subject": "Frontend opportunities | Audio discovery and listening",
+      "body": "Hello Pocket FM recruitment team,\n\nDiscovering a series and deciding what to listen to next are the Pocket FM experiences I’d enjoy helping build. They combine content-rich screens with interactions that need to stay responsive.\n\nI’ve delivered multilingual React applications at RWS and React/TypeScript administration tools at Bounteous. My startup experience also includes Ewaa Packages AI, where our team used conversational preferences to guide discovery among live travel options. I like working with a product team on the details that turn a large catalogue into useful choices.\n\nMy resume accompanies this note for senior frontend engineering opportunities.\n\nAman Khan\n+91 8223037373\nhttps://github.com/LastNameKhan\nhttps://www.linkedin.com/in/amank-tech27/",
+      "source": "https://pocketfm.com/",
+      "hiring_status": "unconfirmed",
+      "draft_id": "r403335169334309944",
+      "message_id": "1a179744d93c0daa",
+      "verification": "verified",
+      "attachment_status": "attached",
+      "attachment_filename": "Aman-Resume.pdf",
+      "attachment_bytes": 106346
+    },
+    {
+      "company": "upGrad",
+      "to": "careers@upgrad.com",
+      "website": "https://upgrad.com",
+      "category": "EdTech & Learning",
+      "provided_category": "EdTech, Content & Media Startups",
+      "focus": "Higher education and skills",
+      "contact_type": "recruiting",
+      "provided_categories": [
+        "EdTech, Content & Media Startups"
+      ],
+      "brands": [
+        "upGrad"
+      ],
+      "related_websites": [
+        "https://upgrad.com"
+      ],
+      "email_verification": "user_provided_unverified",
+      "status": "saved",
+      "subject": "Senior frontend application | Learning product journeys",
+      "body": "Hi upGrad team,\n\nYour range of programs across AI, management and other fields makes course discovery an appealing frontend problem: helping a learner understand options without getting lost in them.\n\nI bring senior React/TypeScript experience in reusable interfaces, API integration and performance. Recently, I worked on Ewaa Packages AI with a startup team; our product converted a conversation about needs and budget into ranked choices. I’d like to continue that kind of user-focused product work and the close collaboration that comes with a startup environment.\n\nI’m attaching my CV for relevant frontend positions on your learning products.\n\nAman Khan\n+91 8223037373\nhttps://github.com/LastNameKhan\nhttps://www.linkedin.com/in/amank-tech27/",
+      "source": "https://www.upgrad.com/",
+      "hiring_status": "unconfirmed",
+      "draft_id": "r-7390064953616183923",
+      "message_id": "1a1797468d196a34",
+      "verification": "verified",
+      "attachment_status": "attached",
+      "attachment_filename": "Aman-Resume.pdf",
+      "attachment_bytes": 106346
+    },
+    {
+      "company": "PhysicsWallah",
+      "to": "careers@pw.live",
+      "website": "https://pw.live",
+      "category": "EdTech & Learning",
+      "provided_category": "EdTech, Content & Media Startups",
+      "focus": "Test preparation and education",
+      "contact_type": "recruiting",
+      "provided_categories": [
+        "EdTech, Content & Media Startups"
+      ],
+      "brands": [
+        "PhysicsWallah"
+      ],
+      "related_websites": [
+        "https://pw.live"
+      ],
+      "email_verification": "user_provided_unverified",
+      "status": "saved",
+      "subject": "React developer inquiry | Exam preparation experiences",
+      "body": "Hello PhysicsWallah hiring team,\n\nPW serves learners across a wide range of exam and school preparation paths. I’m interested in frontend engineering that makes selecting and navigating the right learning experience simpler.\n\nAt RWS, I worked on multilingual React applications and a TypeScript migration that reduced runtime errors. My recent startup project was Ewaa Packages AI, whose team combined guided widgets with conversation to collect requirements before showing options. I value this kind of practical product iteration and would like to keep working in that spirit.\n\nThe enclosed resume provides my experience for senior frontend consideration.\n\nAman Khan\n+91 8223037373\nhttps://github.com/LastNameKhan\nhttps://www.linkedin.com/in/amank-tech27/",
+      "source": "https://www.pw.live/",
+      "hiring_status": "unconfirmed",
+      "draft_id": "r7879992104880048615",
+      "message_id": "1a1797484212e932",
+      "verification": "verified",
+      "attachment_status": "attached",
+      "attachment_filename": "Aman-Resume.pdf",
+      "attachment_bytes": 106346
+    },
+    {
+      "company": "Unacademy",
+      "to": "careers@unacademy.com",
+      "website": "https://unacademy.com",
+      "category": "EdTech & Learning",
+      "provided_category": "EdTech, Content & Media Startups",
+      "focus": "Learning and test preparation",
+      "contact_type": "recruiting",
+      "provided_categories": [
+        "EdTech, Content & Media Startups"
+      ],
+      "brands": [
+        "Unacademy"
+      ],
+      "related_websites": [
+        "https://unacademy.com"
+      ],
+      "email_verification": "user_provided_unverified",
+      "status": "saved",
+      "subject": "Frontend engineering | Goal-based learning journeys",
+      "body": "Hi Unacademy team,\n\nThe goal-based entry into Unacademy’s learning experience caught my attention. Helping users move from a broad objective to a relevant set of courses is work I’d find rewarding as a frontend engineer.\n\nI’ve built React applications with multilingual content, real-time APIs and structured state management. In the startup project Ewaa Packages AI, our team similarly moved from an open-ended conversation to validated preferences and ranked travel choices. I enjoy contributing to that connection between product logic and a clear user journey.\n\nMy attached resume is submitted for suitable senior React/TypeScript opportunities.\n\nAman Khan\n+91 8223037373\nhttps://github.com/LastNameKhan\nhttps://www.linkedin.com/in/amank-tech27/",
+      "source": "https://unacademy.com/",
+      "hiring_status": "unconfirmed",
+      "draft_id": "r7560343394576081619",
+      "message_id": "1a17974a14802abe",
+      "verification": "verified",
+      "attachment_status": "attached",
+      "attachment_filename": "Aman-Resume.pdf",
+      "attachment_bytes": 106346
+    },
+    {
+      "company": "NoBroker",
+      "to": "careers@nobroker.in",
+      "website": "https://nobroker.in",
+      "category": "PropTech & Housing",
+      "provided_category": "PropTech & Consumer Marketplace Startups",
+      "focus": "Real estate and home services",
+      "contact_type": "recruiting",
+      "provided_categories": [
+        "PropTech & Consumer Marketplace Startups"
+      ],
+      "brands": [
+        "NoBroker"
+      ],
+      "related_websites": [
+        "https://nobroker.in"
+      ],
+      "email_verification": "user_provided_unverified",
+      "status": "saved",
+      "subject": "Senior frontend engineer | Property search and discovery",
+      "body": "Hello NoBroker team,\n\nNoBroker’s owner-property search brings location, property details and user preferences into one decision. I’m interested in frontend opportunities around making that discovery process more useful.\n\nMy 7+ years include React/TypeScript applications, reusable components and API integrations. I also contributed to Ewaa Packages AI with a startup team; our travel system resolved ambiguous locations and used preferences to rank live options. Working on a practical customer problem with that degree of product involvement is what I enjoy in startup teams.\n\nPlease review the attached resume for senior frontend roles matching this experience.\n\nAman Khan\n+91 8223037373\nhttps://github.com/LastNameKhan\nhttps://www.linkedin.com/in/amank-tech27/",
+      "source": "https://www.nobroker.in/",
+      "hiring_status": "unconfirmed",
+      "draft_id": "r-1335165303412886688",
+      "message_id": "1a17974bba132842",
+      "verification": "verified",
+      "attachment_status": "attached",
+      "attachment_filename": "Aman-Resume.pdf",
+      "attachment_bytes": 106346
+    },
+    {
+      "company": "Housing.com",
+      "to": "careers@housing.com",
+      "website": "https://housing.com",
+      "category": "PropTech & Housing",
+      "provided_category": "PropTech & Consumer Marketplace Startups",
+      "focus": "Property discovery",
+      "contact_type": "recruiting",
+      "provided_categories": [
+        "PropTech & Consumer Marketplace Startups"
+      ],
+      "brands": [
+        "Housing.com"
+      ],
+      "related_websites": [
+        "https://housing.com"
+      ],
+      "email_verification": "user_provided_unverified",
+      "status": "saved",
+      "subject": "React/TypeScript application | Home discovery products",
+      "body": "Hi Housing.com hiring team,\n\nI’d be interested in helping build the property discovery experience at Housing.com, especially the transition from broad location search to a manageable set of relevant listings.\n\nAt RWS, I worked on React applications using real-time APIs and improved runtime reliability through TypeScript migration. I also worked in a startup team on Ewaa Packages AI, whose product interpreted destination preferences and presented ranked travel packages. I’m looking to continue that kind of close involvement in how a product helps people compare options.\n\nMy CV is attached for consideration within frontend engineering.\n\nAman Khan\n+91 8223037373\nhttps://github.com/LastNameKhan\nhttps://www.linkedin.com/in/amank-tech27/",
+      "source": "https://housing.com/",
+      "hiring_status": "unconfirmed",
+      "draft_id": "r-2552755734516974355",
+      "message_id": "1a17974d6fce79d9",
+      "verification": "verified",
+      "attachment_status": "attached",
+      "attachment_filename": "Aman-Resume.pdf",
+      "attachment_bytes": 106346
+    },
+    {
+      "company": "CarDekho",
+      "to": "careers@cardekho.com",
+      "website": "https://cardekho.com",
+      "category": "Consumer Brands & E-Commerce",
+      "provided_category": "PropTech & Consumer Marketplace Startups",
+      "focus": "Automotive marketplace",
+      "contact_type": "recruiting",
+      "provided_categories": [
+        "PropTech & Consumer Marketplace Startups"
+      ],
+      "brands": [
+        "CarDekho"
+      ],
+      "related_websites": [
+        "https://cardekho.com"
+      ],
+      "email_verification": "user_provided_unverified",
+      "status": "saved",
+      "subject": "Senior frontend inquiry | Vehicle comparison experiences",
+      "body": "Hello CarDekho team,\n\nComparing new and used cars involves more than displaying a catalogue. I’d enjoy frontend work that helps users narrow choices and understand detailed product information.\n\nMy background includes React/TypeScript interfaces and performance-focused state management. I recently contributed to Ewaa Packages AI in a startup team; our engine assembled distinct travel packages from live inventory so users could compare trade-offs. I’m keen to continue building products where an engineer’s attention to the journey can improve a customer’s decision.\n\nI’ve attached my resume for senior frontend opportunities on your automotive products.\n\nAman Khan\n+91 8223037373\nhttps://github.com/LastNameKhan\nhttps://www.linkedin.com/in/amank-tech27/",
+      "source": "https://www.cardekho.com/",
+      "hiring_status": "unconfirmed",
+      "draft_id": "r-3810929832073668853",
+      "message_id": "1a17975333c87a33",
+      "verification": "verified",
+      "attachment_status": "attached",
+      "attachment_filename": "Aman-Resume.pdf",
+      "attachment_bytes": 106346
+    },
+    {
+      "company": "Magicbricks",
+      "to": "careers@magicbricks.com",
+      "website": "https://magicbricks.com",
+      "category": "PropTech & Housing",
+      "provided_category": "PropTech & Consumer Marketplace Startups",
+      "focus": "Property listings and discovery",
+      "contact_type": "recruiting",
+      "provided_categories": [
+        "PropTech & Consumer Marketplace Startups"
+      ],
+      "brands": [
+        "Magicbricks"
+      ],
+      "related_websites": [
+        "https://magicbricks.com"
+      ],
+      "email_verification": "user_provided_unverified",
+      "status": "saved",
+      "subject": "Frontend engineer application | Property discovery journeys",
+      "body": "Hi Magicbricks recruitment team,\n\nYour saved searches, property listings and buyer guidance make Magicbricks an interesting place to work on frontend product detail. Keeping a user’s search context clear across those steps is a challenge I’d like to take on.\n\nI’ve delivered React/TypeScript applications with API integration and reusable UI components. My startup work on Ewaa Packages AI involved a team product that restored past conversations and supported revisions to travel choices. I enjoy building that continuity into a user experience in close collaboration with a product team.\n\nMy enclosed CV is offered for relevant senior frontend roles.\n\nAman Khan\n+91 8223037373\nhttps://github.com/LastNameKhan\nhttps://www.linkedin.com/in/amank-tech27/",
+      "source": "https://www.magicbricks.com/",
+      "hiring_status": "unconfirmed",
+      "draft_id": "r633520321946308650",
+      "message_id": "1a179754e7999a5c",
+      "verification": "verified",
+      "attachment_status": "attached",
+      "attachment_filename": "Aman-Resume.pdf",
+      "attachment_bytes": 106346
+    },
+    {
+      "company": "Urban Company",
+      "to": "careers@urbancompany.com",
+      "website": "https://urbancompany.com",
+      "category": "Consumer Services",
+      "provided_category": "Unicorns & Scale-up Indian Startups",
+      "focus": "Home services marketplace",
+      "contact_type": "recruiting",
+      "provided_categories": [
+        "Unicorns & Scale-up Indian Startups"
+      ],
+      "brands": [
+        "Urban Company"
+      ],
+      "related_websites": [
+        "https://urbancompany.com"
+      ],
+      "email_verification": "user_provided_unverified",
+      "status": "saved",
+      "subject": "Senior React candidate | Home-service booking experiences",
+      "body": "Hello Urban Company team,\n\nTransparent service pricing before booking stood out when I explored Urban Company. I’d be interested in frontend engineering that makes choosing and arranging a home service feel equally clear.\n\nAt Bounteous, I worked on validated React/TypeScript configuration flows; at RWS, I helped improve application reliability and state performance. I’ve also contributed to Ewaa Packages AI with a startup team, whose system guided users from an initial request to selectable packages. I want to keep that practical focus on the user journey in my next product role.\n\nMy resume is attached for your hiring team’s consideration.\n\nAman Khan\n+91 8223037373\nhttps://github.com/LastNameKhan\nhttps://www.linkedin.com/in/amank-tech27/",
+      "source": "https://www.urbancompany.com/",
+      "hiring_status": "unconfirmed",
+      "draft_id": "r4324336539980521693",
+      "message_id": "1a179756c4286732",
+      "verification": "verified",
+      "attachment_status": "attached",
+      "attachment_filename": "Aman-Resume.pdf",
+      "attachment_bytes": 106346
+    },
+    {
+      "company": "Lenskart",
+      "to": "hr@lenskart.com",
+      "website": "https://lenskart.com",
+      "category": "Consumer Brands & E-Commerce",
+      "provided_category": "Unicorns & Scale-up Indian Startups",
+      "focus": "Omnichannel eyewear",
+      "contact_type": "recruiting",
+      "provided_categories": [
+        "Unicorns & Scale-up Indian Startups"
+      ],
+      "brands": [
+        "Lenskart"
+      ],
+      "related_websites": [
+        "https://lenskart.com"
+      ],
+      "email_verification": "user_provided_unverified",
+      "status": "saved",
+      "subject": "Frontend opportunities | Eyewear discovery and retail UX",
+      "body": "Hi Lenskart hiring team,\n\nThe connection between exploring eyewear online, finding a store and trying products at home interests me as a frontend engineer. I’d enjoy working on a clear, consistent experience across those entry points.\n\nMy experience spans React/TypeScript applications, reusable components and API-connected interfaces. In a startup team, I recently worked on Ewaa Packages AI; our product turned preferences into ranked choices while letting users replace individual selections. I’m drawn to product teams where small interaction improvements can make the choice easier.\n\nPlease consider the attached CV for senior frontend engineering work.\n\nAman Khan\n+91 8223037373\nhttps://github.com/LastNameKhan\nhttps://www.linkedin.com/in/amank-tech27/",
+      "source": "https://www.lenskart.com/",
+      "hiring_status": "unconfirmed",
+      "draft_id": "r-5741041662722978993",
+      "message_id": "1a179758800ce4c3",
+      "verification": "verified",
+      "attachment_status": "attached",
+      "attachment_filename": "Aman-Resume.pdf",
+      "attachment_bytes": 106346
+    },
+    {
+      "company": "Blinkit",
+      "to": "careers@blinkit.com",
+      "website": "https://blinkit.com",
+      "category": "Quick Commerce & Delivery",
+      "provided_category": "Unicorns & Scale-up Indian Startups",
+      "focus": "Quick commerce",
+      "contact_type": "recruiting",
+      "provided_categories": [
+        "Unicorns & Scale-up Indian Startups"
+      ],
+      "brands": [
+        "Blinkit"
+      ],
+      "related_websites": [
+        "https://blinkit.com"
+      ],
+      "email_verification": "user_provided_unverified",
+      "status": "saved",
+      "subject": "Senior frontend engineering | Grocery shopping journeys",
+      "body": "Hello Blinkit team,\n\nI’d like to explore frontend opportunities around grocery discovery and ordering. The challenge of keeping a large shopping experience quick to understand is one I’d enjoy addressing with React and TypeScript.\n\nAt RWS, I used Redux to reduce unnecessary re-renders by 40%. I also worked on the startup project Ewaa Packages AI, whose team assembled live travel inventory into choices that users could revise. I value startup product work where responsiveness and the details of everyday interactions receive real attention.\n\nMy attached resume includes the relevant application and performance work.\n\nAman Khan\n+91 8223037373\nhttps://github.com/LastNameKhan\nhttps://www.linkedin.com/in/amank-tech27/",
+      "source": "https://blinkit.com/",
+      "hiring_status": "unconfirmed",
+      "draft_id": "r7639424667849201604",
+      "message_id": "1a17975a5019399c",
+      "verification": "verified",
+      "attachment_status": "attached",
+      "attachment_filename": "Aman-Resume.pdf",
+      "attachment_bytes": 106346
+    },
+    {
+      "company": "Delhivery",
+      "to": "careers@delhivery.com",
+      "website": "https://delhivery.com",
+      "category": "Logistics & Supply Chain",
+      "provided_category": "Unicorns & Scale-up Indian Startups",
+      "focus": "Supply chain and logistics",
+      "contact_type": "recruiting",
+      "provided_categories": [
+        "Unicorns & Scale-up Indian Startups"
+      ],
+      "brands": [
+        "Delhivery"
+      ],
+      "related_websites": [
+        "https://delhivery.com"
+      ],
+      "email_verification": "user_provided_unverified",
+      "status": "saved",
+      "subject": "React engineer inquiry | Shipment visibility tools",
+      "body": "Hi Delhivery recruitment team,\n\nI’m interested in senior frontend work supporting parcel delivery and supply-chain operations. Making shipment information readable and actionable is the kind of product problem I’d like to help solve.\n\nI’ve worked on real-time API integration in React at RWS and collaborative synchronized interfaces at XBREYINS. More recently, I contributed to Ewaa Packages AI with a startup team, where our system connected live inventory to a guided customer journey. I’m keen to continue building software that makes a complex service easier to use.\n\nThe resume attached provides my background for relevant frontend opportunities.\n\nAman Khan\n+91 8223037373\nhttps://github.com/LastNameKhan\nhttps://www.linkedin.com/in/amank-tech27/",
+      "source": "https://www.delhivery.com/",
+      "hiring_status": "unconfirmed",
+      "draft_id": "r1740016918522543227",
+      "message_id": "1a17975c13b9e313",
+      "verification": "verified",
+      "attachment_status": "attached",
+      "attachment_filename": "Aman-Resume.pdf",
+      "attachment_bytes": 106346
+    },
+    {
+      "company": "CaratLane",
+      "to": "careers@caratlane.com",
+      "website": "https://caratlane.com",
+      "category": "Consumer Brands & E-Commerce",
+      "provided_category": "Unicorns & Scale-up Indian Startups",
+      "focus": "Omnichannel jewellery",
+      "contact_type": "recruiting",
+      "provided_categories": [
+        "Unicorns & Scale-up Indian Startups"
+      ],
+      "brands": [
+        "CaratLane"
+      ],
+      "related_websites": [
+        "https://caratlane.com"
+      ],
+      "email_verification": "user_provided_unverified",
+      "status": "saved",
+      "subject": "Senior frontend application | Jewellery shopping experiences",
+      "body": "Hello CaratLane hiring team,\n\nYour collection-led jewellery discovery gives frontend engineers an interesting balance: present a visually rich catalogue while making the next choice easy to understand. I’d be keen to contribute to that experience.\n\nMy professional work includes React/TypeScript UI architecture and API-driven applications. I also worked with a startup team on Ewaa Packages AI, whose product helped users compare packages and substitute individual options. Building that connection between discovery and a practical decision is something I enjoyed in the startup setting.\n\nI’ve enclosed my resume for senior frontend consideration within your digital products.\n\nAman Khan\n+91 8223037373\nhttps://github.com/LastNameKhan\nhttps://www.linkedin.com/in/amank-tech27/",
+      "source": "https://www.caratlane.com/",
+      "hiring_status": "unconfirmed",
+      "draft_id": "r2367337388188224580",
+      "message_id": "1a17976ef052de55",
+      "verification": "verified",
+      "attachment_status": "attached",
+      "attachment_filename": "Aman-Resume.pdf",
+      "attachment_bytes": 106346
+    },
+    {
+      "company": "Honasa Consumer",
+      "to": "careers@honasa.in",
+      "website": "https://honasa.in",
+      "category": "Consumer Brands & E-Commerce",
+      "provided_category": "Unicorns & Scale-up Indian Startups",
+      "focus": "Beauty and personal care, including Mamaearth and The Derma Co.",
+      "contact_type": "recruiting",
+      "provided_categories": [
+        "Unicorns & Scale-up Indian Startups",
+        "D2C Brands & E-Commerce Startups"
+      ],
+      "brands": [
+        "Honasa Consumer / Mamaearth",
+        "Honasa Consumer / The Derma Co."
+      ],
+      "related_websites": [
+        "https://honasa.in",
+        "https://thedermaco.com"
+      ],
+      "email_verification": "user_provided_unverified",
+      "status": "saved",
+      "subject": "Frontend product engineering | Multi-brand commerce",
+      "body": "Hi Honasa Consumer team,\n\nI’m writing about frontend opportunities across your beauty portfolio, including Mamaearth and The Derma Co. Supporting distinct brands while maintaining clear shopping journeys is an appealing product engineering challenge.\n\nAt Bounteous, my React/TypeScript work included tenant-specific configuration and reusable administration interfaces. My recent startup experience was Ewaa Packages AI, where our team supported more than one travel brand through a multi-tenant conversational system. I’d enjoy bringing that perspective to another product team with varied customer experiences.\n\nMy attached CV details the frontend background I’d bring to a suitable senior role.\n\nAman Khan\n+91 8223037373\nhttps://github.com/LastNameKhan\nhttps://www.linkedin.com/in/amank-tech27/",
+      "source": "https://honasa.in/",
+      "hiring_status": "unconfirmed",
+      "previous_attempt": "Quota rejection; checked all 43 Gmail drafts and confirmed no Honasa creation.",
+      "draft_id": "r7853078960167400136",
+      "message_id": "1a17978b04d454df",
+      "verification": "verified",
+      "attachment_status": "attached",
+      "attachment_filename": "Aman-Resume.pdf",
+      "attachment_bytes": 106346
+    },
+    {
+      "company": "Rivigo",
+      "to": "careers@rivigo.com",
+      "website": "https://rivigo.com",
+      "category": "Logistics & Supply Chain",
+      "provided_category": "Unicorns & Scale-up Indian Startups",
+      "focus": "Express logistics within Mahindra Logistics",
+      "contact_type": "recruiting",
+      "provided_categories": [
+        "Unicorns & Scale-up Indian Startups"
+      ],
+      "brands": [
+        "Rivigo"
+      ],
+      "related_websites": [
+        "https://rivigo.com"
+      ],
+      "email_verification": "user_provided_unverified",
+      "status": "saved",
+      "subject": "Senior frontend inquiry | Express logistics applications",
+      "body": "Hello Rivigo team,\n\nI read about Rivigo’s express logistics business within Mahindra Logistics and would like to ask about frontend engineering opportunities in that context, rather than assume the older standalone startup description still applies.\n\nMy experience covers React/TypeScript, real-time API integration and configuration-heavy applications. I also contributed to Ewaa Packages AI with a startup team; our product made live travel options comparable and supported changes after selection. I enjoy working directly on tools that simplify an operationally complex service.\n\nI’ve attached my resume for consideration by the appropriate frontend hiring team.\n\nAman Khan\n+91 8223037373\nhttps://github.com/LastNameKhan\nhttps://www.linkedin.com/in/amank-tech27/",
+      "source": "https://mahindralogistics.com/jvs-subsidiaries/",
+      "hiring_status": "unconfirmed",
+      "draft_id": "r7475039254651483453",
+      "message_id": "1a17978dc0a1a370",
+      "verification": "verified",
+      "attachment_status": "attached",
+      "attachment_filename": "Aman-Resume.pdf",
+      "attachment_bytes": 106346
+    },
+    {
+      "company": "M2P Fintech",
+      "to": "careers@m2pfintech.com",
+      "website": "https://m2pfintech.com",
+      "category": "FinTech & Banking",
+      "provided_category": "Unicorns & Scale-up Indian Startups",
+      "focus": "Banking API infrastructure",
+      "contact_type": "recruiting",
+      "provided_categories": [
+        "Unicorns & Scale-up Indian Startups"
+      ],
+      "brands": [
+        "M2P Fintech"
+      ],
+      "related_websites": [
+        "https://m2pfintech.com"
+      ],
+      "email_verification": "user_provided_unverified",
+      "status": "saved",
+      "subject": "Senior frontend candidate | Banking infrastructure products",
+      "body": "Hi M2P Fintech recruitment team,\n\nThe breadth of M2P’s banking, lending and payment products interests me from the perspective of the people configuring and operating them. I’d like to contribute to clear, reliable frontend tools around that infrastructure.\n\nMy React/TypeScript experience at Bounteous includes tenant directories, integration settings and credential-management interfaces. I recently worked in a startup team on Ewaa Packages AI, whose system validated conversational input before moving to live package generation. I value that kind of close attention to product workflow and correctness.\n\nMy CV is included for suitable senior frontend engineering roles.\n\nAman Khan\n+91 8223037373\nhttps://github.com/LastNameKhan\nhttps://www.linkedin.com/in/amank-tech27/",
+      "source": "https://m2pfintech.com/",
+      "hiring_status": "unconfirmed",
+      "draft_id": "r2496789129175394070",
+      "message_id": "1a1797905ca9d8f2",
+      "verification": "verified",
+      "attachment_status": "attached",
+      "attachment_filename": "Aman-Resume.pdf",
+      "attachment_bytes": 106346
+    },
+    {
+      "company": "ZestMoney",
+      "to": "careers@zestmoney.in",
+      "website": "https://zestmoney.in",
+      "category": "FinTech & Banking",
+      "provided_category": "FinTech & Banking Startups",
+      "focus": "Credit platform connecting customers with lending partner DMI",
+      "contact_type": "recruiting",
+      "provided_categories": [
+        "FinTech & Banking Startups"
+      ],
+      "brands": [
+        "ZestMoney"
+      ],
+      "related_websites": [
+        "https://zestmoney.in"
+      ],
+      "email_verification": "user_provided_unverified",
+      "status": "saved",
+      "subject": "Frontend engineering inquiry | Credit application journeys",
+      "body": "Hello ZestMoney team,\n\nI saw the current ZestMoney description of connecting customers with lending partner DMI. I’m interested in frontend opportunities around making credit-related journeys clear, without assuming a particular vacancy or the older company structure.\n\nI bring React/TypeScript application experience, form validation and API integration. My recent startup project was Ewaa Packages AI; our team collected complete, checked travel requirements before offering packages. I’d like to continue working closely with a product team on dependable, understandable user flows.\n\nPlease find my resume enclosed for relevant senior frontend consideration.\n\nAman Khan\n+91 8223037373\nhttps://github.com/LastNameKhan\nhttps://www.linkedin.com/in/amank-tech27/",
+      "source": "https://www.zestmoney.in/aboutus/",
+      "hiring_status": "unconfirmed",
+      "draft_id": "r2292387568286390295",
+      "message_id": "1a179792fb892067",
+      "verification": "verified",
+      "attachment_status": "attached",
+      "attachment_filename": "Aman-Resume.pdf",
+      "attachment_bytes": 106346
+    },
+    {
+      "company": "Navi",
+      "to": "careers@navi.com",
+      "website": "https://navi.com",
+      "category": "FinTech & Banking",
+      "provided_category": "FinTech & Banking Startups",
+      "focus": "Digital financial services",
+      "contact_type": "recruiting",
+      "provided_categories": [
+        "FinTech & Banking Startups"
+      ],
+      "brands": [
+        "Navi"
+      ],
+      "related_websites": [
+        "https://navi.com"
+      ],
+      "email_verification": "user_provided_unverified",
+      "status": "saved",
+      "subject": "Senior React engineer | Consumer financial products",
+      "body": "Hi Navi hiring team,\n\nNavi’s aim to simplify access to financial products is the reason for this inquiry. I’d be interested in frontend work that helps users navigate the different UPI, lending and investment journeys in your app ecosystem.\n\nAt RWS, I worked on React/TypeScript migration and state optimization; at Bounteous, I built validated configuration interfaces. I also contributed to Ewaa Packages AI with a startup team, whose product guided users through preferences and budget before presenting choices. I enjoy staying close to that practical side of product development.\n\nMy attached resume sets out my experience for senior frontend roles.\n\nAman Khan\n+91 8223037373\nhttps://github.com/LastNameKhan\nhttps://www.linkedin.com/in/amank-tech27/",
+      "source": "https://navi.com/about-us",
+      "hiring_status": "unconfirmed",
+      "draft_id": "r5213710570537925663",
+      "message_id": "1a1797959434c7f1",
+      "verification": "verified",
+      "attachment_status": "attached",
+      "attachment_filename": "Aman-Resume.pdf",
+      "attachment_bytes": 106346
+    },
+    {
+      "company": "Fi Money",
+      "to": "support@fi.money",
+      "website": "https://fi.money",
+      "category": "FinTech & Banking",
+      "provided_category": "FinTech & Banking Startups",
+      "focus": "Financial application; banking services transition announced",
+      "contact_type": "support",
+      "provided_categories": [
+        "FinTech & Banking Startups"
+      ],
+      "brands": [
+        "Fi Money"
+      ],
+      "related_websites": [
+        "https://fi.money"
+      ],
+      "email_verification": "user_provided_unverified",
+      "status": "saved",
+      "subject": "Senior Frontend Engineer inquiry | Product team referral",
+      "body": "Hello Fi Money support team,\n\nCould you route this engineering inquiry and my attached CV to whoever handles frontend hiring? I’m aware of the banking-services transition described on your website and am asking about current team needs, rather than a specific advertised role.\n\nI have senior React/TypeScript experience in admin workflows and API-connected interfaces. I also worked in a startup team on Ewaa Packages AI; our system preserved prior chats and let users revise travel selections. I’d enjoy contributing that user-journey perspective to a product team and continuing the direct collaboration I value in startup work.\n\nAman Khan\n+91 8223037373\nhttps://github.com/LastNameKhan\nhttps://www.linkedin.com/in/amank-tech27/",
+      "source": "https://fi.money/",
+      "hiring_status": "unconfirmed",
+      "draft_id": "r8710188363095235646",
+      "message_id": "1a1797983ed5b343",
+      "verification": "verified",
+      "attachment_status": "attached",
+      "attachment_filename": "Aman-Resume.pdf",
+      "attachment_bytes": 106346
+    },
+    {
+      "company": "Khatabook",
+      "to": "careers@khatabook.com",
+      "website": "https://khatabook.com",
+      "category": "Enterprise SaaS",
+      "provided_category": "FinTech & Banking Startups",
+      "focus": "Small-business bookkeeping",
+      "contact_type": "recruiting",
+      "provided_categories": [
+        "FinTech & Banking Startups"
+      ],
+      "brands": [
+        "Khatabook"
+      ],
+      "related_websites": [
+        "https://khatabook.com"
+      ],
+      "email_verification": "user_provided_unverified",
+      "status": "saved",
+      "subject": "Senior frontend inquiry | Simple merchant software",
+      "body": "Hi Khatabook team,\n\nCould my React/TypeScript experience be useful to your merchant products? Khatabook’s focus on simplifying digital credit records for small businesses appeals to me because everyday tools need to remain easy to use as their capabilities grow.\n\nI’ve worked on validated configuration screens at Bounteous and React state performance at RWS. In a startup team, I also contributed to Ewaa Packages AI, whose system guided users through requirements before presenting options. I’m keen on more product work where close collaboration helps keep a complex service approachable.\n\nI’ve attached my resume for relevant senior frontend opportunities.\n\nAman Khan\n+91 8223037373\nhttps://github.com/LastNameKhan\nhttps://www.linkedin.com/in/amank-tech27/",
+      "source": "https://khatabook.com/about/",
+      "hiring_status": "unconfirmed",
+      "draft_id": "r-1575940752031046400",
+      "message_id": "1a1797a9cbd1911e",
+      "verification": "verified",
+      "attachment_status": "attached",
+      "attachment_filename": "Aman-Resume.pdf",
+      "attachment_bytes": 106346
+    },
+    {
+      "company": "BharatPe",
+      "to": "careers@bharatpe.com",
+      "website": "https://bharatpe.com",
+      "category": "FinTech & Banking",
+      "provided_category": "FinTech & Banking Startups",
+      "focus": "Merchant payments and financial services",
+      "contact_type": "recruiting",
+      "provided_categories": [
+        "FinTech & Banking Startups"
+      ],
+      "brands": [
+        "BharatPe"
+      ],
+      "related_websites": [
+        "https://bharatpe.com"
+      ],
+      "email_verification": "user_provided_unverified",
+      "status": "saved",
+      "subject": "Frontend engineer | Merchant payments and product UX",
+      "body": "Hello BharatPe hiring team,\n\nI’m sharing my attached resume for senior frontend consideration. My experience is in React/TypeScript product interfaces, API integration and reusable architecture, including marketing administration tools at Bounteous.\n\nBharatPe’s merchant payments focus interests me as a place where clarity in an everyday workflow matters. I recently worked on the startup project Ewaa Packages AI; our team took conversational requirements through validation to selectable packages. I’d enjoy bringing that product-minded approach to tools used by merchants, while continuing the close teamwork I’ve enjoyed in a startup setting.\n\nIs there an appropriate frontend team I could speak with?\n\nAman Khan\n+91 8223037373\nhttps://github.com/LastNameKhan\nhttps://www.linkedin.com/in/amank-tech27/",
+      "source": "https://bharatpe.com/",
+      "hiring_status": "unconfirmed",
+      "draft_id": "r9020974930927175241",
+      "message_id": "1a1797ac6e778124",
+      "verification": "verified",
+      "attachment_status": "attached",
+      "attachment_filename": "Aman-Resume.pdf",
+      "attachment_bytes": 106346
+    },
+    {
+      "company": "CASHe",
+      "to": "careers@cashe.co.in",
+      "website": "https://cashe.co.in",
+      "category": "FinTech & Banking",
+      "provided_category": "FinTech & Banking Startups",
+      "focus": "Digital lending",
+      "contact_type": "recruiting",
+      "provided_categories": [
+        "FinTech & Banking Startups"
+      ],
+      "brands": [
+        "CASHe"
+      ],
+      "related_websites": [
+        "https://cashe.co.in"
+      ],
+      "email_verification": "user_provided_unverified",
+      "status": "saved",
+      "subject": "Senior React developer | Digital lending interfaces",
+      "body": "Hi CASHe team,\n\nI’d like to be considered for frontend engineering work on your digital lending experience. I’m interested in helping make application steps, required information and changing status clear to users.\n\nMy React/TypeScript work spans validated forms, API-driven screens and state management. I’ve also contributed to Ewaa Packages AI with a startup team, whose conversational intake checked for missing or invalid trip details before proceeding. That experience is one reason I’m seeking another product environment with direct collaboration around user needs.\n\nThe attached CV covers my frontend background; I’m inquiring about suitable senior roles rather than a confirmed opening.\n\nAman Khan\n+91 8223037373\nhttps://github.com/LastNameKhan\nhttps://www.linkedin.com/in/amank-tech27/",
+      "source": "https://in.linkedin.com/company/cashe-app",
+      "hiring_status": "unconfirmed",
+      "draft_id": "r1737328580425815078",
+      "message_id": "1a1797af07fd2a27",
+      "verification": "verified",
+      "attachment_status": "attached",
+      "attachment_filename": "Aman-Resume.pdf",
+      "attachment_bytes": 106346
+    },
+    {
+      "company": "Credgenics",
+      "to": "careers@credgenics.com",
+      "website": "https://credgenics.com",
+      "category": "Enterprise SaaS",
+      "provided_category": "FinTech & Banking Startups",
+      "focus": "Debt collection and resolution software",
+      "contact_type": "recruiting",
+      "provided_categories": [
+        "FinTech & Banking Startups"
+      ],
+      "brands": [
+        "Credgenics"
+      ],
+      "related_websites": [
+        "https://credgenics.com"
+      ],
+      "email_verification": "user_provided_unverified",
+      "status": "saved",
+      "subject": "Senior frontend application | Collections workflow software",
+      "body": "Hello Credgenics recruiting team,\n\nYour collection strategy, engagement and operations platform is the kind of workflow-rich software I’d be interested in building as a frontend engineer. My Bounteous experience includes React/TypeScript configuration tools, permission-aware interfaces and integration settings.\n\nA recent startup project adds a useful AI product perspective: I worked on Ewaa Packages AI, whose team enforced a conversation state machine and surfaced blockers instead of proceeding with incomplete inputs. I’d enjoy continuing that attention to usable, controlled workflows in a closely involved product team.\n\nMy resume is enclosed for senior frontend opportunities around your platform.\n\nAman Khan\n+91 8223037373\nhttps://github.com/LastNameKhan\nhttps://www.linkedin.com/in/amank-tech27/",
+      "source": "https://credgenics.com/",
+      "hiring_status": "unconfirmed",
+      "draft_id": "r-202543000113328037",
+      "message_id": "1a1797b1bf42a8c0",
+      "verification": "verified",
+      "attachment_status": "attached",
+      "attachment_filename": "Aman-Resume.pdf",
+      "attachment_bytes": 106346
+    },
+    {
+      "company": "Hasura",
+      "to": "careers@hasura.io",
+      "website": "https://hasura.io",
+      "category": "Developer Tools & Infrastructure",
+      "provided_category": "B2B SaaS, Cloud & Developer Tools Startups",
+      "focus": "AI and data tooling, GraphQL APIs",
+      "contact_type": "recruiting",
+      "provided_categories": [
+        "B2B SaaS, Cloud & Developer Tools Startups"
+      ],
+      "brands": [
+        "Hasura"
+      ],
+      "related_websites": [
+        "https://hasura.io"
+      ],
+      "email_verification": "user_provided_unverified",
+      "status": "saved",
+      "subject": "Frontend product engineer | Data and AI tooling",
+      "body": "Hi Hasura team,\n\nI noticed Hasura’s current emphasis on AI alongside its GraphQL and data products. I’m interested in senior frontend opportunities that make those capabilities approachable to developers.\n\nI’ve built API-connected React applications and configuration interfaces for webhooks, credentials and field mapping. I also worked in a startup team on Ewaa Packages AI, whose system transformed conversational input into structured trip data for downstream tools. The connection between clear interfaces and dependable data is a product problem I’d like to keep working on.\n\nMy attached CV gives the relevant background for your assessment.\n\nAman Khan\n+91 8223037373\nhttps://github.com/LastNameKhan\nhttps://www.linkedin.com/in/amank-tech27/",
+      "source": "https://hasura.io/",
+      "hiring_status": "unconfirmed",
+      "draft_id": "r-2341047590050862986",
+      "message_id": "1a1797b44cd6f870",
+      "verification": "verified",
+      "attachment_status": "attached",
+      "attachment_filename": "Aman-Resume.pdf",
+      "attachment_bytes": 106346
+    },
+    {
+      "company": "LambdaTest",
+      "to": "careers@lambdatest.com",
+      "website": "https://lambdatest.com",
+      "category": "Developer Tools & Infrastructure",
+      "provided_category": "B2B SaaS, Cloud & Developer Tools Startups",
+      "focus": "Agentic testing, browser/device testing and orchestration (TestMu AI)",
+      "contact_type": "recruiting",
+      "provided_categories": [
+        "B2B SaaS, Cloud & Developer Tools Startups"
+      ],
+      "brands": [
+        "LambdaTest"
+      ],
+      "related_websites": [
+        "https://lambdatest.com"
+      ],
+      "email_verification": "user_provided_unverified",
+      "status": "saved",
+      "subject": "Senior frontend engineering | Test results and developer UX",
+      "body": "Hello LambdaTest/TestMu AI team,\n\nYour site now presents TestMu AI across agent testing, browser testing and orchestration. I’d be interested in frontend work that lets developers navigate that breadth and understand results clearly.\n\nMy experience includes React/TypeScript UI development, Jest and React Testing Library, plus CI quality checks at Bounteous. In a startup setting, I contributed to Ewaa Packages AI; our team used tracing and evaluation practices around the conversational product. I’d like to continue building practical engineering tools with that product involvement.\n\nI’ve attached my resume for relevant senior frontend positions.\n\nAman Khan\n+91 8223037373\nhttps://github.com/LastNameKhan\nhttps://www.linkedin.com/in/amank-tech27/",
+      "source": "https://www.testmuai.com/",
+      "hiring_status": "unconfirmed",
+      "draft_id": "r-6150748270205450563",
+      "message_id": "1a1797b710162e38",
+      "verification": "verified",
+      "attachment_status": "attached",
+      "attachment_filename": "Aman-Resume.pdf",
+      "attachment_bytes": 106346
+    },
+    {
+      "company": "Sirion",
+      "to": "careers@sirionlabs.com",
+      "website": "https://sirionlabs.com",
+      "category": "Enterprise SaaS",
+      "provided_category": "B2B SaaS, Cloud & Developer Tools Startups",
+      "focus": "Contract lifecycle management",
+      "contact_type": "recruiting",
+      "provided_categories": [
+        "B2B SaaS, Cloud & Developer Tools Startups"
+      ],
+      "brands": [
+        "Sirion"
+      ],
+      "related_websites": [
+        "https://sirionlabs.com"
+      ],
+      "email_verification": "user_provided_unverified",
+      "status": "saved",
+      "subject": "Senior React engineer | Contract workflow experiences",
+      "body": "Hi Sirion hiring team,\n\nContract search, drafting and negotiation put a lot of information in front of a user. I’m reaching out because I’d enjoy frontend work that helps organize those workflows in Sirion.\n\nMy professional background is React/TypeScript applications, including tenant administration and complex configuration at Bounteous. I also worked with a startup team on Ewaa Packages AI, whose system turned open-ended requests into structured, reviewable travel options. I’m drawn to product teams where engineers can improve how people work through a task.\n\nPlease consider my enclosed resume for senior frontend engineering opportunities.\n\nAman Khan\n+91 8223037373\nhttps://github.com/LastNameKhan\nhttps://www.linkedin.com/in/amank-tech27/",
+      "source": "https://www.sirion.ai/",
+      "hiring_status": "unconfirmed",
+      "draft_id": "r-6320627145690913520",
+      "message_id": "1a1797c7b08b28a5",
+      "verification": "verified",
+      "attachment_status": "attached",
+      "attachment_filename": "Aman-Resume.pdf",
+      "attachment_bytes": 106346
+    },
+    {
+      "company": "Wingify",
+      "to": "careers@wingify.com",
+      "website": "https://wingify.com",
+      "category": "Advertising & Marketing Technology",
+      "provided_category": "B2B SaaS, Cloud & Developer Tools Startups",
+      "focus": "Conversion optimization and experimentation",
+      "contact_type": "recruiting",
+      "provided_categories": [
+        "B2B SaaS, Cloud & Developer Tools Startups"
+      ],
+      "brands": [
+        "Wingify"
+      ],
+      "related_websites": [
+        "https://wingify.com"
+      ],
+      "email_verification": "user_provided_unverified",
+      "status": "saved",
+      "subject": "Frontend application | Experimentation and optimization tools",
+      "body": "Hello Wingify team,\n\nVWO’s experimentation tools interest me from both sides of frontend work: the interfaces used to configure an experiment and the care needed around application behavior. I’d like to explore a senior React/TypeScript role in that product space.\n\nAt RWS, I improved state performance and helped reduce runtime errors through TypeScript migration. My recent startup experience includes Ewaa Packages AI, whose team developed preference-based travel recommendations and evaluated conversational behavior. I value working close to product outcomes in a startup-style engineering team.\n\nMy attached resume offers more detail for your hiring team.\n\nAman Khan\n+91 8223037373\nhttps://github.com/LastNameKhan\nhttps://www.linkedin.com/in/amank-tech27/",
+      "source": "https://wingify.com/",
+      "hiring_status": "unconfirmed",
+      "draft_id": "r-526917783468170794",
+      "message_id": "1a1797ca53f84e49",
+      "verification": "verified",
+      "attachment_status": "attached",
+      "attachment_filename": "Aman-Resume.pdf",
+      "attachment_bytes": 106346
+    },
+    {
+      "company": "Agile CRM",
+      "to": "support@agilecrm.com",
+      "website": "https://agilecrm.com",
+      "category": "Enterprise SaaS",
+      "provided_category": "B2B SaaS, Cloud & Developer Tools Startups",
+      "focus": "CRM and marketing automation",
+      "contact_type": "support",
+      "provided_categories": [
+        "B2B SaaS, Cloud & Developer Tools Startups"
+      ],
+      "brands": [
+        "Agile CRM"
+      ],
+      "related_websites": [
+        "https://agilecrm.com"
+      ],
+      "email_verification": "user_provided_unverified",
+      "status": "saved",
+      "subject": "Senior Frontend Engineer inquiry | CRM workflow products",
+      "body": "Hello Agile CRM team,\n\nPlease pass my attached resume to engineering hiring if senior frontend candidates are being considered. Your combination of contact management, deals, integrations and marketing tools connects well with my recent work on marketing administration software.\n\nAt Bounteous, I developed React/TypeScript configuration, campaign and webhook interfaces. I also contributed to Ewaa Packages AI with a startup team; our product used guided conversations to make a multi-step service easier to navigate. I’d enjoy continuing that kind of hands-on product collaboration while helping simplify CRM workflows.\n\nAman Khan\n+91 8223037373\nhttps://github.com/LastNameKhan\nhttps://www.linkedin.com/in/amank-tech27/",
+      "source": "https://www.agilecrm.com/",
+      "hiring_status": "unconfirmed",
+      "draft_id": "r5768193897964881636",
+      "message_id": "1a1797ccff9ebabb",
+      "verification": "verified",
+      "attachment_status": "attached",
+      "attachment_filename": "Aman-Resume.pdf",
+      "attachment_bytes": 106346
+    },
+    {
+      "company": "Pixis",
+      "to": "careers@pixis.ai",
+      "website": "https://pixis.ai",
+      "category": "AI & Automation",
+      "provided_category": "B2B SaaS, Cloud & Developer Tools Startups",
+      "focus": "AI for marketing",
+      "contact_type": "recruiting",
+      "provided_categories": [
+        "B2B SaaS, Cloud & Developer Tools Startups"
+      ],
+      "brands": [
+        "Pixis"
+      ],
+      "related_websites": [
+        "https://pixis.ai"
+      ],
+      "email_verification": "user_provided_unverified",
+      "status": "saved",
+      "subject": "React/TypeScript candidate | AI advertising products",
+      "body": "Hi Pixis recruitment team,\n\nAdroom’s creative workflow and Prism’s performance focus make Pixis particularly interesting to me. I’d like to work on frontend experiences that connect AI-assisted output with the decisions marketers need to make.\n\nMy Bounteous work includes campaign configuration, field mapping and AI SMS assistant settings in React/TypeScript. I’ve also worked on Ewaa Packages AI in a startup team, whose engine scored live travel inventory and presented ranked options. I want to keep that close connection between AI capabilities and a useful product experience.\n\nI’m enclosing my resume for senior frontend consideration.\n\nAman Khan\n+91 8223037373\nhttps://github.com/LastNameKhan\nhttps://www.linkedin.com/in/amank-tech27/",
+      "source": "https://pixis.ai/",
+      "hiring_status": "unconfirmed",
+      "draft_id": "r-5998637548967847387",
+      "message_id": "1a1797cf8a76a15d",
+      "verification": "verified",
+      "attachment_status": "attached",
+      "attachment_filename": "Aman-Resume.pdf",
+      "attachment_bytes": 106346
+    },
+    {
+      "company": "Atlan",
+      "to": "careers@atlan.com",
+      "website": "https://atlan.com",
+      "category": "Developer Tools & Infrastructure",
+      "provided_category": "B2B SaaS, Cloud & Developer Tools Startups",
+      "focus": "Metadata and data collaboration",
+      "contact_type": "recruiting",
+      "provided_categories": [
+        "B2B SaaS, Cloud & Developer Tools Startups"
+      ],
+      "brands": [
+        "Atlan"
+      ],
+      "related_websites": [
+        "https://atlan.com"
+      ],
+      "email_verification": "user_provided_unverified",
+      "status": "saved",
+      "subject": "Senior frontend inquiry | Data context and discovery",
+      "body": "Hello Atlan team,\n\nConnecting business systems into a living data graph makes discoverability an especially interesting UI challenge. I’d be keen to contribute to frontend experiences that help users navigate context and lineage.\n\nI’ve built React/TypeScript interfaces involving integrations, tenant configuration and API data. My startup project experience includes Ewaa Packages AI, where our team resolved ambiguous locations before turning conversational requirements into structured data. I enjoy product work where careful information handling becomes visible in a clearer user journey.\n\nThe attached CV outlines my experience for suitable senior frontend roles at Atlan.\n\nAman Khan\n+91 8223037373\nhttps://github.com/LastNameKhan\nhttps://www.linkedin.com/in/amank-tech27/",
+      "source": "https://atlan.com/",
+      "hiring_status": "unconfirmed",
+      "draft_id": "r3887331400232351381",
+      "message_id": "1a1797d225b067bb",
+      "verification": "verified",
+      "attachment_status": "attached",
+      "attachment_filename": "Aman-Resume.pdf",
+      "attachment_bytes": 106346
+    },
+    {
+      "company": "Practo",
+      "to": "careers@practo.com",
+      "website": "https://practo.com",
+      "category": "HealthTech & Digital Healthcare",
+      "provided_category": "HealthTech, EdTech & Consumer Services Startups",
+      "focus": "Healthcare access and clinic software",
+      "contact_type": "recruiting",
+      "provided_categories": [
+        "HealthTech, EdTech & Consumer Services Startups"
+      ],
+      "brands": [
+        "Practo"
+      ],
+      "related_websites": [
+        "https://practo.com"
+      ],
+      "email_verification": "user_provided_unverified",
+      "status": "saved",
+      "subject": "Senior frontend candidate | Healthcare access journeys",
+      "body": "Hi Practo team,\n\nI’d like to help build the frontend journeys between finding a doctor, understanding the available information and booking a consultation. Practo’s combination of discovery and access makes that particularly worthwhile product work.\n\nMy background covers React/TypeScript applications, real-time APIs and reusable components. I also contributed to Ewaa Packages AI with a startup team; our system guided travelers through preferences and validated details before presenting options. That experience reinforced my interest in startup teams working directly on how people navigate complex services.\n\nMy resume is attached for senior frontend engineering review.\n\nAman Khan\n+91 8223037373\nhttps://github.com/LastNameKhan\nhttps://www.linkedin.com/in/amank-tech27/",
+      "source": "https://www.practo.com/company/about",
+      "hiring_status": "unconfirmed",
+      "draft_id": "r5984804386445034740",
+      "message_id": "1a1797d4da98ab53",
+      "verification": "verified",
+      "attachment_status": "attached",
+      "attachment_filename": "Aman-Resume.pdf",
+      "attachment_bytes": 106346
+    },
+    {
+      "company": "BeatO",
+      "to": "careers@beatoapp.com",
+      "website": "https://beatoapp.com",
+      "category": "HealthTech & Digital Healthcare",
+      "provided_category": "HealthTech, EdTech & Consumer Services Startups",
+      "focus": "Digital diabetes management",
+      "contact_type": "recruiting",
+      "provided_categories": [
+        "HealthTech, EdTech & Consumer Services Startups",
+        "HealthTech & Digital Healthcare Startups"
+      ],
+      "brands": [
+        "BeatO"
+      ],
+      "related_websites": [
+        "https://beatoapp.com",
+        "https://beatoapp.com"
+      ],
+      "email_verification": "user_provided_unverified",
+      "status": "saved",
+      "subject": "Frontend engineering inquiry | Diabetes care products",
+      "body": "Hello BeatO team,\n\nHelping users navigate diabetes devices and care information is frontend work I’d find meaningful. I’m reaching out with 7+ years of React-focused experience, including TypeScript applications, API integration and tested interface components.\n\nI also worked on Ewaa Packages AI with a startup team. Our travel system collected requirements step by step and flagged missing information before offering options. I’d enjoy continuing that careful approach to product interaction in a startup-oriented team. My attached resume is for senior frontend opportunities supporting your digital care and customer experiences.\n\nAman Khan\n+91 8223037373\nhttps://github.com/LastNameKhan\nhttps://www.linkedin.com/in/amank-tech27/",
+      "source": "https://beatoapp.com/",
+      "hiring_status": "unconfirmed",
+      "draft_id": "r-1817379218267258133",
+      "message_id": "1a1797e47305f23d",
+      "verification": "verified",
+      "attachment_status": "attached",
+      "attachment_filename": "Aman-Resume.pdf",
+      "attachment_bytes": 106346
+    },
+    {
+      "company": "Vedantu",
+      "to": "careers@vedantu.com",
+      "website": "https://vedantu.com",
+      "category": "EdTech & Learning",
+      "provided_category": "HealthTech, EdTech & Consumer Services Startups",
+      "focus": "Interactive learning",
+      "contact_type": "recruiting",
+      "provided_categories": [
+        "HealthTech, EdTech & Consumer Services Startups"
+      ],
+      "brands": [
+        "Vedantu"
+      ],
+      "related_websites": [
+        "https://vedantu.com"
+      ],
+      "email_verification": "user_provided_unverified",
+      "status": "saved",
+      "subject": "Senior React application | Interactive learning products",
+      "body": "Hi Vedantu recruitment team,\n\nI’ve attached my resume because I’m interested in frontend roles on interactive learning products. At XBREYINS, I worked on a collaborative React/React Native whiteboard with real-time synchronization; at RWS, I delivered multilingual React applications.\n\nVedantu’s online classes make that interactive UI background relevant to this inquiry. More recently, I contributed to Ewaa Packages AI with a startup team, whose product blended conversation and guided widgets. I like teams where engineers help refine the interaction itself, and would be interested in bringing that approach to your learning experience.\n\nAman Khan\n+91 8223037373\nhttps://github.com/LastNameKhan\nhttps://www.linkedin.com/in/amank-tech27/",
+      "source": "https://www.vedantu.com/",
+      "hiring_status": "unconfirmed",
+      "draft_id": "r-5317344544283215918",
+      "message_id": "1a1797e727a0a84c",
+      "verification": "verified",
+      "attachment_status": "attached",
+      "attachment_filename": "Aman-Resume.pdf",
+      "attachment_bytes": 106346
+    },
+    {
+      "company": "Eruditus",
+      "to": "careers@eruditus.com",
+      "website": "https://eruditus.com",
+      "category": "EdTech & Learning",
+      "provided_category": "HealthTech, EdTech & Consumer Services Startups",
+      "focus": "Executive education",
+      "contact_type": "recruiting",
+      "provided_categories": [
+        "HealthTech, EdTech & Consumer Services Startups"
+      ],
+      "brands": [
+        "Eruditus"
+      ],
+      "related_websites": [
+        "https://eruditus.com"
+      ],
+      "email_verification": "user_provided_unverified",
+      "status": "saved",
+      "subject": "Senior frontend engineer | Global learning experiences",
+      "body": "Hello Eruditus team,\n\nThe global reach of your executive education programs interests me, particularly the challenge of presenting program information clearly to learners with different needs.\n\nMy frontend experience includes multilingual React work at RWS and React/TypeScript application architecture at Bounteous. I also worked in a startup team on Ewaa Packages AI; our conversational product gathered travel goals and preferences before presenting ranked options. I want to continue that involvement in products that help users make informed choices. The attached resume is offered for relevant senior frontend opportunities across your learning platforms.\n\nAman Khan\n+91 8223037373\nhttps://github.com/LastNameKhan\nhttps://www.linkedin.com/in/amank-tech27/",
+      "source": "https://eruditus.com/",
+      "hiring_status": "unconfirmed",
+      "draft_id": "r3688697213871704293",
+      "message_id": "1a1797e9c51cf6c6",
+      "verification": "verified",
+      "attachment_status": "attached",
+      "attachment_filename": "Aman-Resume.pdf",
+      "attachment_bytes": 106346
+    },
+    {
+      "company": "Toppr",
+      "to": "careers@toppr.com",
+      "website": "https://toppr.com",
+      "category": "EdTech & Learning",
+      "provided_category": "HealthTech, EdTech & Consumer Services Startups",
+      "focus": "After-school learning",
+      "contact_type": "recruiting",
+      "provided_categories": [
+        "HealthTech, EdTech & Consumer Services Startups"
+      ],
+      "brands": [
+        "Toppr"
+      ],
+      "related_websites": [
+        "https://toppr.com"
+      ],
+      "email_verification": "user_provided_unverified",
+      "status": "held_for_review",
+      "reason": "Official site inaccessible and no current operation or recruiting destination verified.",
+      "source": "https://toppr.com"
+    },
+    {
+      "company": "Cult.fit",
+      "to": "careers@cult.fit",
+      "website": "https://cult.fit",
+      "category": "Consumer Services",
+      "provided_category": "HealthTech, EdTech & Consumer Services Startups",
+      "focus": "Fitness and wellness",
+      "contact_type": "recruiting",
+      "provided_categories": [
+        "HealthTech, EdTech & Consumer Services Startups"
+      ],
+      "brands": [
+        "Cult.fit"
+      ],
+      "related_websites": [
+        "https://cult.fit"
+      ],
+      "email_verification": "user_provided_unverified",
+      "status": "saved",
+      "subject": "Frontend candidate | Fitness discovery and booking",
+      "body": "Hi Cult.fit team,\n\nI’m interested in senior frontend work on fitness discovery and member journeys. Your range of gyms and workout experiences is an appealing setting for clear selection flows and dependable interactions.\n\nI bring React/TypeScript, state management and API integration experience. My recent startup involvement was Ewaa Packages AI, whose team helped users compare options and revise selections within a travel package. I enjoyed working closely on that product journey and would like to continue with a similarly involved engineering team. My CV is attached for consideration against your current frontend needs.\n\nAman Khan\n+91 8223037373\nhttps://github.com/LastNameKhan\nhttps://www.linkedin.com/in/amank-tech27/",
+      "source": "https://support.cult.fit/support/solutions/articles/25000027856-which-fitness-services-does-cult-fit-offer-",
+      "hiring_status": "unconfirmed",
+      "draft_id": "r8671485382268715182",
+      "message_id": "1a1797ec761f3cdb",
+      "verification": "verified",
+      "attachment_status": "attached",
+      "attachment_filename": "Aman-Resume.pdf",
+      "attachment_bytes": 106346
+    },
+    {
+      "company": "Transak",
+      "to": "support@transak.com",
+      "website": "https://transak.com",
+      "category": "Web3 & Blockchain",
+      "provided_category": "Web3, Crypto & Blockchain Startups",
+      "focus": "Fiat-to-crypto payments",
+      "contact_type": "support",
+      "provided_categories": [
+        "Web3, Crypto & Blockchain Startups"
+      ],
+      "brands": [
+        "Transak"
+      ],
+      "related_websites": [
+        "https://transak.com"
+      ],
+      "email_verification": "user_provided_unverified",
+      "status": "saved",
+      "subject": "Senior Frontend Engineer inquiry | Payment integration UX",
+      "body": "Hello Transak team,\n\nWould you forward my attached CV to engineering hiring for senior frontend consideration? I’m interested in the integration and checkout experiences around your on-ramp and off-ramp products.\n\nMy work at Bounteous includes React/TypeScript interfaces for integration settings, credentials and webhooks. I also contributed to Ewaa Packages AI with a startup team; our system guided users from conversational intent through validated requirements to selectable travel packages. I’d enjoy continuing that hands-on product work on interfaces where a complicated underlying service needs to feel straightforward.\n\nAman Khan\n+91 8223037373\nhttps://github.com/LastNameKhan\nhttps://www.linkedin.com/in/amank-tech27/",
+      "source": "https://transak.com/",
+      "hiring_status": "unconfirmed",
+      "draft_id": "r7157290124592895885",
+      "message_id": "1a1797ef0b6b66a3",
+      "verification": "verified",
+      "attachment_status": "attached",
+      "attachment_filename": "Aman-Resume.pdf",
+      "attachment_bytes": 106346
+    },
+    {
+      "company": "Polygon Labs",
+      "to": "careers@polygon.technology",
+      "website": "https://polygon.technology",
+      "category": "Web3 & Blockchain",
+      "provided_category": "Web3, Crypto & Blockchain Startups",
+      "focus": "Blockchain infrastructure",
+      "contact_type": "recruiting",
+      "provided_categories": [
+        "Web3, Crypto & Blockchain Startups"
+      ],
+      "brands": [
+        "Polygon Labs"
+      ],
+      "related_websites": [
+        "https://polygon.technology"
+      ],
+      "email_verification": "user_provided_unverified",
+      "status": "saved",
+      "subject": "Senior React engineer | Developer and payments interfaces",
+      "body": "Hi Polygon Labs team,\n\nI’d like to explore frontend roles around your developer and money-movement products. The current Open Money Stack offering makes clear interfaces around different payment steps an interesting product challenge.\n\nMy strength is React/TypeScript application engineering, including API integration and configuration workflows. I’ve also worked on Ewaa Packages AI in a startup team, whose product connected validated user intent to live travel options. I’m keen to keep that close product involvement in my next role. My attached resume sets out the application engineering experience I could contribute.\n\nAman Khan\n+91 8223037373\nhttps://github.com/LastNameKhan\nhttps://www.linkedin.com/in/amank-tech27/",
+      "source": "https://polygon.technology/",
+      "hiring_status": "unconfirmed",
+      "draft_id": "r7898182252993649283",
+      "message_id": "1a1797f1cd7a0368",
+      "verification": "verified",
+      "attachment_status": "attached",
+      "attachment_filename": "Aman-Resume.pdf",
+      "attachment_bytes": 106346
+    },
+    {
+      "company": "WazirX",
+      "to": "support@wazirx.com",
+      "website": "https://wazirx.com",
+      "category": "Web3 & Blockchain",
+      "provided_category": "Web3, Crypto & Blockchain Startups",
+      "focus": "Crypto asset exchange",
+      "contact_type": "support",
+      "provided_categories": [
+        "Web3, Crypto & Blockchain Startups"
+      ],
+      "brands": [
+        "WazirX"
+      ],
+      "related_websites": [
+        "https://wazirx.com"
+      ],
+      "email_verification": "user_provided_unverified",
+      "status": "saved",
+      "subject": "Senior Frontend Engineer inquiry | Trading product UX",
+      "body": "Hello WazirX team,\n\nPlease direct this note to frontend engineering hiring if appropriate. I’m interested in React/TypeScript roles supporting trading interfaces and the clarity of account and transaction information.\n\nAt RWS, I integrated real-time APIs and optimized Redux rendering. I recently contributed to Ewaa Packages AI with a startup team, whose engine ranked changing travel inventory and supported substitutions. I’d enjoy applying that experience in data-rich interfaces while continuing the product collaboration I’ve valued in startup work. My resume is attached as a frontend candidate inquiry, rather than an application to a confirmed vacancy.\n\nAman Khan\n+91 8223037373\nhttps://github.com/LastNameKhan\nhttps://www.linkedin.com/in/amank-tech27/",
+      "source": "https://wazirx.com/",
+      "hiring_status": "unconfirmed",
+      "draft_id": "r563564744145809969",
+      "message_id": "1a1797f7a3665f2f",
+      "verification": "verified",
+      "attachment_status": "attached",
+      "attachment_filename": "Aman-Resume.pdf",
+      "attachment_bytes": 106346
+    },
+    {
+      "company": "BuidlGuidl",
+      "to": "gm@buidlguidl.com",
+      "website": "https://buidlguidl.com",
+      "category": "Web3 & Blockchain",
+      "provided_category": "Web3, Crypto & Blockchain Startups",
+      "focus": "Ethereum developer ecosystem",
+      "contact_type": "general",
+      "provided_categories": [
+        "Web3, Crypto & Blockchain Startups"
+      ],
+      "brands": [
+        "BuidlGuidl"
+      ],
+      "related_websites": [
+        "https://buidlguidl.com"
+      ],
+      "email_verification": "user_provided_unverified",
+      "status": "saved",
+      "subject": "Frontend Engineer inquiry | Open-source developer tools",
+      "body": "Hi BuidlGuidl team,\n\nYour combination of open-source tooling, education and early working prototypes appeals to me. I’d like to ask about frontend engineering opportunities and would appreciate this reaching the person who handles engineering applications.\n\nI have React/TypeScript and real-time collaborative UI experience. On the startup project Ewaa Packages AI, I worked with a team whose conversational product turned trip requests into live package choices. I’d enjoy more of that practical, iterative product work, especially in developer-facing tools. I’ve included my resume to establish my frontend background and GitHub link below.\n\nAman Khan\n+91 8223037373\nhttps://github.com/LastNameKhan\nhttps://www.linkedin.com/in/amank-tech27/",
+      "source": "https://buidlguidl.com/",
+      "hiring_status": "unconfirmed",
+      "draft_id": "r6968444894796953985",
+      "message_id": "1a1797fa5292814b",
+      "verification": "verified",
+      "attachment_status": "attached",
+      "attachment_filename": "Aman-Resume.pdf",
+      "attachment_bytes": 106346
+    },
+    {
+      "company": "Ninjacart",
+      "to": "careers@ninjacart.com",
+      "website": "https://ninjacart.com",
+      "category": "AgriTech & Food Supply",
+      "provided_category": "AgriTech & Farm-Tech Startups",
+      "focus": "Fresh produce supply chain",
+      "contact_type": "recruiting",
+      "provided_categories": [
+        "AgriTech & Farm-Tech Startups"
+      ],
+      "brands": [
+        "Ninjacart"
+      ],
+      "related_websites": [
+        "https://ninjacart.com"
+      ],
+      "email_verification": "user_provided_unverified",
+      "status": "saved",
+      "subject": "Frontend opportunities | Agricultural commerce products",
+      "body": "Hello Ninjacart hiring team,\n\nYour product range across agricultural trade makes frontend consistency especially interesting: different users need tools that fit their role without adding complexity.\n\nI’ve built React/TypeScript tenant administration and integration interfaces at Bounteous, alongside API-connected applications at RWS. A recent startup project was Ewaa Packages AI, whose team supported multiple brands while guiding users through travel preferences. I enjoy working closely on how a product serves its users and would like to continue that approach. My attached CV is submitted for suitable senior frontend roles across your commerce products.\n\nAman Khan\n+91 8223037373\nhttps://github.com/LastNameKhan\nhttps://www.linkedin.com/in/amank-tech27/",
+      "source": "https://ninjacart.com/",
+      "hiring_status": "unconfirmed",
+      "draft_id": "r718320076622888145",
+      "message_id": "1a1797fce278cb03",
+      "verification": "verified",
+      "attachment_status": "attached",
+      "attachment_filename": "Aman-Resume.pdf",
+      "attachment_bytes": 106346
+    },
+    {
+      "company": "DeHaat",
+      "to": "careers@agrevolution.in",
+      "website": "https://agrevolution.in",
+      "category": "AgriTech & Food Supply",
+      "provided_category": "AgriTech & Farm-Tech Startups",
+      "focus": "Agricultural services and inputs",
+      "contact_type": "recruiting",
+      "provided_categories": [
+        "AgriTech & Farm-Tech Startups"
+      ],
+      "brands": [
+        "DeHaat"
+      ],
+      "related_websites": [
+        "https://agrevolution.in"
+      ],
+      "email_verification": "user_provided_unverified",
+      "status": "saved",
+      "subject": "Senior React candidate | Farmer-facing digital services",
+      "body": "Hi DeHaat team,\n\nYour seeds-to-market offering brings advisory, inputs and market access into the same ecosystem. I’d be interested in frontend work that makes those services easier to navigate.\n\nMy resume, attached here, covers React/TypeScript applications, multilingual interfaces and API integration. I also worked with a startup team on Ewaa Packages AI; our system used conversation and guided input to collect the details needed for useful recommendations. That work strengthened my interest in practical product development with close team involvement. Could you consider this background for relevant senior frontend opportunities?\n\nAman Khan\n+91 8223037373\nhttps://github.com/LastNameKhan\nhttps://www.linkedin.com/in/amank-tech27/",
+      "source": "https://agrevolution.in/",
+      "hiring_status": "unconfirmed",
+      "draft_id": "r-4456102713591133828",
+      "message_id": "1a1797ffa921976e",
+      "verification": "verified",
+      "attachment_status": "attached",
+      "attachment_filename": "Aman-Resume.pdf",
+      "attachment_bytes": 106346
+    },
+    {
+      "company": "WayCool",
+      "to": "careers@waycool.in",
+      "website": "https://waycool.in",
+      "category": "AgriTech & Food Supply",
+      "provided_category": "AgriTech & Farm-Tech Startups",
+      "focus": "Food supply and agricultural logistics",
+      "contact_type": "recruiting",
+      "provided_categories": [
+        "AgriTech & Farm-Tech Startups"
+      ],
+      "brands": [
+        "WayCool"
+      ],
+      "related_websites": [
+        "https://waycool.in"
+      ],
+      "email_verification": "user_provided_unverified",
+      "status": "saved",
+      "subject": "Senior frontend inquiry | Food supply-chain interfaces",
+      "body": "Hello WayCool recruiting team,\n\nI’m interested in frontend engineering around the retailer and distribution workflows described on your logistics page. Bringing a food supply chain into usable software is the kind of operational product challenge I’d like to work on.\n\nAt Bounteous, I developed React/TypeScript configuration tools; at RWS, I worked with real-time APIs. I also contributed to Ewaa Packages AI in a startup team, whose system assembled choices from live inventory. I’d enjoy continuing that connection between operational data and a clear user journey. My CV accompanies this inquiry for suitable frontend roles.\n\nAman Khan\n+91 8223037373\nhttps://github.com/LastNameKhan\nhttps://www.linkedin.com/in/amank-tech27/",
+      "source": "https://waycool.in/logistic-distribution-solution",
+      "hiring_status": "unconfirmed",
+      "draft_id": "r-3301959302410512811",
+      "message_id": "1a1798024cd1ea88",
+      "verification": "verified",
+      "attachment_status": "attached",
+      "attachment_filename": "Aman-Resume.pdf",
+      "attachment_bytes": 106346
+    },
+    {
+      "company": "Otipy / Crofarm",
+      "to": "careers@otipy.com",
+      "website": "https://otipy.com",
+      "category": "AgriTech & Food Supply",
+      "provided_category": "AgriTech & Farm-Tech Startups",
+      "focus": "Farm-to-table commerce",
+      "contact_type": "recruiting",
+      "provided_categories": [
+        "AgriTech & Farm-Tech Startups"
+      ],
+      "brands": [
+        "Otipy / Crofarm"
+      ],
+      "related_websites": [
+        "https://otipy.com"
+      ],
+      "email_verification": "user_provided_unverified",
+      "status": "held_for_review",
+      "reason": "Reported closure in May 2025; official website unavailable.",
+      "source": "https://www.livemint.com/companies/blinkit-instamart-grofers-farm-produce-agri-tech-quick-commerce-zepto-kirana-otipy-agriculture-startups/11753087991560.html"
+    },
+    {
+      "company": "Gramophone",
+      "to": "careers@gramophone.in",
+      "website": "https://gramophone.in",
+      "category": "AgriTech & Food Supply",
+      "provided_category": "AgriTech & Farm-Tech Startups",
+      "focus": "Agronomy and farm advisory",
+      "contact_type": "recruiting",
+      "provided_categories": [
+        "AgriTech & Farm-Tech Startups"
+      ],
+      "brands": [
+        "Gramophone"
+      ],
+      "related_websites": [
+        "https://gramophone.in"
+      ],
+      "email_verification": "user_provided_unverified",
+      "status": "saved",
+      "subject": "React engineer | Agronomy and farm management products",
+      "body": "Hi Gramophone hiring team,\n\nYour scientific crop calendar and farm management offering caught my attention alongside the agronomy and marketplace services. I’d like to help make such information useful through well-structured frontend experiences.\n\nI have senior React/TypeScript experience, including multilingual applications at RWS. In a startup team, I also worked on Ewaa Packages AI, whose conversational flow collected dates, budget and preferences before generating choices. I enjoy working on products that guide users through decisions rather than leaving them with a complex form. Please consider the attached resume for frontend engineering opportunities.\n\nAman Khan\n+91 8223037373\nhttps://github.com/LastNameKhan\nhttps://www.linkedin.com/in/amank-tech27/",
+      "source": "https://gramophone.in/",
+      "hiring_status": "unconfirmed",
+      "draft_id": "r9046706349224913676",
+      "message_id": "1a179804df13c0e7",
+      "verification": "verified",
+      "attachment_status": "attached",
+      "attachment_filename": "Aman-Resume.pdf",
+      "attachment_bytes": 106346
+    },
+    {
+      "company": "LoadShare Networks",
+      "to": "careers@loadshare.net",
+      "website": "https://loadshare.net",
+      "category": "Logistics & Supply Chain",
+      "provided_category": "Advanced Logistics & Supply Chain Tech",
+      "focus": "SME logistics network",
+      "contact_type": "recruiting",
+      "provided_categories": [
+        "Advanced Logistics & Supply Chain Tech"
+      ],
+      "brands": [
+        "LoadShare Networks"
+      ],
+      "related_websites": [
+        "https://loadshare.net"
+      ],
+      "email_verification": "user_provided_unverified",
+      "status": "saved",
+      "subject": "Senior frontend engineer | Last-mile operations software",
+      "body": "Hello LoadShare team,\n\nI’d like to contribute to frontend tools around your last-mile logistics platform. Coordinating delivery activity across a fragmented network seems a useful setting for clear operational interfaces.\n\nMy experience includes real-time React applications and reusable TypeScript components. I also worked with a startup team on Ewaa Packages AI, whose system connected live inventory to choices that users could understand and change. I’m keen to continue working directly with a product team on simplifying complex services. My attached resume is submitted for relevant senior frontend engineering opportunities.\n\nAman Khan\n+91 8223037373\nhttps://github.com/LastNameKhan\nhttps://www.linkedin.com/in/amank-tech27/",
+      "source": "https://loadshare.net/about",
+      "hiring_status": "unconfirmed",
+      "draft_id": "r8345643007897122487",
+      "message_id": "1a17980d0a7685a1",
+      "verification": "verified",
+      "attachment_status": "attached",
+      "attachment_filename": "Aman-Resume.pdf",
+      "attachment_bytes": 106346
+    },
+    {
+      "company": "Prozo",
+      "to": "careers@prozo.com",
+      "website": "https://prozo.com",
+      "category": "Logistics & Supply Chain",
+      "provided_category": "Advanced Logistics & Supply Chain Tech",
+      "focus": "Supply-chain and warehousing technology",
+      "contact_type": "recruiting",
+      "provided_categories": [
+        "Advanced Logistics & Supply Chain Tech"
+      ],
+      "brands": [
+        "Prozo"
+      ],
+      "related_websites": [
+        "https://prozo.com"
+      ],
+      "email_verification": "user_provided_unverified",
+      "status": "saved",
+      "subject": "React/TypeScript application | Supply-chain control tools",
+      "body": "Hi Prozo hiring team,\n\nYour Control Tower and unified warehousing/logistics platform caught my attention. I’m interested in frontend work that gives operators a coherent view across those connected activities.\n\nAt Bounteous, I built configuration-heavy React/TypeScript interfaces with tenant settings and permissions. My recent startup work includes Ewaa Packages AI, whose team brought multiple live inventory sources into one package-building journey. I enjoyed that product integration challenge and would like to stay close to similar hands-on development. The enclosed CV provides my background for suitable senior frontend roles.\n\nAman Khan\n+91 8223037373\nhttps://github.com/LastNameKhan\nhttps://www.linkedin.com/in/amank-tech27/",
+      "source": "https://www.prozo.com/",
+      "hiring_status": "unconfirmed",
+      "draft_id": "r3478178019308703965",
+      "message_id": "1a17980fda7c8fa3",
+      "verification": "verified",
+      "attachment_status": "attached",
+      "attachment_filename": "Aman-Resume.pdf",
+      "attachment_bytes": 106346
+    },
+    {
+      "company": "WareIQ",
+      "to": "careers@wareiq.com",
+      "website": "https://wareiq.com",
+      "category": "Logistics & Supply Chain",
+      "provided_category": "Advanced Logistics & Supply Chain Tech",
+      "focus": "E-commerce fulfilment",
+      "contact_type": "recruiting",
+      "provided_categories": [
+        "Advanced Logistics & Supply Chain Tech"
+      ],
+      "brands": [
+        "WareIQ"
+      ],
+      "related_websites": [
+        "https://wareiq.com"
+      ],
+      "email_verification": "user_provided_unverified",
+      "status": "saved",
+      "subject": "Frontend engineering inquiry | Multi-channel fulfillment",
+      "body": "Hello WareIQ team,\n\nYour mix of D2C, marketplace, quick-commerce and B2B fulfillment makes a consistent operating experience especially interesting. I’d like to help build frontend tools that keep different workflows understandable.\n\nI bring React/TypeScript application experience, real-time APIs and state management. With a startup team, I also contributed to Ewaa Packages AI; our product compared live travel inventory while keeping selections editable. That experience is why I’m interested in product teams where frontend decisions directly affect how a service is used. I’ve attached my resume for senior frontend consideration.\n\nAman Khan\n+91 8223037373\nhttps://github.com/LastNameKhan\nhttps://www.linkedin.com/in/amank-tech27/",
+      "source": "https://wareiq.com/",
+      "hiring_status": "unconfirmed",
+      "draft_id": "r936302948502609172",
+      "message_id": "1a1798127c17db1f",
+      "verification": "verified",
+      "attachment_status": "attached",
+      "attachment_filename": "Aman-Resume.pdf",
+      "attachment_bytes": 106346
+    },
+    {
+      "company": "ElasticRun",
+      "to": "careers@elastic.run",
+      "website": "https://elastic.run",
+      "category": "Logistics & Supply Chain",
+      "provided_category": "Advanced Logistics & Supply Chain Tech",
+      "focus": "Fulfillment for e-commerce, quick commerce and B2B",
+      "contact_type": "recruiting",
+      "provided_categories": [
+        "Advanced Logistics & Supply Chain Tech"
+      ],
+      "brands": [
+        "ElasticRun"
+      ],
+      "related_websites": [
+        "https://elastic.run"
+      ],
+      "email_verification": "user_provided_unverified",
+      "status": "saved",
+      "subject": "Senior React candidate | Fulfillment platform interfaces",
+      "body": "Hi ElasticRun recruitment team,\n\nI noticed your current focus on fulfillment across e-commerce, quick commerce and B2B. I’m interested in frontend opportunities around the operational tools supporting that network.\n\nAt RWS, I integrated real-time API data into React applications and improved Redux rendering performance. I also worked on Ewaa Packages AI in a startup team, whose engine combined multiple live sources into ranked travel packages. I enjoy that kind of product work: translating changing data into a clear experience. Please consider my attached CV for senior frontend roles aligned with these strengths.\n\nAman Khan\n+91 8223037373\nhttps://github.com/LastNameKhan\nhttps://www.linkedin.com/in/amank-tech27/",
+      "source": "https://elastic.run/",
+      "hiring_status": "unconfirmed",
+      "draft_id": "r4898510543378374348",
+      "message_id": "1a17981510db3100",
+      "verification": "verified",
+      "attachment_status": "attached",
+      "attachment_filename": "Aman-Resume.pdf",
+      "attachment_bytes": 106346
+    },
+    {
+      "company": "Boxnbiz",
+      "to": "careers@boxnbiz.com",
+      "website": "https://boxnbiz.com",
+      "category": "Logistics & Supply Chain",
+      "provided_category": "Advanced Logistics & Supply Chain Tech",
+      "focus": "Digital freight forwarding",
+      "contact_type": "recruiting",
+      "provided_categories": [
+        "Advanced Logistics & Supply Chain Tech"
+      ],
+      "brands": [
+        "Boxnbiz"
+      ],
+      "related_websites": [
+        "https://boxnbiz.com"
+      ],
+      "email_verification": "user_provided_unverified",
+      "status": "saved",
+      "subject": "Senior frontend application | Digital freight workflows",
+      "body": "Hello Boxnbiz team,\n\nFreightdesk and your ocean, air and customs services suggest an interesting frontend challenge: helping users follow a shipment across several stages without losing the context.\n\nI’ve built React/TypeScript interfaces for integrations and structured configuration, with real-time application experience at RWS. My recent startup project was Ewaa Packages AI, whose team joined multiple travel services into one customer journey. I’d like to continue working closely on products that simplify complicated processes. My resume is attached for suitable senior frontend engineering opportunities around your digital freight tools.\n\nAman Khan\n+91 8223037373\nhttps://github.com/LastNameKhan\nhttps://www.linkedin.com/in/amank-tech27/",
+      "source": "https://www.boxnbiz.com/",
+      "hiring_status": "unconfirmed",
+      "draft_id": "r-8675574629417304386",
+      "message_id": "1a179817a6aada7d",
+      "verification": "verified",
+      "attachment_status": "attached",
+      "attachment_filename": "Aman-Resume.pdf",
+      "attachment_bytes": 106346
+    },
+    {
+      "company": "Ather Energy",
+      "to": "careers@atherenergy.com",
+      "website": "https://atherenergy.com",
+      "category": "EV & Clean Energy",
+      "provided_category": "CleanTech, EV & Energy Startups",
+      "focus": "Electric scooters and connected vehicles",
+      "contact_type": "recruiting",
+      "provided_categories": [
+        "CleanTech, EV & Energy Startups"
+      ],
+      "brands": [
+        "Ather Energy"
+      ],
+      "related_websites": [
+        "https://atherenergy.com"
+      ],
+      "email_verification": "user_provided_unverified",
+      "status": "saved",
+      "subject": "Frontend opportunities | Electric mobility customer journeys",
+      "body": "Hi Ather recruitment team,\n\nComparing models, exploring finance options and arranging a test ride form a connected digital journey I’d enjoy helping build. I’m reaching out about senior frontend roles supporting that experience.\n\nMy background includes React/TypeScript architecture, reusable components and validated forms. I also contributed to Ewaa Packages AI with a startup team, whose product guided users from preferences to package choices they could adjust. I value the close product collaboration I experienced there and would like to bring that approach to an engineering team building for everyday users. My CV accompanies this note.\n\nAman Khan\n+91 8223037373\nhttps://github.com/LastNameKhan\nhttps://www.linkedin.com/in/amank-tech27/",
+      "source": "https://www.atherenergy.com/",
+      "hiring_status": "unconfirmed",
+      "draft_id": "r-6597468267022346858",
+      "message_id": "1a17981a4166f220",
+      "verification": "verified",
+      "attachment_status": "attached",
+      "attachment_filename": "Aman-Resume.pdf",
+      "attachment_bytes": 106346
+    },
+    {
+      "company": "Ola Electric",
+      "to": "careers@olaelectric.com",
+      "website": "https://olaelectric.com",
+      "category": "EV & Clean Energy",
+      "provided_category": "CleanTech, EV & Energy Startups",
+      "focus": "Electric mobility and batteries",
+      "contact_type": "recruiting",
+      "provided_categories": [
+        "CleanTech, EV & Energy Startups"
+      ],
+      "brands": [
+        "Ola Electric"
+      ],
+      "related_websites": [
+        "https://olaelectric.com"
+      ],
+      "email_verification": "user_provided_unverified",
+      "status": "saved",
+      "subject": "Senior frontend candidate | EV discovery and booking",
+      "body": "Hello Ola Electric hiring team,\n\nI’m interested in frontend engineering around your vehicle discovery, test-ride and booking experiences. Helping users navigate a detailed product range is work where clear interaction design can make a practical difference.\n\nAt Bounteous, I worked on React/TypeScript configuration flows; at RWS, I improved application reliability and performance. I’ve also worked in a startup team on Ewaa Packages AI, whose system guided travel choices using preferences and live availability. I’d enjoy continuing that direct involvement in a product’s customer journey. The attached resume covers my senior frontend background.\n\nAman Khan\n+91 8223037373\nhttps://github.com/LastNameKhan\nhttps://www.linkedin.com/in/amank-tech27/",
+      "source": "https://www.olaelectric.com/",
+      "hiring_status": "unconfirmed",
+      "draft_id": "r5548975785588321712",
+      "message_id": "1a179820b9d48807",
+      "verification": "verified",
+      "attachment_status": "attached",
+      "attachment_filename": "Aman-Resume.pdf",
+      "attachment_bytes": 106346
+    },
+    {
+      "company": "Bounce",
+      "to": "careers@bounceshare.com",
+      "website": "https://bounceshare.com",
+      "category": "EV & Clean Energy",
+      "provided_category": "CleanTech, EV & Energy Startups",
+      "focus": "Electric mobility and battery swapping",
+      "contact_type": "recruiting",
+      "provided_categories": [
+        "CleanTech, EV & Energy Startups"
+      ],
+      "brands": [
+        "Bounce"
+      ],
+      "related_websites": [
+        "https://bounceshare.com"
+      ],
+      "email_verification": "user_provided_unverified",
+      "status": "saved",
+      "subject": "Senior React engineer | Electric scooter product experiences",
+      "body": "Hi Bounce team,\n\nYour current Bounce Infinity product and test-ride journeys are the reason for this frontend inquiry. I’d be interested in helping users move smoothly from understanding a scooter to taking the next step.\n\nI bring React/TypeScript product experience, API integration and reusable interface architecture. Recently, I contributed to Ewaa Packages AI with a startup team; our product used guided inputs to turn initial preferences into concrete options. I like being part of a team that refines those interactions as the product evolves. My resume is enclosed for appropriate senior frontend opportunities.\n\nAman Khan\n+91 8223037373\nhttps://github.com/LastNameKhan\nhttps://www.linkedin.com/in/amank-tech27/",
+      "source": "https://bounceinfinity.com/",
+      "hiring_status": "unconfirmed",
+      "draft_id": "r4911153779230276297",
+      "message_id": "1a179823416eb573",
+      "verification": "verified",
+      "attachment_status": "attached",
+      "attachment_filename": "Aman-Resume.pdf",
+      "attachment_bytes": 106346
+    },
+    {
+      "company": "Exicom",
+      "to": "hr@exicom.in",
+      "website": "https://exicom.in",
+      "category": "EV & Clean Energy",
+      "provided_category": "CleanTech, EV & Energy Startups",
+      "focus": "EV charging and power systems",
+      "contact_type": "recruiting",
+      "provided_categories": [
+        "CleanTech, EV & Energy Startups"
+      ],
+      "brands": [
+        "Exicom"
+      ],
+      "related_websites": [
+        "https://exicom.in"
+      ],
+      "email_verification": "user_provided_unverified",
+      "status": "saved",
+      "subject": "Frontend engineering | EV charging software products",
+      "body": "Hello Exicom team,\n\nSpin Control and the software around your charging products interest me as frontend engineering opportunities. Clear setup and understandable information can make a technically complex product much easier to use.\n\nMy experience includes React/TypeScript administration tools, configuration validation and permission-aware UI at Bounteous. I also worked on the startup project Ewaa Packages AI, whose team checked inputs and surfaced blockers before advancing a user’s request. I’d enjoy continuing that attention to dependable product interactions. I’ve attached my CV for senior frontend roles relevant to your software teams.\n\nAman Khan\n+91 8223037373\nhttps://github.com/LastNameKhan\nhttps://www.linkedin.com/in/amank-tech27/",
+      "source": "https://www.exicom.com/",
+      "hiring_status": "unconfirmed",
+      "draft_id": "r-4766736011686995410",
+      "message_id": "1a179825f16cae90",
+      "verification": "verified",
+      "attachment_status": "attached",
+      "attachment_filename": "Aman-Resume.pdf",
+      "attachment_bytes": 106346
+    },
+    {
+      "company": "Statiq",
+      "to": "careers@statiq.in",
+      "website": "https://statiq.in",
+      "category": "EV & Clean Energy",
+      "provided_category": "CleanTech, EV & Energy Startups",
+      "focus": "EV charging network",
+      "contact_type": "recruiting",
+      "provided_categories": [
+        "CleanTech, EV & Energy Startups"
+      ],
+      "brands": [
+        "Statiq"
+      ],
+      "related_websites": [
+        "https://statiq.in"
+      ],
+      "email_verification": "user_provided_unverified",
+      "status": "saved",
+      "subject": "Senior frontend inquiry | Charger discovery and user journeys",
+      "body": "Hi Statiq hiring team,\n\nFinding a charger and understanding the next step is a practical frontend problem I’d be excited to work on. Your charging network and consumer app make that an appealing product setting.\n\nI’ve developed React/TypeScript applications with API integration, including real-time data at RWS. In a startup team, I recently contributed to Ewaa Packages AI, whose system resolved location ambiguity before retrieving travel options. I’d like to keep working closely on location-aware customer journeys and usable product details. My attached resume provides my experience for senior frontend consideration.\n\nAman Khan\n+91 8223037373\nhttps://github.com/LastNameKhan\nhttps://www.linkedin.com/in/amank-tech27/",
+      "source": "https://www.statiq.in/",
+      "hiring_status": "unconfirmed",
+      "draft_id": "r-2719410494047414694",
+      "message_id": "1a1798288a391dd1",
+      "verification": "verified",
+      "attachment_status": "attached",
+      "attachment_filename": "Aman-Resume.pdf",
+      "attachment_bytes": 106346
+    },
+    {
+      "company": "Benovymed Healthcare",
+      "to": "contact@benovymed.com",
+      "website": "https://benovymed.com",
+      "category": "HealthTech & Digital Healthcare",
+      "provided_category": "HealthTech & Digital Healthcare Startups",
+      "focus": "Digital healthcare",
+      "contact_type": "general",
+      "provided_categories": [
+        "HealthTech & Digital Healthcare Startups"
+      ],
+      "brands": [
+        "Benovymed Healthcare"
+      ],
+      "related_websites": [
+        "https://benovymed.com"
+      ],
+      "email_verification": "user_provided_unverified",
+      "status": "saved",
+      "subject": "Senior Frontend Engineer inquiry | Digital health software",
+      "body": "Hello Benovymed team,\n\nCould you share my attached resume with the engineering hiring team for senior frontend opportunities? I’m interested in the user-facing software around your Digital AI Health SaaS offering.\n\nMy background is React/TypeScript application development, including tenant administration, integration settings and tested interfaces. I also contributed to Ewaa Packages AI with a startup team; our system turned conversational input into structured requirements before presenting choices. I enjoy product work that makes a complex capability approachable and would like to continue the close collaboration I’ve experienced in a startup environment.\n\nAman Khan\n+91 8223037373\nhttps://github.com/LastNameKhan\nhttps://www.linkedin.com/in/amank-tech27/",
+      "source": "https://benovymed.com/",
+      "hiring_status": "unconfirmed",
+      "draft_id": "r9160498659261980105",
+      "message_id": "1a17982b5165c7ac",
+      "verification": "verified",
+      "attachment_status": "attached",
+      "attachment_filename": "Aman-Resume.pdf",
+      "attachment_bytes": 106346
+    },
+    {
+      "company": "Portea Medical",
+      "to": "careers@portea.com",
+      "website": "https://portea.com",
+      "category": "HealthTech & Digital Healthcare",
+      "provided_category": "HealthTech & Digital Healthcare Startups",
+      "focus": "Home healthcare",
+      "contact_type": "recruiting",
+      "provided_categories": [
+        "HealthTech & Digital Healthcare Startups"
+      ],
+      "brands": [
+        "Portea Medical"
+      ],
+      "related_websites": [
+        "https://portea.com"
+      ],
+      "email_verification": "user_provided_unverified",
+      "status": "saved",
+      "subject": "Frontend application | At-home healthcare booking",
+      "body": "Hi Portea Medical team,\n\nChoosing between nursing, physiotherapy and other home-care services calls for a clear booking journey. I’m interested in frontend work that helps users find the appropriate information and take that next step.\n\nI have 7+ years of frontend experience, including React/TypeScript, validation and API integration. My startup involvement includes Ewaa Packages AI, whose team collected requirements conversationally and checked them before generating options. I enjoyed working closely on that guided experience and would like to bring the same product attention to another team. Please review my enclosed CV for senior frontend roles.\n\nAman Khan\n+91 8223037373\nhttps://github.com/LastNameKhan\nhttps://www.linkedin.com/in/amank-tech27/",
+      "source": "https://www.portea.com/",
+      "hiring_status": "unconfirmed",
+      "draft_id": "r304302304581850291",
+      "message_id": "1a17982de5381389",
+      "verification": "verified",
+      "attachment_status": "attached",
+      "attachment_filename": "Aman-Resume.pdf",
+      "attachment_bytes": 106346
+    },
+    {
+      "company": "Niramai",
+      "to": "hr@niramai.com",
+      "website": "https://niramai.com",
+      "category": "HealthTech & Digital Healthcare",
+      "provided_category": "HealthTech & Digital Healthcare Startups",
+      "focus": "AI thermal screening",
+      "contact_type": "recruiting",
+      "provided_categories": [
+        "HealthTech & Digital Healthcare Startups"
+      ],
+      "brands": [
+        "Niramai"
+      ],
+      "related_websites": [
+        "https://niramai.com"
+      ],
+      "email_verification": "user_provided_unverified",
+      "status": "saved",
+      "subject": "Senior frontend inquiry | Accessible screening experiences",
+      "body": "Hello Niramai team,\n\nThermalytix’s privacy-aware screening focus caught my attention. I’d like to explore frontend work on clear, dependable digital experiences around your technology, drawing on my application engineering background.\n\nI’ve delivered React/TypeScript interfaces with reusable components, API integration and validation. My recent startup project was Ewaa Packages AI; our team guided users through input requirements and reported blockers rather than proceeding with bad data. I enjoy being closely involved in that practical side of product development. I’ve attached my resume for senior frontend opportunities where these skills could contribute.\n\nAman Khan\n+91 8223037373\nhttps://github.com/LastNameKhan\nhttps://www.linkedin.com/in/amank-tech27/",
+      "source": "https://niramai.com/",
+      "hiring_status": "unconfirmed",
+      "draft_id": "r-1422198444415041363",
+      "message_id": "1a179834b078bb64",
+      "verification": "verified",
+      "attachment_status": "attached",
+      "attachment_filename": "Aman-Resume.pdf",
+      "attachment_bytes": 106346
+    },
+    {
+      "company": "Dozee",
+      "to": "careers@dozee.ai",
+      "website": "https://dozee.ai",
+      "category": "HealthTech & Digital Healthcare",
+      "provided_category": "HealthTech & Digital Healthcare Startups",
+      "focus": "Contactless patient monitoring",
+      "contact_type": "recruiting",
+      "provided_categories": [
+        "HealthTech & Digital Healthcare Startups"
+      ],
+      "brands": [
+        "Dozee"
+      ],
+      "related_websites": [
+        "https://dozee.ai"
+      ],
+      "email_verification": "user_provided_unverified",
+      "status": "saved",
+      "subject": "React/TypeScript engineer | Patient monitoring interfaces",
+      "body": "Hi Dozee hiring team,\n\nYour early-warning system’s use of vital trends and risk scoring makes presentation particularly important. I’m interested in frontend engineering that helps users understand changing information clearly.\n\nMy experience includes real-time React API integration and state performance work at RWS, as well as structured administration tools at Bounteous. I also worked with a startup team on Ewaa Packages AI, whose product turned multiple live data sources into a manageable set of options. I’d like to continue that close engagement with a product’s usability. My attached CV provides the background for senior frontend consideration.\n\nAman Khan\n+91 8223037373\nhttps://github.com/LastNameKhan\nhttps://www.linkedin.com/in/amank-tech27/",
+      "source": "https://www.dozeehealth.ai/science",
+      "hiring_status": "unconfirmed",
+      "draft_id": "r-8456542629551380224",
+      "message_id": "1a1798376610c44f",
+      "verification": "verified",
+      "attachment_status": "attached",
+      "attachment_filename": "Aman-Resume.pdf",
+      "attachment_bytes": 106346
+    },
+    {
+      "company": "Aurum PropTech",
+      "to": "contact@aurumproptech.in",
+      "website": "https://aurumproptech.in",
+      "category": "PropTech & Housing",
+      "provided_category": "PropTech & Real Estate Tech Startups",
+      "focus": "Real estate technology",
+      "contact_type": "general",
+      "provided_categories": [
+        "PropTech & Real Estate Tech Startups"
+      ],
+      "brands": [
+        "Aurum PropTech"
+      ],
+      "related_websites": [
+        "https://aurumproptech.in"
+      ],
+      "email_verification": "user_provided_unverified",
+      "status": "saved",
+      "subject": "Senior Frontend Engineer inquiry | Connected property products",
+      "body": "Hello Aurum PropTech team,\n\nI’m interested in senior frontend roles across your connected real-estate ecosystem, and would appreciate this note reaching engineering hiring. The combination of rental services and enterprise property software is a compelling space for consistent, reusable interfaces.\n\nAt Bounteous, I built React/TypeScript tenant-aware configuration tools. I’ve also contributed to Ewaa Packages AI with a startup team, whose conversational system supported multiple travel brands. I’d enjoy bringing that experience to product teams working across related customer journeys. My resume is enclosed, with GitHub and LinkedIn links below.\n\nAman Khan\n+91 8223037373\nhttps://github.com/LastNameKhan\nhttps://www.linkedin.com/in/amank-tech27/",
+      "source": "https://www.aurumproptech.in/about",
+      "hiring_status": "unconfirmed",
+      "draft_id": "r3312269635650850590",
+      "message_id": "1a179839e618e41a",
+      "verification": "verified",
+      "attachment_status": "attached",
+      "attachment_filename": "Aman-Resume.pdf",
+      "attachment_bytes": 106346
+    },
+    {
+      "company": "PropTech Solutions",
+      "to": "support@propadis.com",
+      "website": "https://proptechsolutions.in",
+      "category": "PropTech & Housing",
+      "provided_category": "PropTech & Real Estate Tech Startups",
+      "focus": "Property management technology",
+      "contact_type": "support",
+      "provided_categories": [
+        "PropTech & Real Estate Tech Startups"
+      ],
+      "brands": [
+        "PropTech Solutions"
+      ],
+      "related_websites": [
+        "https://proptechsolutions.in"
+      ],
+      "email_verification": "user_provided_unverified",
+      "status": "held_for_review",
+      "reason": "Email domain propadis.com does not match supplied company website proptechsolutions.in; awaiting user clarification.",
+      "source": "https://proptechsolutions.in"
+    },
+    {
+      "company": "Square Yards",
+      "to": "careers@squareyards.com",
+      "website": "https://squareyards.com",
+      "category": "PropTech & Housing",
+      "provided_category": "PropTech & Real Estate Tech Startups",
+      "focus": "Real estate and mortgage platform",
+      "contact_type": "recruiting",
+      "provided_categories": [
+        "PropTech & Real Estate Tech Startups"
+      ],
+      "brands": [
+        "Square Yards"
+      ],
+      "related_websites": [
+        "https://squareyards.com"
+      ],
+      "email_verification": "user_provided_unverified",
+      "status": "saved",
+      "subject": "Senior frontend application | Property journeys from search onward",
+      "body": "Hi Square Yards recruitment team,\n\nYour platform connects property search with finance, management and interiors. I’d enjoy frontend work that preserves a user’s context as they move across those related services.\n\nI bring React/TypeScript experience in reusable architecture, API-connected screens and complex configuration. In a startup team, I worked on Ewaa Packages AI; our product brought flights, hotels and activities into one editable journey. I’m keen to continue hands-on product collaboration of that kind. The attached resume is submitted for suitable senior frontend opportunities within your digital property products.\n\nAman Khan\n+91 8223037373\nhttps://github.com/LastNameKhan\nhttps://www.linkedin.com/in/amank-tech27/",
+      "source": "https://www.squareyards.com/",
+      "hiring_status": "unconfirmed",
+      "draft_id": "r8315918041312761421",
+      "message_id": "1a17983cd9c31c5e",
+      "verification": "verified",
+      "attachment_status": "attached",
+      "attachment_filename": "Aman-Resume.pdf",
+      "attachment_bytes": 106346
+    },
+    {
+      "company": "Stanza Living",
+      "to": "careers@stanzaliving.com",
+      "website": "https://stanzaliving.com",
+      "category": "PropTech & Housing",
+      "provided_category": "PropTech & Real Estate Tech Startups",
+      "focus": "Managed accommodation",
+      "contact_type": "recruiting",
+      "provided_categories": [
+        "PropTech & Real Estate Tech Startups"
+      ],
+      "brands": [
+        "Stanza Living"
+      ],
+      "related_websites": [
+        "https://stanzaliving.com"
+      ],
+      "email_verification": "user_provided_unverified",
+      "status": "saved",
+      "subject": "Frontend engineering inquiry | Managed living discovery",
+      "body": "Hello Stanza Living team,\n\nSearching for a residence near a college, office or locality is a user journey I’d be interested in helping refine. Your managed-living offering makes the clarity of discovery and property information especially useful.\n\nMy experience includes React/TypeScript applications, multilingual interfaces and real-time APIs. I also contributed to Ewaa Packages AI with a startup team, whose system interpreted destination preferences and presented relevant options. I enjoyed working close to that experience and want to keep that product involvement. My CV is attached for senior frontend roles aligned with these skills.\n\nAman Khan\n+91 8223037373\nhttps://github.com/LastNameKhan\nhttps://www.linkedin.com/in/amank-tech27/",
+      "source": "https://www.stanzaliving.com/",
+      "hiring_status": "unconfirmed",
+      "draft_id": "r7220979128381199137",
+      "message_id": "1a17983f71e7e57f",
+      "verification": "verified",
+      "attachment_status": "attached",
+      "attachment_filename": "Aman-Resume.pdf",
+      "attachment_bytes": 106346
+    },
+    {
+      "company": "Colive",
+      "to": "careers@colive.com",
+      "website": "https://colive.com",
+      "category": "PropTech & Housing",
+      "provided_category": "PropTech & Real Estate Tech Startups",
+      "focus": "Technology-enabled shared living",
+      "contact_type": "recruiting",
+      "provided_categories": [
+        "PropTech & Real Estate Tech Startups"
+      ],
+      "brands": [
+        "Colive"
+      ],
+      "related_websites": [
+        "https://colive.com"
+      ],
+      "email_verification": "user_provided_unverified",
+      "status": "saved",
+      "subject": "Senior React candidate | Resident and rental experiences",
+      "body": "Hi Colive team,\n\nYour site’s resident activities, bookings and payment views stood out alongside rental discovery. I’d like to work on frontend products that remain useful after the initial booking, not just during search.\n\nAt Bounteous, I developed React/TypeScript administration and configuration workflows. In my startup work on Ewaa Packages AI, our team supported restoring earlier conversations and changing travel selections after the first result. I enjoy that continuing relationship between a product and its users. Please consider my attached resume for suitable senior frontend engineering opportunities.\n\nAman Khan\n+91 8223037373\nhttps://github.com/LastNameKhan\nhttps://www.linkedin.com/in/amank-tech27/",
+      "source": "https://www.colive.com/",
+      "hiring_status": "unconfirmed",
+      "draft_id": "r1477400224002384978",
+      "message_id": "1a179842283b2345",
+      "verification": "verified",
+      "attachment_status": "attached",
+      "attachment_filename": "Aman-Resume.pdf",
+      "attachment_bytes": 106346
+    },
+    {
+      "company": "boAt",
+      "to": "careers@boat-lifestyle.com",
+      "website": "https://boat-lifestyle.com",
+      "category": "Consumer Brands & E-Commerce",
+      "provided_category": "D2C Brands & E-Commerce Startups",
+      "focus": "Consumer audio and electronics",
+      "contact_type": "recruiting",
+      "provided_categories": [
+        "D2C Brands & E-Commerce Startups"
+      ],
+      "brands": [
+        "boAt"
+      ],
+      "related_websites": [
+        "https://boat-lifestyle.com"
+      ],
+      "email_verification": "user_provided_unverified",
+      "status": "saved",
+      "subject": "Frontend application | Consumer electronics discovery",
+      "body": "Hello boAt hiring team,\n\nI’m reaching out about senior frontend engineering for your digital shopping experiences. Helping people compare audio products and navigate a broad catalogue is a product challenge I’d enjoy working on.\n\nMy React/TypeScript background includes reusable interfaces, API integration and rendering performance improvements. I recently worked in a startup team on Ewaa Packages AI, whose product ranked options against user preferences and let travelers change individual selections. I’m interested in continuing that practical product work with a closely involved engineering team. My attached CV details the frontend experience I can bring.\n\nAman Khan\n+91 8223037373\nhttps://github.com/LastNameKhan\nhttps://www.linkedin.com/in/amank-tech27/",
+      "source": "https://www.boat-lifestyle.com/",
+      "hiring_status": "unconfirmed",
+      "draft_id": "r-6678454202569574490",
+      "message_id": "1a1798471e5b5ac6",
+      "verification": "verified",
+      "attachment_status": "attached",
+      "attachment_filename": "Aman-Resume.pdf",
+      "attachment_bytes": 106346
+    },
+    {
+      "company": "Wakefit",
+      "to": "careers@wakefit.co",
+      "website": "https://wakefit.co",
+      "category": "Consumer Brands & E-Commerce",
+      "provided_category": "D2C Brands & E-Commerce Startups",
+      "focus": "Sleep and home products",
+      "contact_type": "recruiting",
+      "provided_categories": [
+        "D2C Brands & E-Commerce Startups"
+      ],
+      "brands": [
+        "Wakefit"
+      ],
+      "related_websites": [
+        "https://wakefit.co"
+      ],
+      "email_verification": "user_provided_unverified",
+      "status": "saved",
+      "subject": "Senior frontend engineer | Home product shopping journeys",
+      "body": "Hi Wakefit team,\n\nYour catalogue moves from mattresses to furniture and home products, giving users several related decisions to make. I’d be interested in frontend work that makes comparing and selecting those products feel straightforward.\n\nI’ve built React/TypeScript applications with strong state management and reusable component architecture. I also contributed to Ewaa Packages AI with a startup team; our system grouped different travel services into packages while retaining individual choice. That experience reinforced my interest in user-focused startup product work. I’ve enclosed my resume for senior frontend opportunities suited to this background.\n\nAman Khan\n+91 8223037373\nhttps://github.com/LastNameKhan\nhttps://www.linkedin.com/in/amank-tech27/",
+      "source": "https://www.wakefit.co/",
+      "hiring_status": "unconfirmed",
+      "draft_id": "r6364577380474837940",
+      "message_id": "1a1798499d82b361",
+      "verification": "verified",
+      "attachment_status": "attached",
+      "attachment_filename": "Aman-Resume.pdf",
+      "attachment_bytes": 106346
+    },
+    {
+      "company": "Beardo",
+      "to": "hr@beardo.in",
+      "website": "https://beardo.in",
+      "category": "Consumer Brands & E-Commerce",
+      "provided_category": "D2C Brands & E-Commerce Startups",
+      "focus": "Grooming and personal care",
+      "contact_type": "recruiting",
+      "provided_categories": [
+        "D2C Brands & E-Commerce Startups"
+      ],
+      "brands": [
+        "Beardo"
+      ],
+      "related_websites": [
+        "https://beardo.in"
+      ],
+      "email_verification": "user_provided_unverified",
+      "status": "saved",
+      "subject": "React/TypeScript inquiry | Grooming commerce experiences",
+      "body": "Hello Beardo recruitment team,\n\nYour product categories and grooming combinations make discovery and selection interesting frontend work. I’d like to help build shopping experiences that communicate the differences clearly and remain responsive.\n\nMy background covers React/TypeScript, API-driven interfaces and state optimization. On Ewaa Packages AI, I worked with a startup team whose product ranked travel options and supported replacing items within a package. I enjoy developing those practical interactions closely with a product team. The attached resume provides my experience for relevant senior frontend roles within your consumer products business.\n\nAman Khan\n+91 8223037373\nhttps://github.com/LastNameKhan\nhttps://www.linkedin.com/in/amank-tech27/",
+      "source": "https://beardo.in/",
+      "hiring_status": "unconfirmed",
+      "draft_id": "r-5577566103771455781",
+      "message_id": "1a17984c272754b5",
+      "verification": "verified",
+      "attachment_status": "attached",
+      "attachment_filename": "Aman-Resume.pdf",
+      "attachment_bytes": 106346
+    },
+    {
+      "company": "Perfora",
+      "to": "hello@perforacare.com",
+      "website": "https://perforacare.com",
+      "category": "Consumer Brands & E-Commerce",
+      "provided_category": "D2C Brands & E-Commerce Startups",
+      "focus": "Oral care products",
+      "contact_type": "general",
+      "provided_categories": [
+        "D2C Brands & E-Commerce Startups"
+      ],
+      "brands": [
+        "Perfora"
+      ],
+      "related_websites": [
+        "https://perforacare.com"
+      ],
+      "email_verification": "user_provided_unverified",
+      "status": "saved",
+      "subject": "Senior Frontend Engineer inquiry | Oral-care commerce UX",
+      "body": "Hi Perfora team,\n\nCould you route my attached resume to your engineering hiring contact for senior frontend opportunities? I’m interested in the discovery experience across your oral-care products, where users need to understand different solutions before choosing.\n\nI’ve delivered React/TypeScript applications, reusable interfaces and performance improvements. More recently, I contributed to Ewaa Packages AI in a startup team; our product guided preferences into comparable options instead of leaving users with an unstructured catalogue. I’d enjoy continuing that hands-on approach to product building and the close collaboration I value in startup work.\n\nAman Khan\n+91 8223037373\nhttps://github.com/LastNameKhan\nhttps://www.linkedin.com/in/amank-tech27/",
+      "source": "https://perforacare.com/",
+      "hiring_status": "unconfirmed",
+      "draft_id": "r-2979469266768483944",
+      "message_id": "1a17984edaa4b3a4",
+      "verification": "verified",
+      "attachment_status": "attached",
+      "attachment_filename": "Aman-Resume.pdf",
+      "attachment_bytes": 106346
+    }
+  ]
+}
